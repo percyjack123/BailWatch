@@ -1,0 +1,1001 @@
+case_id,country,date,state,court_name,age,gender,race_ethnicity,income_level,annual_income_usd,crime_type,severity_category,prior_cases,legal_representation,location_type,bail_amount_usd,pretrial_detention_days,bail_granted
+CASE_4000,USA,2022-06-22,California,Superior Court of California,18,Male,Asian,Medium,56070,Assault,High,3,Yes,Rural,54313,1,0
+CASE_4001,USA,2022-05-24,California,Superior Court of California,47,Female,Black,High,336571,WhiteCollar,Medium,5,No,Urban,24193,195,0
+CASE_4002,USA,2023-03-09,Illinois,Cook County Circuit Court,18,Female,Asian,High,295508,Theft,Low,2,No,Rural,2268,122,1
+CASE_4003,USA,2024-02-27,Texas,Harris County District Court,49,Male,Native American,Low,15818,WhiteCollar,Low,3,Yes,Urban,4734,428,1
+CASE_4004,USA,2023-02-06,New York,New York City Criminal Court,26,Female,Black,Low,16055,Fraud,Medium,3,Yes,Urban,31016,330,1
+CASE_4005,USA,2024-01-10,Illinois,Cook County Circuit Court,51,Male,White,High,288568,Theft,Low,2,No,Urban,559,251,1
+CASE_4006,USA,2022-07-03,Illinois,Cook County Circuit Court,31,Female,Asian,Medium,87342,Fraud,Low,5,Yes,Urban,2522,111,1
+CASE_4007,USA,2022-04-05,California,Superior Court of California,57,Male,Asian,Low,25543,Theft,Low,4,No,Urban,2192,209,1
+CASE_4008,USA,2023-10-30,California,Superior Court of California,48,Female,Black,High,161620,Fraud,Medium,2,Yes,Urban,13870,382,1
+CASE_4009,USA,2022-05-03,California,Superior Court of California,67,Male,Native American,Low,17770,WhiteCollar,Medium,3,Yes,Rural,10327,139,1
+CASE_4010,USA,2023-09-24,California,Superior Court of California,54,Male,Black,High,118717,WhiteCollar,Medium,0,Yes,Urban,24681,154,1
+CASE_4011,USA,2023-12-12,New York,New York City Criminal Court,41,Male,Black,High,197279,WhiteCollar,Medium,0,No,Rural,9816,156,1
+CASE_4012,USA,2022-01-03,California,Superior Court of California,32,Male,Asian,High,116712,Assault,Low,4,Yes,Rural,3378,84,0
+CASE_4013,USA,2023-03-21,Arizona,Maricopa County Superior Court,48,Female,Native American,Medium,80044,Fraud,High,1,No,Rural,89229,390,0
+CASE_4014,USA,2022-04-24,Arizona,Maricopa County Superior Court,47,Female,Black,High,254230,Theft,Medium,5,Yes,Urban,14288,39,0
+CASE_4015,USA,2023-12-22,Texas,Harris County District Court,60,Female,Native American,High,484951,Fraud,Medium,2,No,Urban,8134,182,1
+CASE_4016,USA,2022-06-23,Arizona,Maricopa County Superior Court,36,Male,Black,Low,26286,Assault,High,1,No,Rural,48469,487,0
+CASE_4017,USA,2023-01-24,Texas,Harris County District Court,50,Male,Black,High,139280,Fraud,High,3,Yes,Rural,100067,125,0
+CASE_4018,USA,2023-04-12,Arizona,Maricopa County Superior Court,54,Female,Black,High,320843,Assault,Low,4,No,Rural,1607,126,0
+CASE_4019,USA,2022-01-13,California,Superior Court of California,63,Male,Asian,Low,19174,Fraud,High,4,Yes,Rural,85623,158,0
+CASE_4020,USA,2023-12-31,New York,New York City Criminal Court,18,Female,Asian,Low,30197,Theft,High,2,Yes,Urban,90155,219,1
+CASE_4021,USA,2023-02-25,Texas,Harris County District Court,39,Male,Native American,Low,17037,Fraud,High,5,No,Rural,64477,197,0
+CASE_4022,USA,2022-03-05,New York,New York City Criminal Court,44,Male,Hispanic,Low,17043,Theft,High,1,No,Rural,164860,342,0
+CASE_4023,USA,2023-10-26,Texas,Harris County District Court,20,Male,Black,Medium,44414,Assault,Low,3,Yes,Rural,4894,19,1
+CASE_4024,USA,2023-03-29,California,Superior Court of California,20,Male,Black,Medium,84276,Fraud,Medium,0,Yes,Urban,22986,236,0
+CASE_4025,USA,2022-05-25,Texas,Harris County District Court,25,Female,White,High,115183,Fraud,High,3,No,Urban,42496,204,0
+CASE_4026,USA,2022-05-16,New York,New York City Criminal Court,18,Male,Black,High,446255,Fraud,Low,5,No,Rural,1326,133,1
+CASE_4027,USA,2023-05-22,Texas,Harris County District Court,70,Male,Black,Low,20743,Fraud,Low,2,Yes,Rural,4694,68,1
+CASE_4028,USA,2022-01-25,New York,New York City Criminal Court,21,Male,Black,Medium,77533,Fraud,Low,5,No,Rural,5420,182,1
+CASE_4029,USA,2022-04-30,California,Superior Court of California,56,Male,Native American,Low,27334,Assault,High,1,Yes,Rural,147968,217,0
+CASE_4030,USA,2022-03-15,Arizona,Maricopa County Superior Court,31,Female,White,Low,16929,WhiteCollar,High,2,No,Rural,90380,455,0
+CASE_4031,USA,2022-01-20,Arizona,Maricopa County Superior Court,48,Male,White,Medium,70822,Fraud,Medium,5,No,Rural,6107,217,1
+CASE_4032,USA,2024-02-10,Texas,Harris County District Court,45,Female,Native American,High,141628,Assault,High,5,No,Rural,121914,246,0
+CASE_4033,USA,2022-01-30,Arizona,Maricopa County Superior Court,55,Male,Native American,High,109372,Fraud,Low,2,Yes,Rural,4656,333,1
+CASE_4034,USA,2023-10-15,Arizona,Maricopa County Superior Court,61,Female,White,Low,24721,Fraud,Low,1,No,Rural,4971,380,1
+CASE_4035,USA,2023-08-13,New York,New York City Criminal Court,41,Female,Hispanic,High,449820,WhiteCollar,Low,5,Yes,Urban,4593,93,1
+CASE_4036,USA,2022-09-21,Illinois,Cook County Circuit Court,50,Female,Black,High,323661,Assault,Low,3,No,Urban,672,263,1
+CASE_4037,USA,2023-03-04,California,Superior Court of California,44,Male,Native American,Low,19045,Fraud,Medium,0,No,Urban,27674,238,1
+CASE_4038,USA,2022-03-28,Illinois,Cook County Circuit Court,31,Female,Native American,Low,32056,Theft,High,3,No,Urban,118911,275,0
+CASE_4039,USA,2022-12-29,New York,New York City Criminal Court,58,Male,Black,Low,19389,WhiteCollar,High,1,No,Rural,55457,490,0
+CASE_4040,USA,2023-05-22,Arizona,Maricopa County Superior Court,30,Female,Black,Medium,70951,Assault,Low,4,No,Rural,3868,382,0
+CASE_4041,USA,2023-01-22,New York,New York City Criminal Court,57,Male,White,Low,32222,Assault,Low,4,Yes,Rural,2526,193,0
+CASE_4042,USA,2023-05-19,New York,New York City Criminal Court,67,Female,Asian,High,426049,Fraud,Medium,1,No,Rural,11679,389,0
+CASE_4043,USA,2023-02-11,California,Superior Court of California,20,Female,Hispanic,High,159680,Fraud,High,0,Yes,Urban,50473,225,1
+CASE_4044,USA,2023-06-15,New York,New York City Criminal Court,67,Female,Hispanic,Low,18821,Assault,Medium,0,Yes,Urban,12353,412,1
+CASE_4045,USA,2023-05-13,New York,New York City Criminal Court,54,Male,White,High,170732,Assault,High,1,Yes,Urban,85333,203,0
+CASE_4046,USA,2023-12-26,Arizona,Maricopa County Superior Court,64,Female,Black,Low,26557,Assault,Medium,3,No,Rural,38042,388,1
+CASE_4047,USA,2022-03-21,California,Superior Court of California,57,Female,Native American,High,160809,Fraud,Low,5,Yes,Urban,834,273,1
+CASE_4048,USA,2023-09-29,Illinois,Cook County Circuit Court,37,Male,Hispanic,Medium,51611,Assault,High,2,Yes,Urban,114296,87,0
+CASE_4049,USA,2022-01-19,Arizona,Maricopa County Superior Court,49,Female,Black,High,92051,Fraud,Medium,3,No,Urban,21319,289,1
+CASE_4050,USA,2022-12-30,California,Superior Court of California,49,Male,Native American,High,360109,Fraud,Medium,1,Yes,Rural,22769,9,1
+CASE_4051,USA,2023-12-02,California,Superior Court of California,65,Female,Native American,Low,28279,Fraud,High,5,No,Rural,40985,278,0
+CASE_4052,USA,2023-04-19,New York,New York City Criminal Court,29,Male,Asian,Medium,41970,Fraud,Medium,2,No,Rural,22124,170,1
+CASE_4053,USA,2023-05-19,California,Superior Court of California,50,Female,Asian,High,171640,Theft,High,1,Yes,Urban,138115,21,1
+CASE_4054,USA,2022-10-08,Illinois,Cook County Circuit Court,22,Male,Asian,Low,23662,Theft,High,2,Yes,Rural,111850,169,0
+CASE_4055,USA,2023-09-29,Texas,Harris County District Court,28,Female,Native American,Low,24211,Assault,High,0,No,Urban,139490,309,1
+CASE_4056,USA,2023-01-09,Arizona,Maricopa County Superior Court,67,Female,Hispanic,Low,17264,Assault,Low,0,No,Rural,5155,245,1
+CASE_4057,USA,2022-05-23,Arizona,Maricopa County Superior Court,60,Male,Asian,Low,16888,WhiteCollar,High,1,No,Urban,141357,380,0
+CASE_4058,USA,2023-06-20,New York,New York City Criminal Court,38,Female,Black,Medium,42254,WhiteCollar,Medium,0,Yes,Urban,25809,327,1
+CASE_4059,USA,2022-07-28,Arizona,Maricopa County Superior Court,32,Female,Native American,Low,33507,Fraud,Low,0,Yes,Urban,3460,142,1
+CASE_4060,USA,2024-02-12,New York,New York City Criminal Court,34,Female,Asian,Low,30276,WhiteCollar,Medium,3,Yes,Urban,26551,182,0
+CASE_4061,USA,2023-08-15,California,Superior Court of California,55,Female,Hispanic,Medium,49627,Theft,High,0,No,Urban,128657,322,0
+CASE_4062,USA,2022-12-28,Arizona,Maricopa County Superior Court,68,Male,White,Medium,67701,Assault,High,1,No,Urban,48807,175,0
+CASE_4063,USA,2023-09-09,New York,New York City Criminal Court,48,Male,Hispanic,Medium,76895,Assault,Low,0,Yes,Rural,4531,326,1
+CASE_4064,USA,2023-12-11,California,Superior Court of California,58,Male,Black,Low,21975,Theft,High,2,Yes,Rural,151022,459,1
+CASE_4065,USA,2023-04-29,Illinois,Cook County Circuit Court,37,Male,Hispanic,Medium,47751,Fraud,Low,4,No,Rural,5730,203,0
+CASE_4066,USA,2022-10-26,Arizona,Maricopa County Superior Court,22,Male,Asian,Medium,53583,Fraud,Low,3,Yes,Urban,4227,130,1
+CASE_4067,USA,2023-11-03,Illinois,Cook County Circuit Court,39,Female,Native American,Low,24384,Fraud,Low,2,No,Rural,1863,131,1
+CASE_4068,USA,2022-10-06,Arizona,Maricopa County Superior Court,31,Male,White,Medium,45744,Assault,High,0,Yes,Urban,50803,306,1
+CASE_4069,USA,2022-02-14,Illinois,Cook County Circuit Court,25,Male,Native American,High,450732,Theft,Medium,5,No,Urban,11266,79,0
+CASE_4070,USA,2022-11-17,California,Superior Court of California,19,Male,Asian,Low,25023,Fraud,High,5,No,Rural,47142,257,0
+CASE_4071,USA,2023-10-25,Texas,Harris County District Court,58,Male,Hispanic,Medium,44142,Theft,Low,1,No,Rural,1897,425,1
+CASE_4072,USA,2024-02-09,California,Superior Court of California,48,Female,Hispanic,High,102494,Fraud,Low,4,Yes,Urban,5950,98,1
+CASE_4073,USA,2023-09-01,California,Superior Court of California,48,Female,Asian,High,457785,Fraud,Medium,5,No,Rural,13059,95,0
+CASE_4074,USA,2022-01-13,Texas,Harris County District Court,49,Male,Asian,Low,22043,Theft,Low,3,Yes,Urban,3454,405,1
+CASE_4075,USA,2023-06-04,New York,New York City Criminal Court,42,Female,Black,Low,33354,Assault,Medium,0,No,Rural,9705,414,0
+CASE_4076,USA,2022-02-18,Texas,Harris County District Court,27,Female,Native American,High,277851,Theft,Medium,0,No,Urban,16334,253,1
+CASE_4077,USA,2023-05-17,New York,New York City Criminal Court,46,Female,Native American,Low,24642,Theft,Medium,4,No,Urban,20410,304,1
+CASE_4078,USA,2022-06-13,New York,New York City Criminal Court,44,Male,Black,Low,33208,Theft,Low,5,Yes,Rural,4219,362,1
+CASE_4079,USA,2024-02-24,California,Superior Court of California,35,Male,Asian,Medium,76184,Assault,Low,3,No,Rural,2260,207,1
+CASE_4080,USA,2023-12-11,Arizona,Maricopa County Superior Court,25,Male,Hispanic,Low,18227,Fraud,Medium,3,Yes,Urban,29045,486,1
+CASE_4081,USA,2023-07-14,Illinois,Cook County Circuit Court,55,Female,Asian,Low,15053,WhiteCollar,Low,1,Yes,Urban,3335,308,1
+CASE_4082,USA,2023-02-04,Illinois,Cook County Circuit Court,40,Female,Asian,Low,30445,Fraud,High,0,No,Rural,69384,254,0
+CASE_4083,USA,2023-05-30,Arizona,Maricopa County Superior Court,43,Male,Asian,Low,20414,Fraud,High,2,No,Urban,127513,297,0
+CASE_4084,USA,2022-12-26,New York,New York City Criminal Court,33,Male,Hispanic,Low,20675,Theft,Medium,3,Yes,Urban,10119,271,0
+CASE_4085,USA,2023-11-04,California,Superior Court of California,40,Female,Asian,High,221193,WhiteCollar,High,3,No,Urban,60127,363,0
+CASE_4086,USA,2023-10-04,New York,New York City Criminal Court,23,Female,Hispanic,Low,34337,Assault,Medium,1,No,Rural,24571,378,1
+CASE_4087,USA,2024-02-16,Arizona,Maricopa County Superior Court,44,Male,Hispanic,Low,19075,Theft,Low,0,No,Urban,6415,298,1
+CASE_4088,USA,2024-02-06,California,Superior Court of California,67,Male,Asian,High,168933,Fraud,Medium,5,No,Rural,10440,72,1
+CASE_4089,USA,2023-01-02,California,Superior Court of California,50,Male,Hispanic,Low,21802,WhiteCollar,Low,0,No,Urban,4043,348,1
+CASE_4090,USA,2023-03-09,California,Superior Court of California,59,Male,Black,Low,18569,Theft,Medium,3,Yes,Urban,20172,191,0
+CASE_4091,USA,2022-11-11,Arizona,Maricopa County Superior Court,31,Male,Asian,High,448807,Theft,High,0,Yes,Urban,90779,279,1
+CASE_4092,USA,2023-09-20,Texas,Harris County District Court,48,Female,White,Low,19815,Theft,High,3,No,Rural,82297,163,0
+CASE_4093,USA,2022-12-25,Texas,Harris County District Court,49,Male,White,High,113602,Theft,High,3,No,Rural,56709,215,1
+CASE_4094,USA,2023-08-09,Arizona,Maricopa County Superior Court,54,Female,Hispanic,Low,29602,Fraud,Low,0,No,Rural,2539,283,1
+CASE_4095,USA,2022-04-18,Texas,Harris County District Court,30,Female,Black,Low,18425,Theft,Medium,2,Yes,Rural,22691,121,0
+CASE_4096,USA,2023-12-23,California,Superior Court of California,38,Female,Native American,Low,34215,Theft,Medium,4,Yes,Rural,11476,101,0
+CASE_4097,USA,2023-12-28,Illinois,Cook County Circuit Court,31,Male,Native American,Low,28607,WhiteCollar,Low,3,Yes,Urban,4559,276,1
+CASE_4098,USA,2022-06-27,Illinois,Cook County Circuit Court,46,Male,Native American,High,291215,Theft,High,2,No,Rural,52933,212,0
+CASE_4099,USA,2023-01-27,California,Superior Court of California,70,Female,Black,Low,22354,Assault,Low,0,Yes,Urban,1876,157,1
+CASE_4100,USA,2022-01-22,New York,New York City Criminal Court,62,Female,White,Low,26943,WhiteCollar,High,2,No,Urban,39573,115,0
+CASE_4101,USA,2023-03-15,Illinois,Cook County Circuit Court,27,Female,Hispanic,High,483277,Theft,Low,1,No,Rural,662,215,1
+CASE_4102,USA,2024-01-12,California,Superior Court of California,22,Male,Asian,Medium,40724,Assault,High,5,Yes,Rural,134717,213,0
+CASE_4103,USA,2023-06-28,Texas,Harris County District Court,46,Female,Asian,Low,27526,Theft,Low,5,No,Rural,5140,173,0
+CASE_4104,USA,2023-07-15,Illinois,Cook County Circuit Court,40,Male,Black,High,367705,Theft,High,3,Yes,Rural,124272,363,0
+CASE_4105,USA,2023-08-06,Illinois,Cook County Circuit Court,35,Male,Native American,High,193501,WhiteCollar,Medium,3,Yes,Urban,19760,25,1
+CASE_4106,USA,2023-09-10,California,Superior Court of California,24,Male,Native American,Medium,42668,Fraud,High,2,No,Urban,28140,307,1
+CASE_4107,USA,2023-09-16,California,Superior Court of California,66,Male,White,Medium,60852,Theft,Medium,3,No,Rural,9194,271,1
+CASE_4108,USA,2023-06-01,California,Superior Court of California,36,Male,Hispanic,Low,21713,WhiteCollar,Low,4,No,Rural,3296,546,1
+CASE_4109,USA,2022-08-05,Arizona,Maricopa County Superior Court,58,Female,Asian,Low,26936,Theft,High,2,Yes,Rural,69488,58,1
+CASE_4110,USA,2022-11-18,California,Superior Court of California,61,Female,Black,Medium,67026,Fraud,High,4,Yes,Rural,63970,389,0
+CASE_4111,USA,2022-07-10,Texas,Harris County District Court,46,Female,Black,Medium,62455,Theft,Medium,2,No,Urban,20016,310,1
+CASE_4112,USA,2022-11-30,Arizona,Maricopa County Superior Court,62,Male,White,Low,32819,WhiteCollar,Low,5,Yes,Rural,689,143,1
+CASE_4113,USA,2022-06-10,New York,New York City Criminal Court,49,Female,Native American,Low,16478,Assault,Medium,4,Yes,Urban,21555,178,0
+CASE_4114,USA,2022-02-25,Illinois,Cook County Circuit Court,70,Male,White,Medium,40950,Theft,High,4,Yes,Urban,84448,134,1
+CASE_4115,USA,2023-08-02,California,Superior Court of California,19,Female,Black,Low,29259,Assault,High,2,No,Rural,108111,264,1
+CASE_4116,USA,2023-01-03,New York,New York City Criminal Court,51,Female,White,Medium,74654,Assault,High,4,No,Urban,92674,306,0
+CASE_4117,USA,2022-06-25,California,Superior Court of California,61,Female,Asian,Medium,68323,Theft,Medium,0,No,Urban,13265,297,1
+CASE_4118,USA,2022-09-25,New York,New York City Criminal Court,63,Female,Native American,Low,25798,Fraud,High,2,Yes,Rural,155397,169,0
+CASE_4119,USA,2022-03-04,California,Superior Court of California,38,Male,Black,Medium,39332,WhiteCollar,High,2,No,Urban,63821,387,0
+CASE_4120,USA,2022-05-12,Arizona,Maricopa County Superior Court,61,Female,Native American,Low,16339,WhiteCollar,Medium,3,No,Rural,27372,341,0
+CASE_4121,USA,2022-01-30,Illinois,Cook County Circuit Court,61,Male,Hispanic,Medium,82981,Fraud,Low,0,No,Urban,2424,218,1
+CASE_4122,USA,2022-08-15,Arizona,Maricopa County Superior Court,55,Female,Black,Medium,36559,WhiteCollar,Low,1,Yes,Rural,2272,254,1
+CASE_4123,USA,2023-08-22,California,Superior Court of California,67,Male,Hispanic,Medium,73157,WhiteCollar,Low,3,Yes,Rural,3763,100,1
+CASE_4124,USA,2023-06-05,California,Superior Court of California,20,Male,Hispanic,High,460724,Fraud,High,4,Yes,Urban,48591,240,0
+CASE_4125,USA,2022-10-11,New York,New York City Criminal Court,35,Male,Asian,Low,16631,Theft,Medium,0,No,Rural,20452,407,1
+CASE_4126,USA,2022-02-22,Arizona,Maricopa County Superior Court,61,Female,Black,Medium,57749,Assault,Low,0,No,Urban,4546,341,1
+CASE_4127,USA,2023-02-20,California,Superior Court of California,34,Female,Hispanic,Medium,39277,Theft,High,5,No,Rural,34420,267,0
+CASE_4128,USA,2023-04-15,California,Superior Court of California,34,Female,Hispanic,Low,17138,Fraud,Medium,2,No,Urban,7866,329,0
+CASE_4129,USA,2023-06-23,Illinois,Cook County Circuit Court,40,Female,Native American,Low,28303,Theft,Low,5,No,Urban,1897,321,0
+CASE_4130,USA,2024-02-12,California,Superior Court of California,45,Male,Native American,Low,29893,Theft,Low,3,Yes,Urban,1927,233,1
+CASE_4131,USA,2023-11-17,New York,New York City Criminal Court,30,Female,Hispanic,Medium,63220,Theft,Medium,3,Yes,Rural,6644,208,1
+CASE_4132,USA,2024-02-20,Texas,Harris County District Court,49,Male,Hispanic,High,324900,WhiteCollar,Low,3,No,Rural,3899,380,1
+CASE_4133,USA,2023-11-30,Illinois,Cook County Circuit Court,18,Female,Black,Medium,42229,Fraud,High,0,Yes,Urban,140499,111,1
+CASE_4134,USA,2023-02-11,Illinois,Cook County Circuit Court,46,Female,White,Medium,69649,Fraud,High,0,Yes,Rural,69292,314,1
+CASE_4135,USA,2022-07-28,Texas,Harris County District Court,21,Male,Asian,Low,25939,Assault,High,1,No,Urban,82076,284,0
+CASE_4136,USA,2022-09-05,New York,New York City Criminal Court,28,Male,White,Low,20391,WhiteCollar,Medium,2,No,Rural,18339,367,0
+CASE_4137,USA,2022-06-01,California,Superior Court of California,18,Male,Asian,Low,24887,Fraud,Medium,4,Yes,Rural,21719,235,1
+CASE_4138,USA,2023-09-13,Texas,Harris County District Court,59,Female,Hispanic,High,364825,Assault,Medium,1,No,Urban,7791,136,1
+CASE_4139,USA,2022-04-04,California,Superior Court of California,34,Female,White,High,122839,Theft,Low,1,Yes,Urban,1909,87,1
+CASE_4140,USA,2022-01-09,Texas,Harris County District Court,60,Male,Hispanic,Low,23347,WhiteCollar,Medium,5,No,Urban,25722,446,0
+CASE_4141,USA,2023-03-09,Illinois,Cook County Circuit Court,30,Female,Hispanic,Low,24847,Theft,Low,0,No,Urban,1001,285,1
+CASE_4142,USA,2023-05-12,California,Superior Court of California,32,Female,Native American,High,291362,Fraud,Low,3,No,Rural,3450,252,1
+CASE_4143,USA,2022-11-08,Arizona,Maricopa County Superior Court,29,Male,Black,Low,21054,Assault,High,1,No,Urban,40651,407,1
+CASE_4144,USA,2023-08-14,New York,New York City Criminal Court,59,Male,Native American,Low,25242,Assault,Medium,3,No,Rural,22714,158,0
+CASE_4145,USA,2023-03-19,Illinois,Cook County Circuit Court,39,Female,Hispanic,High,271556,Theft,High,2,Yes,Rural,169030,118,1
+CASE_4146,USA,2023-05-04,Arizona,Maricopa County Superior Court,22,Female,Asian,High,444272,WhiteCollar,High,4,No,Urban,143879,406,0
+CASE_4147,USA,2023-12-06,New York,New York City Criminal Court,51,Male,Black,Low,32505,Theft,High,1,Yes,Urban,111959,237,0
+CASE_4148,USA,2024-02-15,Illinois,Cook County Circuit Court,42,Male,Native American,Low,16441,Assault,Medium,0,No,Rural,25652,258,1
+CASE_4149,USA,2022-12-16,California,Superior Court of California,42,Male,White,Low,29083,WhiteCollar,High,0,Yes,Rural,166714,123,1
+CASE_4150,USA,2022-03-31,Arizona,Maricopa County Superior Court,57,Female,White,High,333440,Theft,High,2,Yes,Urban,145343,3,1
+CASE_4151,USA,2022-03-30,Texas,Harris County District Court,25,Female,Black,High,340968,Fraud,Low,0,No,Urban,5483,176,1
+CASE_4152,USA,2023-03-14,Illinois,Cook County Circuit Court,20,Male,Asian,Medium,60537,Theft,Low,3,Yes,Urban,4392,83,1
+CASE_4153,USA,2024-01-06,Texas,Harris County District Court,30,Female,Native American,Low,25606,Fraud,High,0,No,Rural,53097,184,0
+CASE_4154,USA,2022-07-09,Arizona,Maricopa County Superior Court,42,Male,Asian,Medium,38824,Assault,Low,3,No,Urban,3058,75,0
+CASE_4155,USA,2023-03-24,Texas,Harris County District Court,58,Male,White,Low,17568,WhiteCollar,High,5,No,Rural,97343,129,0
+CASE_4156,USA,2022-02-06,New York,New York City Criminal Court,23,Male,Hispanic,Low,24322,WhiteCollar,High,3,No,Urban,159392,222,0
+CASE_4157,USA,2022-08-06,Illinois,Cook County Circuit Court,51,Female,Hispanic,Low,34369,WhiteCollar,Medium,5,Yes,Urban,9742,352,0
+CASE_4158,USA,2022-10-04,New York,New York City Criminal Court,59,Male,Hispanic,High,366107,Theft,Medium,4,Yes,Rural,16943,79,0
+CASE_4159,USA,2023-01-04,Illinois,Cook County Circuit Court,46,Female,Black,Low,28942,Theft,High,1,No,Rural,65951,413,0
+CASE_4160,USA,2022-03-06,Illinois,Cook County Circuit Court,25,Male,Asian,Medium,62434,WhiteCollar,Medium,2,No,Rural,20516,337,1
+CASE_4161,USA,2023-06-16,Illinois,Cook County Circuit Court,29,Female,White,High,389867,Fraud,Medium,5,No,Rural,16385,286,1
+CASE_4162,USA,2023-05-05,New York,New York City Criminal Court,32,Female,Black,Low,15332,WhiteCollar,Medium,5,Yes,Urban,15392,143,1
+CASE_4163,USA,2023-08-25,Arizona,Maricopa County Superior Court,22,Male,White,Low,19488,Assault,High,3,No,Rural,163793,436,0
+CASE_4164,USA,2023-08-18,Arizona,Maricopa County Superior Court,51,Female,White,Low,31919,WhiteCollar,High,0,No,Urban,42721,399,0
+CASE_4165,USA,2022-09-18,California,Superior Court of California,62,Female,Native American,Low,20685,Theft,Medium,4,No,Urban,18182,244,0
+CASE_4166,USA,2022-06-05,Texas,Harris County District Court,34,Female,Hispanic,Low,17614,Assault,Medium,0,Yes,Rural,9878,293,1
+CASE_4167,USA,2022-08-12,California,Superior Court of California,19,Female,Asian,High,289853,Theft,Medium,0,Yes,Urban,15813,355,1
+CASE_4168,USA,2023-11-13,New York,New York City Criminal Court,41,Male,Black,High,360999,Assault,High,5,No,Rural,181976,432,0
+CASE_4169,USA,2022-02-08,New York,New York City Criminal Court,40,Male,Black,Low,19926,Fraud,Medium,0,Yes,Rural,15125,293,1
+CASE_4170,USA,2022-11-24,Texas,Harris County District Court,55,Female,Black,Medium,69178,Assault,High,1,Yes,Rural,103149,295,1
+CASE_4171,USA,2023-05-20,New York,New York City Criminal Court,34,Female,Native American,Low,17623,Theft,Medium,0,Yes,Urban,16865,224,1
+CASE_4172,USA,2022-06-24,Texas,Harris County District Court,26,Male,Hispanic,Medium,89462,Fraud,High,3,No,Urban,44475,451,0
+CASE_4173,USA,2023-06-15,Arizona,Maricopa County Superior Court,34,Female,White,High,139449,Assault,Low,2,Yes,Rural,1282,125,1
+CASE_4174,USA,2023-11-25,Illinois,Cook County Circuit Court,65,Female,Asian,Low,21360,Fraud,Medium,0,Yes,Urban,7506,319,1
+CASE_4175,USA,2022-07-18,California,Superior Court of California,62,Female,Asian,High,219192,Assault,Medium,5,Yes,Rural,21719,26,0
+CASE_4176,USA,2022-11-29,California,Superior Court of California,59,Male,Hispanic,Medium,46049,Theft,Medium,1,No,Rural,6902,192,0
+CASE_4177,USA,2022-10-27,Illinois,Cook County Circuit Court,54,Female,Black,Low,19436,Theft,Low,2,Yes,Urban,4274,134,1
+CASE_4178,USA,2023-03-11,California,Superior Court of California,26,Female,Native American,Low,28265,Assault,High,4,Yes,Urban,173141,237,0
+CASE_4179,USA,2022-07-02,Illinois,Cook County Circuit Court,19,Male,Asian,High,358696,Theft,Medium,2,Yes,Rural,10051,18,1
+CASE_4180,USA,2023-04-13,California,Superior Court of California,68,Female,Native American,Low,19067,Fraud,Low,4,No,Rural,3412,407,1
+CASE_4181,USA,2022-09-25,Arizona,Maricopa County Superior Court,48,Male,Black,Medium,75408,Theft,High,2,Yes,Rural,111280,66,1
+CASE_4182,USA,2022-12-09,Arizona,Maricopa County Superior Court,33,Female,Black,Low,30404,WhiteCollar,Low,2,No,Urban,2156,437,1
+CASE_4183,USA,2023-06-05,Arizona,Maricopa County Superior Court,67,Female,White,Low,24009,WhiteCollar,Medium,3,Yes,Urban,6948,83,1
+CASE_4184,USA,2023-05-14,Texas,Harris County District Court,50,Female,Asian,Medium,42622,WhiteCollar,Medium,3,No,Urban,17436,221,1
+CASE_4185,USA,2022-07-14,New York,New York City Criminal Court,54,Female,Native American,Low,16816,Assault,Medium,4,No,Rural,21050,449,1
+CASE_4186,USA,2022-01-22,California,Superior Court of California,52,Male,Hispanic,Low,24536,Fraud,Low,3,No,Urban,6878,510,0
+CASE_4187,USA,2023-03-02,California,Superior Court of California,42,Male,Hispanic,Low,29078,WhiteCollar,Medium,3,Yes,Rural,31836,390,1
+CASE_4188,USA,2022-12-06,Texas,Harris County District Court,65,Male,Native American,Medium,81964,Assault,Low,4,No,Rural,2349,84,0
+CASE_4189,USA,2022-05-21,California,Superior Court of California,53,Male,White,Low,22341,Fraud,Medium,0,No,Rural,9987,296,1
+CASE_4190,USA,2022-11-08,California,Superior Court of California,42,Male,Native American,High,409265,Assault,Low,4,Yes,Rural,3449,153,0
+CASE_4191,USA,2022-10-08,Arizona,Maricopa County Superior Court,44,Female,Black,Medium,53230,WhiteCollar,Medium,4,No,Urban,16759,78,0
+CASE_4192,USA,2022-10-07,Illinois,Cook County Circuit Court,70,Female,Native American,Medium,63384,Theft,Medium,4,Yes,Rural,23507,190,1
+CASE_4193,USA,2022-09-22,Illinois,Cook County Circuit Court,53,Female,Native American,Medium,80848,Fraud,Low,4,No,Rural,2286,100,0
+CASE_4194,USA,2022-02-26,Arizona,Maricopa County Superior Court,52,Female,White,High,218290,Assault,Low,5,Yes,Urban,4494,203,1
+CASE_4195,USA,2022-11-22,New York,New York City Criminal Court,25,Male,Hispanic,High,161891,WhiteCollar,High,3,No,Urban,132845,143,0
+CASE_4196,USA,2024-02-23,Texas,Harris County District Court,32,Female,Native American,Low,24655,Fraud,Low,2,Yes,Rural,1655,167,1
+CASE_4197,USA,2023-02-09,California,Superior Court of California,58,Female,White,Medium,71812,WhiteCollar,Low,0,No,Urban,2866,167,1
+CASE_4198,USA,2022-03-28,New York,New York City Criminal Court,43,Female,Native American,Low,29344,Assault,High,4,No,Urban,156325,402,0
+CASE_4199,USA,2023-10-18,Illinois,Cook County Circuit Court,70,Male,Asian,High,477073,Fraud,Medium,0,No,Rural,6644,122,1
+CASE_4200,USA,2022-08-26,New York,New York City Criminal Court,64,Female,Hispanic,High,209447,Assault,Medium,3,No,Urban,12728,296,1
+CASE_4201,USA,2023-10-23,California,Superior Court of California,41,Male,Native American,Medium,43313,Fraud,Medium,0,No,Rural,16243,131,1
+CASE_4202,USA,2022-08-11,Arizona,Maricopa County Superior Court,31,Male,Native American,Low,27627,Fraud,Low,0,No,Rural,866,171,1
+CASE_4203,USA,2023-07-11,Arizona,Maricopa County Superior Court,30,Female,White,Low,27536,Fraud,Low,2,Yes,Rural,838,271,1
+CASE_4204,USA,2023-05-21,New York,New York City Criminal Court,52,Female,Hispanic,Low,30319,Assault,Medium,4,No,Rural,25508,364,0
+CASE_4205,USA,2022-09-06,Arizona,Maricopa County Superior Court,58,Female,White,Medium,74124,Fraud,Medium,3,No,Rural,14215,194,1
+CASE_4206,USA,2023-07-09,Texas,Harris County District Court,41,Female,Asian,High,197836,Fraud,Medium,3,No,Urban,18594,24,0
+CASE_4207,USA,2023-11-07,Arizona,Maricopa County Superior Court,20,Male,Asian,High,264415,Theft,Low,0,No,Rural,3059,174,1
+CASE_4208,USA,2024-01-29,New York,New York City Criminal Court,20,Female,Asian,High,311321,Fraud,Low,1,Yes,Urban,3645,194,1
+CASE_4209,USA,2023-06-09,Illinois,Cook County Circuit Court,63,Female,Black,Low,31109,WhiteCollar,High,1,No,Rural,128180,288,0
+CASE_4210,USA,2023-01-20,Illinois,Cook County Circuit Court,34,Male,Asian,Medium,86513,Assault,High,0,No,Urban,131375,43,0
+CASE_4211,USA,2023-03-09,New York,New York City Criminal Court,58,Female,Hispanic,High,97262,Theft,Low,1,Yes,Urban,2891,267,1
+CASE_4212,USA,2022-01-19,California,Superior Court of California,28,Male,White,Low,34474,Fraud,Low,0,No,Rural,4665,316,1
+CASE_4213,USA,2023-01-06,Texas,Harris County District Court,54,Male,Native American,High,92939,Fraud,Medium,0,Yes,Urban,17032,129,1
+CASE_4214,USA,2022-12-01,California,Superior Court of California,19,Male,Black,Low,19373,WhiteCollar,High,0,No,Urban,151379,297,1
+CASE_4215,USA,2022-04-19,Illinois,Cook County Circuit Court,45,Female,White,Low,33064,Fraud,Low,0,No,Urban,2069,334,1
+CASE_4216,USA,2022-07-06,California,Superior Court of California,48,Female,Asian,Medium,81327,Fraud,High,4,Yes,Rural,128521,212,0
+CASE_4217,USA,2022-03-01,New York,New York City Criminal Court,29,Female,Asian,High,126043,Theft,High,2,Yes,Urban,43411,50,1
+CASE_4218,USA,2023-12-06,California,Superior Court of California,34,Female,Native American,High,498451,Assault,High,0,Yes,Urban,148515,140,1
+CASE_4219,USA,2023-09-28,Illinois,Cook County Circuit Court,67,Male,Native American,Medium,42587,WhiteCollar,Low,1,Yes,Rural,4544,249,1
+CASE_4220,USA,2023-11-13,Texas,Harris County District Court,43,Female,Black,Medium,66581,Assault,High,2,No,Rural,66443,239,0
+CASE_4221,USA,2023-12-02,Arizona,Maricopa County Superior Court,61,Female,Black,High,285660,Assault,High,4,Yes,Rural,130382,45,0
+CASE_4222,USA,2023-02-14,California,Superior Court of California,36,Male,Asian,High,366860,Theft,High,2,No,Urban,82857,323,0
+CASE_4223,USA,2023-05-30,Texas,Harris County District Court,56,Female,White,Medium,41479,WhiteCollar,Medium,2,Yes,Urban,8460,243,1
+CASE_4224,USA,2022-07-03,California,Superior Court of California,60,Male,Black,Low,15155,Theft,High,4,No,Urban,96899,394,0
+CASE_4225,USA,2022-10-08,California,Superior Court of California,27,Male,White,Medium,79651,Theft,Medium,0,No,Urban,5890,328,1
+CASE_4226,USA,2024-01-25,Texas,Harris County District Court,47,Male,Asian,High,456014,WhiteCollar,Low,3,Yes,Rural,1511,212,1
+CASE_4227,USA,2023-09-01,Illinois,Cook County Circuit Court,62,Male,White,High,321901,Fraud,Medium,1,Yes,Rural,20517,249,0
+CASE_4228,USA,2023-01-26,California,Superior Court of California,35,Male,Native American,High,468602,WhiteCollar,Medium,1,No,Rural,19707,393,1
+CASE_4229,USA,2023-10-30,Texas,Harris County District Court,47,Female,Asian,Low,20511,Theft,High,5,Yes,Urban,69570,111,1
+CASE_4230,USA,2023-08-27,Arizona,Maricopa County Superior Court,43,Female,Asian,Low,16201,Theft,High,1,Yes,Urban,92031,175,0
+CASE_4231,USA,2022-02-06,California,Superior Court of California,52,Female,Asian,High,142643,Fraud,High,1,Yes,Urban,87666,254,0
+CASE_4232,USA,2022-10-02,New York,New York City Criminal Court,53,Male,Native American,Medium,58555,Assault,High,3,No,Urban,64803,308,0
+CASE_4233,USA,2023-04-14,New York,New York City Criminal Court,70,Male,Native American,High,91456,Fraud,Low,5,Yes,Urban,1014,273,0
+CASE_4234,USA,2022-03-16,California,Superior Court of California,19,Female,Hispanic,High,493339,WhiteCollar,Medium,4,No,Rural,9430,301,0
+CASE_4235,USA,2024-02-04,California,Superior Court of California,25,Male,White,High,305593,Fraud,Low,3,Yes,Rural,4942,59,1
+CASE_4236,USA,2024-01-14,Arizona,Maricopa County Superior Court,57,Female,Hispanic,Low,26499,Assault,Medium,5,Yes,Urban,21613,220,0
+CASE_4237,USA,2023-09-18,California,Superior Court of California,34,Female,Black,Low,28904,WhiteCollar,Medium,3,No,Rural,16553,545,0
+CASE_4238,USA,2024-02-29,New York,New York City Criminal Court,61,Male,Hispanic,High,208348,Assault,Medium,3,Yes,Urban,20419,291,1
+CASE_4239,USA,2023-04-11,Illinois,Cook County Circuit Court,66,Male,Black,High,475432,WhiteCollar,Low,3,No,Rural,5375,180,1
+CASE_4240,USA,2022-10-29,Illinois,Cook County Circuit Court,55,Female,Native American,High,397157,Theft,Medium,1,Yes,Rural,15325,215,1
+CASE_4241,USA,2022-10-08,California,Superior Court of California,54,Female,Black,Medium,77318,Theft,Low,1,No,Urban,5798,280,1
+CASE_4242,USA,2022-04-09,New York,New York City Criminal Court,19,Male,Asian,Low,21044,WhiteCollar,High,5,No,Urban,163619,147,0
+CASE_4243,USA,2023-01-30,New York,New York City Criminal Court,23,Male,Asian,High,343614,Assault,Low,2,Yes,Urban,3954,229,1
+CASE_4244,USA,2023-02-14,California,Superior Court of California,48,Male,Hispanic,High,277298,Assault,High,1,No,Urban,91471,333,0
+CASE_4245,USA,2023-07-24,Texas,Harris County District Court,44,Female,Native American,High,465304,Theft,Medium,4,No,Urban,5312,176,0
+CASE_4246,USA,2023-03-23,California,Superior Court of California,66,Male,Hispanic,Low,23544,Fraud,High,3,Yes,Rural,140599,128,0
+CASE_4247,USA,2023-03-18,Illinois,Cook County Circuit Court,61,Male,Black,Medium,52795,Fraud,High,2,Yes,Rural,177168,208,0
+CASE_4248,USA,2023-05-27,Arizona,Maricopa County Superior Court,55,Female,Asian,Low,15877,Theft,High,4,No,Rural,142198,161,0
+CASE_4249,USA,2023-11-09,Texas,Harris County District Court,58,Female,White,Low,25164,Assault,Low,4,Yes,Rural,855,64,0
+CASE_4250,USA,2022-11-24,California,Superior Court of California,28,Male,Black,High,404712,Theft,High,1,Yes,Urban,48897,268,0
+CASE_4251,USA,2022-08-25,Illinois,Cook County Circuit Court,25,Female,Native American,High,218648,Assault,Low,1,No,Urban,4088,145,1
+CASE_4252,USA,2024-02-05,Texas,Harris County District Court,68,Female,Hispanic,Low,18764,WhiteCollar,Medium,5,Yes,Urban,14798,226,0
+CASE_4253,USA,2022-07-16,California,Superior Court of California,21,Female,Black,Low,18227,Assault,Medium,4,No,Rural,20739,243,0
+CASE_4254,USA,2022-04-09,California,Superior Court of California,47,Male,Black,High,214669,Assault,High,0,No,Rural,40294,300,1
+CASE_4255,USA,2022-07-05,Illinois,Cook County Circuit Court,26,Female,Asian,Low,23551,WhiteCollar,High,2,No,Urban,93854,65,0
+CASE_4256,USA,2022-03-20,Texas,Harris County District Court,57,Male,Black,Medium,78598,Fraud,High,0,Yes,Rural,115503,375,1
+CASE_4257,USA,2022-03-17,Texas,Harris County District Court,67,Male,Black,Low,20107,Theft,Low,5,No,Rural,4300,256,0
+CASE_4258,USA,2023-12-21,California,Superior Court of California,65,Male,Native American,Medium,52940,Assault,Medium,4,No,Urban,17359,247,0
+CASE_4259,USA,2023-10-21,New York,New York City Criminal Court,64,Female,Native American,Medium,86507,Theft,Low,1,No,Urban,4745,186,1
+CASE_4260,USA,2023-12-05,Texas,Harris County District Court,20,Female,Black,Low,32834,WhiteCollar,Medium,2,Yes,Urban,9140,439,1
+CASE_4261,USA,2022-03-10,Illinois,Cook County Circuit Court,32,Female,Native American,High,286269,WhiteCollar,Low,2,Yes,Urban,1755,253,1
+CASE_4262,USA,2022-01-09,California,Superior Court of California,26,Female,White,Low,20147,Assault,High,3,Yes,Rural,35862,148,1
+CASE_4263,USA,2023-03-31,New York,New York City Criminal Court,23,Female,Native American,Low,21295,Fraud,High,3,Yes,Urban,72907,326,0
+CASE_4264,USA,2023-01-03,California,Superior Court of California,25,Female,Asian,Low,28129,Theft,High,0,No,Urban,48723,214,0
+CASE_4265,USA,2023-04-22,California,Superior Court of California,56,Male,Asian,Low,17489,Fraud,Medium,1,Yes,Urban,15597,247,1
+CASE_4266,USA,2023-03-20,Arizona,Maricopa County Superior Court,53,Female,Asian,Low,22577,Theft,Low,5,No,Rural,1301,262,0
+CASE_4267,USA,2022-07-16,Arizona,Maricopa County Superior Court,68,Female,Black,Low,33794,WhiteCollar,Medium,0,No,Urban,21901,351,1
+CASE_4268,USA,2022-12-12,California,Superior Court of California,34,Female,Black,Medium,88970,Fraud,High,1,Yes,Urban,37455,144,1
+CASE_4269,USA,2024-02-22,New York,New York City Criminal Court,69,Female,White,Low,17240,WhiteCollar,Low,5,No,Urban,5073,242,0
+CASE_4270,USA,2022-12-17,Arizona,Maricopa County Superior Court,51,Male,Hispanic,High,341466,Theft,High,5,Yes,Urban,128175,249,0
+CASE_4271,USA,2022-07-01,California,Superior Court of California,29,Male,Hispanic,Medium,35150,WhiteCollar,High,4,Yes,Urban,132759,379,0
+CASE_4272,USA,2022-12-23,California,Superior Court of California,40,Male,Black,Low,16538,Theft,High,0,No,Urban,148759,392,1
+CASE_4273,USA,2022-06-14,New York,New York City Criminal Court,61,Female,Hispanic,Medium,59473,Theft,Medium,4,Yes,Urban,9476,374,1
+CASE_4274,USA,2023-03-08,Texas,Harris County District Court,30,Female,Native American,High,138236,WhiteCollar,Low,1,No,Rural,738,393,1
+CASE_4275,USA,2023-03-09,New York,New York City Criminal Court,45,Female,Native American,High,376715,Theft,Low,1,No,Urban,3643,92,1
+CASE_4276,USA,2022-12-06,Illinois,Cook County Circuit Court,51,Male,Asian,Low,27548,Theft,Low,4,No,Rural,1220,456,0
+CASE_4277,USA,2024-02-06,New York,New York City Criminal Court,41,Male,White,Low,29429,WhiteCollar,Low,3,Yes,Urban,2511,128,1
+CASE_4278,USA,2023-10-10,Arizona,Maricopa County Superior Court,23,Male,Hispanic,High,218737,Theft,High,3,No,Rural,121927,396,1
+CASE_4279,USA,2022-02-17,Illinois,Cook County Circuit Court,65,Female,White,Low,15379,Fraud,High,0,No,Urban,109927,315,0
+CASE_4280,USA,2022-04-12,Texas,Harris County District Court,44,Female,Hispanic,Medium,44421,Fraud,Medium,1,Yes,Urban,21271,314,1
+CASE_4281,USA,2024-03-05,Arizona,Maricopa County Superior Court,26,Female,Native American,Medium,53238,WhiteCollar,Low,1,No,Rural,2396,250,1
+CASE_4282,USA,2023-07-24,Illinois,Cook County Circuit Court,40,Male,Asian,High,229890,Assault,Low,1,No,Urban,3684,332,1
+CASE_4283,USA,2023-07-24,Arizona,Maricopa County Superior Court,64,Male,Asian,Low,30089,WhiteCollar,Medium,0,Yes,Urban,26436,377,1
+CASE_4284,USA,2023-02-28,Texas,Harris County District Court,65,Female,White,Medium,58403,WhiteCollar,High,0,No,Urban,73322,342,1
+CASE_4285,USA,2023-07-23,Illinois,Cook County Circuit Court,63,Female,White,Low,30290,Fraud,Low,1,Yes,Rural,1377,80,1
+CASE_4286,USA,2022-10-09,Arizona,Maricopa County Superior Court,21,Female,Native American,Low,29643,WhiteCollar,Medium,3,No,Urban,22781,325,1
+CASE_4287,USA,2023-02-03,Illinois,Cook County Circuit Court,20,Female,White,Medium,78752,Theft,High,4,No,Rural,55489,165,0
+CASE_4288,USA,2023-11-12,Texas,Harris County District Court,43,Female,Asian,High,166050,Fraud,High,2,Yes,Rural,67545,87,0
+CASE_4289,USA,2023-10-19,California,Superior Court of California,55,Male,Hispanic,Low,23144,Fraud,High,1,No,Urban,131616,458,0
+CASE_4290,USA,2023-09-09,Arizona,Maricopa County Superior Court,22,Female,White,Low,19579,WhiteCollar,Medium,5,No,Rural,21406,419,0
+CASE_4291,USA,2023-07-27,New York,New York City Criminal Court,40,Male,White,High,233487,Assault,Medium,1,No,Urban,19346,38,1
+CASE_4292,USA,2023-06-16,Illinois,Cook County Circuit Court,33,Male,Hispanic,High,272808,Assault,Low,1,No,Urban,1830,430,1
+CASE_4293,USA,2022-05-24,Texas,Harris County District Court,42,Female,Hispanic,Low,20092,Fraud,Medium,3,Yes,Urban,24716,139,1
+CASE_4294,USA,2022-05-22,Illinois,Cook County Circuit Court,35,Male,White,High,359837,WhiteCollar,Medium,1,Yes,Rural,12713,283,0
+CASE_4295,USA,2022-07-24,Texas,Harris County District Court,36,Male,Hispanic,Low,33035,WhiteCollar,High,2,Yes,Rural,67187,177,0
+CASE_4296,USA,2022-08-30,New York,New York City Criminal Court,69,Male,White,Low,23664,Theft,High,2,Yes,Urban,133313,80,0
+CASE_4297,USA,2023-06-25,Arizona,Maricopa County Superior Court,59,Male,Black,Low,19589,WhiteCollar,Low,3,No,Urban,1172,423,1
+CASE_4298,USA,2022-08-23,California,Superior Court of California,42,Female,Asian,Low,23062,Fraud,Low,5,No,Urban,4951,306,0
+CASE_4299,USA,2023-01-20,New York,New York City Criminal Court,60,Female,Native American,Low,27800,Fraud,Medium,0,Yes,Rural,10857,348,1
+CASE_4300,USA,2023-11-20,New York,New York City Criminal Court,20,Male,Black,Medium,43931,WhiteCollar,Medium,3,No,Urban,10135,89,1
+CASE_4301,USA,2024-02-18,California,Superior Court of California,54,Female,Black,Low,17593,WhiteCollar,Medium,2,Yes,Rural,9396,365,1
+CASE_4302,USA,2023-12-21,Arizona,Maricopa County Superior Court,61,Female,Asian,High,106126,Assault,Medium,5,Yes,Urban,10538,341,1
+CASE_4303,USA,2022-07-07,Texas,Harris County District Court,19,Female,Hispanic,Medium,47162,Theft,Low,3,Yes,Rural,4135,356,1
+CASE_4304,USA,2023-08-05,Illinois,Cook County Circuit Court,21,Male,Native American,Low,27504,WhiteCollar,High,2,Yes,Rural,147200,169,0
+CASE_4305,USA,2023-12-30,Illinois,Cook County Circuit Court,21,Female,Black,Medium,82022,WhiteCollar,Low,5,No,Urban,3308,241,0
+CASE_4306,USA,2022-05-13,Arizona,Maricopa County Superior Court,42,Male,Native American,Low,18690,Fraud,High,0,No,Urban,130514,254,0
+CASE_4307,USA,2022-12-17,Illinois,Cook County Circuit Court,18,Female,Black,Medium,37981,Assault,Low,0,No,Urban,2464,153,1
+CASE_4308,USA,2022-10-12,New York,New York City Criminal Court,44,Male,Asian,High,446583,Theft,High,2,Yes,Urban,79930,13,0
+CASE_4309,USA,2023-10-20,Texas,Harris County District Court,19,Male,Native American,High,101982,Assault,Medium,0,Yes,Rural,24142,110,1
+CASE_4310,USA,2022-02-21,Texas,Harris County District Court,43,Female,Black,High,445466,Theft,Medium,4,No,Rural,25185,219,0
+CASE_4311,USA,2022-08-12,Arizona,Maricopa County Superior Court,34,Male,Asian,Low,29742,Assault,Low,5,Yes,Rural,2771,227,1
+CASE_4312,USA,2023-06-30,Texas,Harris County District Court,39,Male,Asian,Low,29217,Theft,Low,4,No,Urban,2091,471,0
+CASE_4313,USA,2022-04-16,Illinois,Cook County Circuit Court,36,Female,Asian,Low,20390,Fraud,High,0,Yes,Urban,80899,255,1
+CASE_4314,USA,2022-04-15,California,Superior Court of California,33,Female,Hispanic,Low,17306,Fraud,Medium,3,Yes,Rural,16786,453,0
+CASE_4315,USA,2023-03-18,Illinois,Cook County Circuit Court,66,Male,Black,Medium,52137,Fraud,High,1,Yes,Rural,68225,358,0
+CASE_4316,USA,2023-10-28,California,Superior Court of California,19,Female,White,Medium,41465,Theft,High,4,Yes,Urban,32079,243,0
+CASE_4317,USA,2023-02-20,New York,New York City Criminal Court,54,Female,White,Medium,65039,Assault,Medium,1,Yes,Rural,14420,37,1
+CASE_4318,USA,2023-05-30,Arizona,Maricopa County Superior Court,29,Male,White,Medium,68959,Fraud,Low,2,No,Urban,3230,318,1
+CASE_4319,USA,2023-06-17,Illinois,Cook County Circuit Court,20,Male,Native American,Medium,69569,WhiteCollar,Medium,4,Yes,Rural,7500,257,0
+CASE_4320,USA,2022-04-30,Texas,Harris County District Court,35,Male,Native American,Low,25199,Theft,Medium,2,No,Urban,8709,175,1
+CASE_4321,USA,2023-10-05,Texas,Harris County District Court,70,Female,Black,Low,18267,WhiteCollar,High,4,No,Urban,74807,283,0
+CASE_4322,USA,2023-10-24,Illinois,Cook County Circuit Court,33,Male,Hispanic,Low,20162,WhiteCollar,Low,5,Yes,Urban,7366,410,1
+CASE_4323,USA,2022-07-05,New York,New York City Criminal Court,37,Male,White,Medium,38615,WhiteCollar,High,4,Yes,Rural,114139,154,0
+CASE_4324,USA,2022-09-20,California,Superior Court of California,41,Male,Asian,Medium,84120,Theft,Low,5,No,Urban,2135,161,0
+CASE_4325,USA,2024-01-26,Arizona,Maricopa County Superior Court,60,Male,Black,High,470164,Assault,Low,1,No,Rural,5200,144,1
+CASE_4326,USA,2023-03-03,Texas,Harris County District Court,33,Female,Hispanic,High,487814,Fraud,Medium,1,Yes,Rural,12634,327,1
+CASE_4327,USA,2023-08-03,California,Superior Court of California,29,Female,Hispanic,Medium,71811,Fraud,High,5,Yes,Urban,50061,323,0
+CASE_4328,USA,2023-05-28,Arizona,Maricopa County Superior Court,67,Male,White,Low,18151,Theft,Low,1,Yes,Urban,1588,189,1
+CASE_4329,USA,2022-04-23,Illinois,Cook County Circuit Court,33,Male,Asian,Low,33060,Theft,High,3,No,Rural,46931,170,0
+CASE_4330,USA,2023-04-17,Illinois,Cook County Circuit Court,26,Female,Native American,Low,21225,Theft,Low,4,Yes,Urban,726,98,1
+CASE_4331,USA,2022-01-06,New York,New York City Criminal Court,62,Female,Black,Medium,57804,Fraud,Low,2,No,Urban,6482,144,1
+CASE_4332,USA,2023-09-10,Texas,Harris County District Court,61,Male,Black,High,425338,WhiteCollar,High,0,Yes,Urban,66491,326,1
+CASE_4333,USA,2023-03-04,California,Superior Court of California,58,Female,White,High,160087,WhiteCollar,Medium,0,Yes,Urban,21917,326,1
+CASE_4334,USA,2023-07-02,Texas,Harris County District Court,68,Female,Native American,Medium,44678,WhiteCollar,High,3,No,Urban,74231,439,0
+CASE_4335,USA,2022-04-28,New York,New York City Criminal Court,22,Male,White,Medium,85516,WhiteCollar,High,1,Yes,Urban,105415,302,0
+CASE_4336,USA,2022-01-04,Arizona,Maricopa County Superior Court,46,Male,White,Medium,64949,WhiteCollar,High,0,Yes,Rural,140554,36,1
+CASE_4337,USA,2023-11-01,Arizona,Maricopa County Superior Court,40,Male,Hispanic,Low,16226,Fraud,Low,1,Yes,Rural,4016,333,1
+CASE_4338,USA,2022-06-21,Texas,Harris County District Court,52,Female,Asian,Low,16215,Assault,Low,3,No,Urban,1929,287,1
+CASE_4339,USA,2022-04-07,California,Superior Court of California,53,Male,Black,Low,34521,WhiteCollar,High,3,Yes,Urban,92611,343,1
+CASE_4340,USA,2023-05-27,New York,New York City Criminal Court,37,Male,Asian,Low,31966,WhiteCollar,Medium,3,No,Urban,14018,184,1
+CASE_4341,USA,2023-07-06,Texas,Harris County District Court,42,Female,Native American,Low,32960,WhiteCollar,Medium,0,No,Urban,27467,391,1
+CASE_4342,USA,2022-01-18,Illinois,Cook County Circuit Court,28,Female,White,Medium,63018,WhiteCollar,Medium,2,Yes,Urban,7620,297,1
+CASE_4343,USA,2024-01-04,New York,New York City Criminal Court,52,Male,White,Medium,67173,Theft,High,0,Yes,Rural,102051,352,1
+CASE_4344,USA,2024-03-03,Illinois,Cook County Circuit Court,64,Male,Black,Medium,51505,Theft,Low,0,Yes,Rural,4037,86,1
+CASE_4345,USA,2022-10-26,Texas,Harris County District Court,18,Male,Asian,Medium,66848,Fraud,Low,5,Yes,Rural,4355,313,1
+CASE_4346,USA,2023-01-04,Texas,Harris County District Court,43,Male,Hispanic,Low,17502,Fraud,Low,5,No,Urban,4038,382,1
+CASE_4347,USA,2024-01-22,New York,New York City Criminal Court,50,Female,Asian,Low,23667,Fraud,High,1,Yes,Urban,154484,373,0
+CASE_4348,USA,2023-04-15,Illinois,Cook County Circuit Court,64,Male,White,Low,26606,WhiteCollar,Low,4,Yes,Rural,2216,354,1
+CASE_4349,USA,2022-05-17,Arizona,Maricopa County Superior Court,61,Male,Hispanic,High,117903,Theft,Low,5,No,Urban,2622,143,1
+CASE_4350,USA,2023-10-06,New York,New York City Criminal Court,50,Female,Hispanic,Low,25755,Theft,Low,2,Yes,Urban,7048,227,1
+CASE_4351,USA,2022-03-25,New York,New York City Criminal Court,45,Female,White,High,234190,Assault,Medium,5,Yes,Rural,22389,60,1
+CASE_4352,USA,2022-11-01,Illinois,Cook County Circuit Court,42,Female,Native American,High,344886,WhiteCollar,Low,0,Yes,Rural,2297,262,1
+CASE_4353,USA,2024-01-26,Illinois,Cook County Circuit Court,33,Male,Asian,High,431760,WhiteCollar,High,0,Yes,Rural,82821,61,1
+CASE_4354,USA,2023-10-25,California,Superior Court of California,27,Female,Hispanic,Medium,60179,Assault,Low,0,Yes,Urban,2768,213,1
+CASE_4355,USA,2023-03-12,Illinois,Cook County Circuit Court,25,Female,White,Low,18856,WhiteCollar,Low,3,Yes,Urban,5154,393,1
+CASE_4356,USA,2023-01-13,Arizona,Maricopa County Superior Court,53,Female,Native American,Low,30445,Theft,High,5,No,Urban,73775,289,0
+CASE_4357,USA,2022-11-21,Texas,Harris County District Court,61,Female,Native American,High,331519,Assault,Medium,0,Yes,Rural,22359,33,1
+CASE_4358,USA,2023-09-06,Illinois,Cook County Circuit Court,64,Male,Asian,Low,33676,Assault,High,0,Yes,Rural,45549,305,1
+CASE_4359,USA,2022-10-05,Texas,Harris County District Court,20,Male,White,Low,21680,Theft,Low,5,Yes,Rural,3861,222,1
+CASE_4360,USA,2023-07-23,California,Superior Court of California,39,Male,Black,Low,33324,WhiteCollar,Low,4,No,Urban,2766,517,0
+CASE_4361,USA,2023-02-24,Texas,Harris County District Court,41,Female,Native American,Low,24622,Fraud,Low,5,No,Rural,2382,275,1
+CASE_4362,USA,2022-12-05,Texas,Harris County District Court,19,Male,Asian,Medium,53375,Theft,Low,1,No,Urban,2512,29,1
+CASE_4363,USA,2022-07-18,Illinois,Cook County Circuit Court,21,Male,White,Low,17349,Assault,Medium,5,No,Rural,23483,409,0
+CASE_4364,USA,2022-07-13,Illinois,Cook County Circuit Court,63,Female,Asian,High,409901,Assault,Low,4,Yes,Rural,1295,144,1
+CASE_4365,USA,2022-12-14,Texas,Harris County District Court,57,Female,Native American,High,270400,WhiteCollar,Medium,4,No,Rural,18533,306,0
+CASE_4366,USA,2022-07-29,Arizona,Maricopa County Superior Court,37,Female,Hispanic,High,376725,Theft,High,0,Yes,Urban,73084,178,1
+CASE_4367,USA,2023-02-09,Texas,Harris County District Court,24,Male,Hispanic,Low,28917,Theft,Low,2,No,Rural,1561,470,1
+CASE_4368,USA,2023-06-24,Illinois,Cook County Circuit Court,24,Male,White,Medium,77311,WhiteCollar,Medium,4,Yes,Urban,5117,12,0
+CASE_4369,USA,2023-06-05,Illinois,Cook County Circuit Court,62,Female,White,Low,33106,Theft,Low,3,Yes,Rural,960,380,0
+CASE_4370,USA,2023-09-24,New York,New York City Criminal Court,68,Female,White,Medium,77276,Assault,High,2,No,Rural,117630,291,0
+CASE_4371,USA,2022-12-18,Arizona,Maricopa County Superior Court,23,Male,Asian,High,286802,WhiteCollar,Low,0,No,Rural,4884,152,1
+CASE_4372,USA,2023-10-04,New York,New York City Criminal Court,26,Female,Native American,Medium,63866,Assault,Low,1,No,Urban,4030,69,1
+CASE_4373,USA,2022-02-27,New York,New York City Criminal Court,47,Female,Black,High,256002,Theft,Low,0,No,Urban,4810,349,1
+CASE_4374,USA,2022-12-01,Arizona,Maricopa County Superior Court,18,Female,Hispanic,High,400161,Fraud,High,1,Yes,Urban,172242,355,0
+CASE_4375,USA,2024-02-20,California,Superior Court of California,30,Female,Hispanic,Low,23395,Assault,Low,1,No,Urban,6111,349,1
+CASE_4376,USA,2023-08-08,Arizona,Maricopa County Superior Court,70,Female,Hispanic,High,394839,WhiteCollar,High,3,Yes,Urban,106216,215,0
+CASE_4377,USA,2022-07-17,New York,New York City Criminal Court,25,Male,Hispanic,High,208980,WhiteCollar,Medium,0,Yes,Urban,9601,237,1
+CASE_4378,USA,2023-01-27,California,Superior Court of California,30,Female,Black,Low,32636,Theft,Medium,2,No,Rural,14172,429,1
+CASE_4379,USA,2023-12-25,California,Superior Court of California,56,Female,Hispanic,Medium,59408,Assault,High,1,No,Urban,109306,375,0
+CASE_4380,USA,2023-09-16,Arizona,Maricopa County Superior Court,63,Female,White,High,262748,WhiteCollar,Medium,2,No,Rural,24562,384,1
+CASE_4381,USA,2023-03-13,California,Superior Court of California,46,Female,Black,High,194696,Assault,Medium,0,Yes,Urban,15272,366,1
+CASE_4382,USA,2023-12-03,Illinois,Cook County Circuit Court,68,Male,Black,Low,33192,Theft,Low,4,Yes,Rural,5080,439,0
+CASE_4383,USA,2023-04-13,California,Superior Court of California,19,Female,Hispanic,Medium,71883,WhiteCollar,Low,4,Yes,Urban,4679,384,0
+CASE_4384,USA,2022-12-07,Arizona,Maricopa County Superior Court,54,Male,Black,High,439733,Theft,High,2,No,Urban,104181,112,0
+CASE_4385,USA,2024-01-24,Arizona,Maricopa County Superior Court,40,Male,Black,Medium,83235,WhiteCollar,Medium,4,No,Rural,25390,180,0
+CASE_4386,USA,2022-11-10,New York,New York City Criminal Court,55,Female,Asian,Medium,64527,Assault,Medium,0,Yes,Rural,6032,109,1
+CASE_4387,USA,2022-11-05,Texas,Harris County District Court,35,Male,Native American,Low,28903,Theft,High,2,No,Rural,86206,308,0
+CASE_4388,USA,2023-10-22,Arizona,Maricopa County Superior Court,50,Male,Native American,Medium,78047,Theft,Low,2,No,Rural,3382,258,1
+CASE_4389,USA,2022-06-20,Illinois,Cook County Circuit Court,34,Female,White,Medium,69349,WhiteCollar,Low,1,No,Urban,1093,207,1
+CASE_4390,USA,2022-10-21,Arizona,Maricopa County Superior Court,38,Female,Hispanic,High,333758,Theft,Medium,1,Yes,Rural,18164,352,1
+CASE_4391,USA,2023-08-04,Illinois,Cook County Circuit Court,69,Female,Native American,High,127419,Assault,Low,4,Yes,Rural,2514,18,1
+CASE_4392,USA,2022-03-02,Arizona,Maricopa County Superior Court,48,Female,Asian,High,221368,Assault,Medium,4,Yes,Urban,9231,241,1
+CASE_4393,USA,2023-07-30,California,Superior Court of California,58,Female,Black,High,144347,Assault,Low,1,Yes,Urban,700,208,1
+CASE_4394,USA,2022-07-06,New York,New York City Criminal Court,63,Male,Asian,Low,28286,Fraud,Medium,3,No,Urban,26277,294,1
+CASE_4395,USA,2023-03-27,New York,New York City Criminal Court,67,Male,White,Low,25358,Theft,Low,5,No,Urban,3221,148,1
+CASE_4396,USA,2022-09-08,Arizona,Maricopa County Superior Court,25,Female,Hispanic,Medium,39968,Assault,High,4,No,Urban,145964,301,0
+CASE_4397,USA,2022-06-17,New York,New York City Criminal Court,62,Female,Black,Medium,76656,WhiteCollar,High,2,No,Rural,63873,230,0
+CASE_4398,USA,2022-09-16,Texas,Harris County District Court,36,Female,Native American,High,183276,Assault,Low,5,Yes,Rural,710,263,0
+CASE_4399,USA,2023-11-16,Illinois,Cook County Circuit Court,55,Male,White,Medium,41867,WhiteCollar,Medium,4,No,Rural,15036,401,1
+CASE_4400,USA,2024-01-10,California,Superior Court of California,45,Female,White,Low,32293,Fraud,High,2,Yes,Urban,44052,338,0
+CASE_4401,USA,2022-10-26,California,Superior Court of California,23,Female,Asian,Medium,40706,Assault,High,5,Yes,Urban,103975,352,0
+CASE_4402,USA,2023-05-18,Arizona,Maricopa County Superior Court,20,Female,Native American,Medium,74790,Assault,High,2,Yes,Urban,109763,142,1
+CASE_4403,USA,2024-02-20,California,Superior Court of California,47,Female,Asian,Low,15064,Assault,Medium,5,No,Urban,20379,342,0
+CASE_4404,USA,2023-12-08,Illinois,Cook County Circuit Court,53,Female,Black,High,452350,Theft,Low,3,Yes,Rural,4468,109,1
+CASE_4405,USA,2022-07-28,Texas,Harris County District Court,39,Female,Asian,Medium,37088,WhiteCollar,Medium,4,Yes,Rural,16042,229,0
+CASE_4406,USA,2022-02-21,New York,New York City Criminal Court,53,Female,Hispanic,High,330649,Theft,Low,4,No,Rural,4197,400,1
+CASE_4407,USA,2022-02-07,Arizona,Maricopa County Superior Court,44,Female,Native American,Medium,63579,Fraud,Low,2,No,Urban,4222,406,1
+CASE_4408,USA,2022-07-07,California,Superior Court of California,59,Female,Asian,Low,19784,Fraud,Medium,0,Yes,Rural,6640,222,1
+CASE_4409,USA,2023-06-02,New York,New York City Criminal Court,55,Male,Asian,Medium,41977,Assault,High,1,Yes,Rural,50398,88,0
+CASE_4410,USA,2023-03-01,New York,New York City Criminal Court,54,Female,Hispanic,Medium,46466,Theft,High,1,Yes,Urban,94008,111,0
+CASE_4411,USA,2022-08-28,California,Superior Court of California,61,Female,Asian,Low,27395,Fraud,High,1,Yes,Rural,118034,365,0
+CASE_4412,USA,2022-06-08,Texas,Harris County District Court,38,Male,Black,High,148080,Assault,Low,4,Yes,Urban,2494,195,1
+CASE_4413,USA,2023-05-08,New York,New York City Criminal Court,62,Male,White,High,426788,Assault,High,5,No,Rural,60406,262,0
+CASE_4414,USA,2022-12-30,Illinois,Cook County Circuit Court,27,Female,Black,Low,33201,WhiteCollar,High,2,No,Urban,134837,334,0
+CASE_4415,USA,2023-10-13,Texas,Harris County District Court,65,Female,Hispanic,High,345363,WhiteCollar,High,4,No,Rural,187094,138,0
+CASE_4416,USA,2023-04-15,California,Superior Court of California,22,Male,Hispanic,Low,19825,Fraud,High,4,Yes,Rural,54733,412,0
+CASE_4417,USA,2023-12-08,Illinois,Cook County Circuit Court,56,Male,Asian,Medium,65231,WhiteCollar,High,1,Yes,Rural,131461,363,0
+CASE_4418,USA,2022-11-14,California,Superior Court of California,65,Female,Hispanic,Low,32225,Fraud,Low,2,No,Rural,5623,438,1
+CASE_4419,USA,2024-02-20,Illinois,Cook County Circuit Court,53,Female,Asian,Medium,48888,Fraud,High,3,No,Urban,82579,217,0
+CASE_4420,USA,2023-11-17,Arizona,Maricopa County Superior Court,48,Female,White,Low,33038,Assault,Low,1,No,Urban,1144,149,1
+CASE_4421,USA,2022-06-20,Arizona,Maricopa County Superior Court,53,Male,Black,High,463178,Theft,Medium,5,No,Urban,15034,276,0
+CASE_4422,USA,2023-04-03,New York,New York City Criminal Court,51,Male,Hispanic,Low,27793,Theft,High,2,Yes,Urban,74461,112,1
+CASE_4423,USA,2023-03-12,New York,New York City Criminal Court,47,Female,White,Low,19085,WhiteCollar,High,5,Yes,Urban,67793,354,0
+CASE_4424,USA,2022-11-07,California,Superior Court of California,55,Female,Hispanic,High,312485,WhiteCollar,Medium,5,No,Urban,15711,418,1
+CASE_4425,USA,2022-12-01,New York,New York City Criminal Court,69,Male,Native American,Medium,49366,Fraud,High,4,No,Rural,94207,319,0
+CASE_4426,USA,2023-07-03,Texas,Harris County District Court,48,Female,White,High,247661,Fraud,High,1,Yes,Urban,46573,241,0
+CASE_4427,USA,2022-11-26,Arizona,Maricopa County Superior Court,35,Male,Native American,Medium,36100,Assault,Medium,3,Yes,Urban,18498,296,0
+CASE_4428,USA,2022-03-16,Illinois,Cook County Circuit Court,52,Female,Native American,High,190412,WhiteCollar,Low,2,No,Rural,4660,181,1
+CASE_4429,USA,2022-12-24,Arizona,Maricopa County Superior Court,49,Male,Asian,High,311688,Fraud,Low,1,No,Rural,2162,274,1
+CASE_4430,USA,2024-03-09,Texas,Harris County District Court,24,Female,Native American,Low,28798,Theft,Medium,2,No,Urban,13216,277,1
+CASE_4431,USA,2024-01-09,Texas,Harris County District Court,70,Male,Asian,High,352189,Fraud,Low,4,No,Urban,2744,210,1
+CASE_4432,USA,2022-06-28,Illinois,Cook County Circuit Court,60,Female,Asian,Medium,89084,Fraud,Low,1,No,Urban,2082,129,1
+CASE_4433,USA,2022-12-24,New York,New York City Criminal Court,26,Male,Black,Medium,88108,Theft,Medium,4,Yes,Urban,7039,65,0
+CASE_4434,USA,2023-12-02,New York,New York City Criminal Court,46,Female,Native American,Low,32743,Fraud,Medium,5,No,Rural,23258,460,0
+CASE_4435,USA,2024-02-02,New York,New York City Criminal Court,41,Female,Asian,Medium,73536,WhiteCollar,Medium,2,Yes,Urban,18935,188,1
+CASE_4436,USA,2023-07-02,California,Superior Court of California,44,Male,Hispanic,Medium,47894,WhiteCollar,High,1,Yes,Urban,46654,145,1
+CASE_4437,USA,2023-05-19,New York,New York City Criminal Court,51,Female,Hispanic,High,106191,Assault,Low,2,No,Rural,4138,91,1
+CASE_4438,USA,2023-10-05,California,Superior Court of California,52,Male,White,Medium,42322,Theft,Low,3,Yes,Rural,2778,145,1
+CASE_4439,USA,2022-12-01,Illinois,Cook County Circuit Court,57,Male,Hispanic,Medium,57370,Theft,Medium,4,No,Urban,24275,56,0
+CASE_4440,USA,2023-06-18,Arizona,Maricopa County Superior Court,36,Male,Native American,Medium,67358,WhiteCollar,High,5,Yes,Urban,146547,236,0
+CASE_4441,USA,2023-04-18,New York,New York City Criminal Court,43,Male,Hispanic,High,490300,Fraud,Low,0,No,Rural,1650,361,1
+CASE_4442,USA,2022-01-24,New York,New York City Criminal Court,67,Male,Black,High,363969,WhiteCollar,High,5,Yes,Rural,136467,180,0
+CASE_4443,USA,2022-01-04,California,Superior Court of California,20,Female,Asian,Medium,71476,Assault,Low,1,No,Rural,2657,320,1
+CASE_4444,USA,2022-07-01,Arizona,Maricopa County Superior Court,48,Male,White,Low,28945,WhiteCollar,High,3,No,Urban,84521,231,0
+CASE_4445,USA,2023-07-28,Arizona,Maricopa County Superior Court,52,Female,White,Low,16267,Theft,High,2,Yes,Rural,54201,278,1
+CASE_4446,USA,2023-01-02,Illinois,Cook County Circuit Court,28,Male,Hispanic,Medium,84379,WhiteCollar,High,5,Yes,Rural,164729,81,0
+CASE_4447,USA,2022-04-19,Illinois,Cook County Circuit Court,24,Male,Hispanic,Medium,39041,Theft,Low,5,No,Rural,1926,158,1
+CASE_4448,USA,2023-07-14,Illinois,Cook County Circuit Court,60,Female,Black,Medium,36826,WhiteCollar,High,1,Yes,Rural,142017,131,0
+CASE_4449,USA,2023-11-07,Illinois,Cook County Circuit Court,58,Female,Native American,Low,32169,Theft,Medium,4,Yes,Urban,20863,178,1
+CASE_4450,USA,2023-12-30,New York,New York City Criminal Court,62,Male,Asian,Medium,82785,Fraud,Low,5,Yes,Urban,768,47,1
+CASE_4451,USA,2023-03-01,Illinois,Cook County Circuit Court,58,Male,Hispanic,Low,21631,Theft,High,4,Yes,Urban,142671,369,0
+CASE_4452,USA,2022-03-14,California,Superior Court of California,68,Female,Black,Medium,87941,WhiteCollar,Medium,2,No,Rural,27827,327,0
+CASE_4453,USA,2023-04-26,Arizona,Maricopa County Superior Court,58,Male,Asian,High,398268,Fraud,High,2,No,Rural,28927,346,0
+CASE_4454,USA,2023-06-14,Texas,Harris County District Court,51,Female,Asian,High,311268,WhiteCollar,High,4,No,Rural,28967,389,0
+CASE_4455,USA,2023-05-20,Texas,Harris County District Court,55,Female,Native American,High,369484,Assault,High,4,Yes,Urban,100444,142,0
+CASE_4456,USA,2023-05-30,Texas,Harris County District Court,35,Male,Asian,Low,25510,WhiteCollar,Medium,0,Yes,Rural,7738,430,1
+CASE_4457,USA,2022-11-01,New York,New York City Criminal Court,66,Female,Asian,Low,30189,Fraud,Low,2,No,Urban,2733,219,1
+CASE_4458,USA,2022-06-19,Arizona,Maricopa County Superior Court,50,Female,Hispanic,High,420224,Theft,Low,0,Yes,Urban,4741,276,1
+CASE_4459,USA,2023-03-30,Texas,Harris County District Court,54,Male,Asian,High,296767,Assault,High,3,No,Urban,92643,323,0
+CASE_4460,USA,2023-08-02,Illinois,Cook County Circuit Court,36,Female,Native American,Medium,64940,Assault,High,3,Yes,Rural,129613,45,1
+CASE_4461,USA,2023-06-11,Illinois,Cook County Circuit Court,67,Male,Hispanic,Low,21360,Theft,Medium,1,Yes,Rural,35791,322,0
+CASE_4462,USA,2022-06-02,California,Superior Court of California,31,Male,White,High,132979,Theft,High,4,No,Rural,124229,146,0
+CASE_4463,USA,2023-03-18,New York,New York City Criminal Court,27,Female,White,Medium,45817,Assault,Medium,4,Yes,Rural,22308,249,0
+CASE_4464,USA,2024-02-04,Texas,Harris County District Court,35,Male,Native American,High,456717,Fraud,Medium,5,Yes,Urban,12172,342,0
+CASE_4465,USA,2022-01-08,Texas,Harris County District Court,20,Female,Hispanic,Low,17843,WhiteCollar,Low,3,No,Rural,1679,181,1
+CASE_4466,USA,2024-01-24,Arizona,Maricopa County Superior Court,46,Male,White,Low,15416,Assault,Low,3,Yes,Rural,4035,211,1
+CASE_4467,USA,2023-06-20,Illinois,Cook County Circuit Court,28,Female,Hispanic,High,93969,WhiteCollar,Medium,4,No,Urban,15767,276,0
+CASE_4468,USA,2023-08-11,Arizona,Maricopa County Superior Court,58,Female,Hispanic,Low,17670,Assault,Low,2,Yes,Urban,821,224,1
+CASE_4469,USA,2022-09-04,Arizona,Maricopa County Superior Court,43,Male,Asian,Low,27744,Assault,Low,1,No,Rural,2187,210,1
+CASE_4470,USA,2023-10-22,New York,New York City Criminal Court,63,Male,Native American,Low,23265,Fraud,High,1,Yes,Rural,135988,318,0
+CASE_4471,USA,2023-07-01,California,Superior Court of California,41,Male,Asian,Medium,69035,WhiteCollar,Low,5,No,Rural,2489,99,0
+CASE_4472,USA,2023-09-13,Illinois,Cook County Circuit Court,27,Male,Black,High,291636,Assault,High,3,Yes,Rural,137426,123,1
+CASE_4473,USA,2023-06-13,Arizona,Maricopa County Superior Court,57,Male,Hispanic,High,437002,Theft,High,3,Yes,Urban,77692,152,1
+CASE_4474,USA,2023-12-06,California,Superior Court of California,55,Male,Native American,High,101078,Theft,Low,3,Yes,Urban,1944,290,1
+CASE_4475,USA,2023-10-30,New York,New York City Criminal Court,56,Female,Asian,Medium,68573,Theft,High,2,Yes,Urban,64237,258,0
+CASE_4476,USA,2022-02-24,Illinois,Cook County Circuit Court,36,Female,White,Medium,40931,Assault,Medium,1,No,Rural,8415,320,0
+CASE_4477,USA,2023-06-16,New York,New York City Criminal Court,32,Male,White,Medium,75076,Assault,Medium,2,Yes,Rural,14841,360,0
+CASE_4478,USA,2022-01-24,Illinois,Cook County Circuit Court,28,Female,Black,Low,17558,Fraud,Medium,0,Yes,Rural,25010,223,1
+CASE_4479,USA,2023-10-02,Illinois,Cook County Circuit Court,66,Male,Black,Medium,80726,Theft,High,5,No,Urban,95980,287,0
+CASE_4480,USA,2022-03-23,Texas,Harris County District Court,29,Female,Native American,Low,34916,Assault,Medium,4,Yes,Rural,16894,317,0
+CASE_4481,USA,2022-05-04,Texas,Harris County District Court,20,Male,Native American,Low,29238,Fraud,Medium,2,No,Urban,26495,183,0
+CASE_4482,USA,2023-10-24,Illinois,Cook County Circuit Court,28,Female,Native American,High,222807,WhiteCollar,Low,2,No,Urban,1403,116,1
+CASE_4483,USA,2023-10-19,California,Superior Court of California,50,Male,Native American,Medium,60400,Fraud,High,1,No,Urban,117879,313,0
+CASE_4484,USA,2022-04-02,Arizona,Maricopa County Superior Court,27,Male,Asian,Medium,42097,WhiteCollar,High,4,No,Rural,130880,255,0
+CASE_4485,USA,2024-02-23,Arizona,Maricopa County Superior Court,66,Male,Hispanic,High,443081,WhiteCollar,Low,1,No,Rural,4790,392,1
+CASE_4486,USA,2023-11-03,New York,New York City Criminal Court,62,Male,Black,Low,19651,Assault,Medium,4,No,Rural,32822,232,0
+CASE_4487,USA,2022-07-01,California,Superior Court of California,64,Male,Hispanic,High,294572,Theft,Low,3,No,Urban,1044,395,1
+CASE_4488,USA,2023-03-01,New York,New York City Criminal Court,56,Female,Black,Low,17269,Theft,High,5,No,Rural,48003,410,0
+CASE_4489,USA,2023-11-27,New York,New York City Criminal Court,62,Male,White,High,487877,Fraud,Low,5,Yes,Urban,871,356,1
+CASE_4490,USA,2023-02-07,Arizona,Maricopa County Superior Court,24,Female,Asian,Medium,59287,Assault,Medium,3,Yes,Urban,24149,213,1
+CASE_4491,USA,2023-08-06,Texas,Harris County District Court,42,Male,Black,Low,32710,Fraud,Medium,3,No,Rural,16413,204,1
+CASE_4492,USA,2022-04-11,Illinois,Cook County Circuit Court,24,Female,White,Medium,38364,WhiteCollar,High,0,Yes,Urban,54111,339,0
+CASE_4493,USA,2023-08-07,Arizona,Maricopa County Superior Court,48,Female,Black,Medium,84583,WhiteCollar,Medium,1,Yes,Urban,26599,251,1
+CASE_4494,USA,2023-02-01,Arizona,Maricopa County Superior Court,48,Male,White,Low,28778,WhiteCollar,Low,4,Yes,Rural,3643,104,1
+CASE_4495,USA,2023-01-15,Illinois,Cook County Circuit Court,58,Male,White,Medium,48075,Theft,Medium,2,No,Rural,20104,156,0
+CASE_4496,USA,2022-05-27,Illinois,Cook County Circuit Court,23,Male,Black,Low,25450,Theft,Medium,4,No,Rural,27937,200,1
+CASE_4497,USA,2022-10-16,New York,New York City Criminal Court,55,Female,Native American,Low,22292,WhiteCollar,High,2,Yes,Urban,44595,374,0
+CASE_4498,USA,2022-01-06,California,Superior Court of California,46,Female,Black,High,140222,Fraud,Low,1,No,Rural,3316,164,1
+CASE_4499,USA,2023-11-24,California,Superior Court of California,65,Female,Hispanic,Low,17642,Fraud,Medium,1,No,Urban,17126,335,0
+CASE_4500,USA,2024-02-27,California,Superior Court of California,42,Male,White,High,329444,Fraud,Low,1,No,Rural,3492,109,1
+CASE_4501,USA,2022-09-25,Illinois,Cook County Circuit Court,65,Male,Black,High,254821,Fraud,High,4,No,Urban,124576,261,0
+CASE_4502,USA,2022-03-14,New York,New York City Criminal Court,63,Female,Black,Low,19873,Assault,Medium,2,No,Urban,30163,393,1
+CASE_4503,USA,2022-08-16,California,Superior Court of California,68,Male,Native American,High,179909,WhiteCollar,Medium,5,No,Rural,19045,98,1
+CASE_4504,USA,2022-06-18,Illinois,Cook County Circuit Court,29,Male,White,Low,21945,Theft,High,2,Yes,Rural,131749,141,0
+CASE_4505,USA,2022-07-26,Illinois,Cook County Circuit Court,54,Male,Native American,Medium,38966,Theft,Low,2,No,Urban,4775,142,1
+CASE_4506,USA,2022-04-16,Arizona,Maricopa County Superior Court,49,Female,White,Low,24120,Fraud,Medium,0,No,Urban,8828,342,1
+CASE_4507,USA,2022-03-29,Illinois,Cook County Circuit Court,69,Female,Black,High,495155,Theft,High,5,Yes,Urban,148621,335,0
+CASE_4508,USA,2023-11-03,Illinois,Cook County Circuit Court,54,Male,Hispanic,Medium,82074,Fraud,Low,3,Yes,Urban,2674,182,1
+CASE_4509,USA,2022-06-16,Illinois,Cook County Circuit Court,22,Male,Hispanic,Low,24064,Fraud,Low,0,No,Urban,6248,439,1
+CASE_4510,USA,2023-06-21,California,Superior Court of California,18,Female,Native American,High,485344,Assault,Medium,2,No,Rural,9792,308,1
+CASE_4511,USA,2022-02-05,New York,New York City Criminal Court,70,Male,Asian,Medium,69129,Assault,Medium,0,No,Urban,10654,244,1
+CASE_4512,USA,2023-08-26,Illinois,Cook County Circuit Court,47,Male,Native American,Low,19273,Assault,Low,4,No,Rural,2721,181,1
+CASE_4513,USA,2022-07-30,California,Superior Court of California,20,Male,White,High,218674,Theft,Low,2,Yes,Urban,2137,153,1
+CASE_4514,USA,2023-09-26,Illinois,Cook County Circuit Court,70,Male,Native American,Medium,53793,WhiteCollar,High,3,No,Urban,46039,250,0
+CASE_4515,USA,2022-11-27,Arizona,Maricopa County Superior Court,69,Male,White,Low,30949,Fraud,Medium,0,No,Urban,17555,503,1
+CASE_4516,USA,2022-11-09,Arizona,Maricopa County Superior Court,61,Male,Asian,Low,27491,Assault,Low,0,Yes,Urban,1633,119,1
+CASE_4517,USA,2023-08-31,Texas,Harris County District Court,53,Male,Native American,High,367226,Fraud,High,0,Yes,Rural,130261,55,0
+CASE_4518,USA,2023-03-01,New York,New York City Criminal Court,45,Male,Black,Medium,67989,Theft,High,1,No,Rural,152893,168,0
+CASE_4519,USA,2022-07-27,California,Superior Court of California,46,Female,Asian,Low,18108,Assault,Medium,0,Yes,Urban,18639,338,1
+CASE_4520,USA,2024-01-25,Illinois,Cook County Circuit Court,37,Female,Asian,High,448227,Assault,Medium,5,Yes,Rural,16057,239,0
+CASE_4521,USA,2023-05-20,Texas,Harris County District Court,36,Female,Black,High,265690,Fraud,Low,0,Yes,Rural,2508,266,1
+CASE_4522,USA,2022-12-18,Arizona,Maricopa County Superior Court,59,Male,Asian,Medium,35272,Theft,Low,5,Yes,Urban,2632,74,1
+CASE_4523,USA,2023-06-07,Texas,Harris County District Court,69,Female,Hispanic,Low,25447,Theft,Low,3,No,Urban,3027,499,1
+CASE_4524,USA,2023-01-05,Illinois,Cook County Circuit Court,29,Female,Asian,High,152586,Fraud,High,5,Yes,Urban,81964,222,1
+CASE_4525,USA,2024-02-01,Texas,Harris County District Court,70,Male,White,Low,18293,Fraud,High,0,No,Rural,115893,403,1
+CASE_4526,USA,2022-08-02,Arizona,Maricopa County Superior Court,35,Female,Asian,High,402351,Theft,High,5,Yes,Urban,111338,194,0
+CASE_4527,USA,2022-02-04,New York,New York City Criminal Court,46,Female,Native American,High,327758,Assault,Medium,5,No,Rural,19125,173,0
+CASE_4528,USA,2022-02-15,Texas,Harris County District Court,31,Male,Asian,Medium,64635,Assault,High,5,Yes,Urban,120259,133,0
+CASE_4529,USA,2022-03-30,Arizona,Maricopa County Superior Court,32,Female,Hispanic,Low,28127,WhiteCollar,Medium,0,No,Rural,15577,432,1
+CASE_4530,USA,2023-07-09,New York,New York City Criminal Court,45,Female,Asian,High,399199,WhiteCollar,High,4,No,Urban,36143,156,0
+CASE_4531,USA,2022-02-21,Texas,Harris County District Court,66,Female,Black,Medium,75378,Fraud,High,0,No,Rural,80216,122,1
+CASE_4532,USA,2022-06-04,Texas,Harris County District Court,44,Female,White,High,405310,Assault,Low,0,No,Urban,2747,358,1
+CASE_4533,USA,2023-11-29,Illinois,Cook County Circuit Court,19,Male,Hispanic,High,254543,Theft,Medium,2,Yes,Urban,23486,228,1
+CASE_4534,USA,2022-11-06,California,Superior Court of California,60,Female,Black,Low,21225,Assault,High,0,No,Rural,206837,474,0
+CASE_4535,USA,2024-02-24,Arizona,Maricopa County Superior Court,20,Female,Asian,High,271320,Assault,Medium,3,No,Rural,7664,284,1
+CASE_4536,USA,2023-08-07,California,Superior Court of California,59,Male,White,High,189399,Theft,Low,4,Yes,Rural,2036,160,0
+CASE_4537,USA,2024-01-20,Illinois,Cook County Circuit Court,18,Male,Black,High,183354,Theft,High,0,No,Rural,36071,188,1
+CASE_4538,USA,2022-12-31,Illinois,Cook County Circuit Court,49,Male,White,High,489172,Assault,High,4,Yes,Urban,107625,30,0
+CASE_4539,USA,2023-11-04,Texas,Harris County District Court,55,Female,Native American,High,494958,WhiteCollar,High,4,Yes,Rural,103224,363,0
+CASE_4540,USA,2023-03-07,Arizona,Maricopa County Superior Court,23,Female,Asian,Medium,85188,WhiteCollar,Medium,1,Yes,Rural,14468,276,1
+CASE_4541,USA,2022-04-03,California,Superior Court of California,21,Female,Black,Low,19323,WhiteCollar,High,3,Yes,Urban,178017,141,0
+CASE_4542,USA,2023-11-13,California,Superior Court of California,18,Female,Asian,High,233176,Assault,Low,4,Yes,Rural,2135,214,1
+CASE_4543,USA,2023-04-09,Texas,Harris County District Court,68,Male,Native American,Low,28118,Assault,Medium,5,No,Rural,27033,352,0
+CASE_4544,USA,2022-05-29,California,Superior Court of California,53,Female,Black,High,168538,Fraud,Low,4,Yes,Urban,5805,293,1
+CASE_4545,USA,2023-07-31,Arizona,Maricopa County Superior Court,37,Female,Native American,High,339400,Assault,Low,5,Yes,Urban,3097,301,1
+CASE_4546,USA,2023-10-03,California,Superior Court of California,62,Female,Black,Low,32131,Theft,High,2,Yes,Rural,148555,409,0
+CASE_4547,USA,2022-09-24,Arizona,Maricopa County Superior Court,33,Male,Black,Low,26229,Fraud,High,5,Yes,Urban,89174,178,0
+CASE_4548,USA,2022-03-17,New York,New York City Criminal Court,62,Male,Black,Medium,35699,Fraud,Medium,2,No,Urban,9088,396,1
+CASE_4549,USA,2023-08-23,Texas,Harris County District Court,32,Female,White,Low,16971,Assault,Low,0,No,Rural,5214,492,1
+CASE_4550,USA,2022-08-30,New York,New York City Criminal Court,20,Male,Asian,Low,20439,Theft,Low,5,Yes,Rural,3088,427,0
+CASE_4551,USA,2022-01-20,Texas,Harris County District Court,67,Male,Hispanic,Low,26678,Theft,High,0,Yes,Rural,159876,286,0
+CASE_4552,USA,2022-08-01,California,Superior Court of California,28,Male,White,Low,23580,Fraud,High,2,No,Urban,77405,434,0
+CASE_4553,USA,2022-05-18,Illinois,Cook County Circuit Court,65,Female,Asian,High,431682,Assault,High,3,No,Rural,43637,154,1
+CASE_4554,USA,2022-09-25,Texas,Harris County District Court,58,Female,Native American,Medium,87262,Fraud,Medium,3,Yes,Urban,7042,262,0
+CASE_4555,USA,2023-11-07,Illinois,Cook County Circuit Court,59,Male,White,High,394727,Theft,Low,3,Yes,Urban,2606,334,1
+CASE_4556,USA,2022-01-06,Illinois,Cook County Circuit Court,29,Male,White,Low,15829,WhiteCollar,High,5,No,Urban,70890,165,0
+CASE_4557,USA,2023-12-07,California,Superior Court of California,29,Male,Native American,Medium,63919,Theft,Medium,1,No,Urban,8619,425,1
+CASE_4558,USA,2022-09-21,Illinois,Cook County Circuit Court,52,Male,Asian,Medium,80383,Theft,Low,4,No,Urban,3595,371,0
+CASE_4559,USA,2023-05-22,California,Superior Court of California,59,Female,Asian,Medium,52845,Theft,High,3,No,Rural,60518,198,0
+CASE_4560,USA,2023-02-17,Arizona,Maricopa County Superior Court,18,Female,White,Low,27819,Fraud,Medium,4,Yes,Urban,5939,117,0
+CASE_4561,USA,2022-07-25,Texas,Harris County District Court,68,Female,White,Low,26399,WhiteCollar,High,4,No,Rural,152122,352,0
+CASE_4562,USA,2023-07-16,Arizona,Maricopa County Superior Court,55,Male,Asian,Low,20526,WhiteCollar,Low,5,No,Urban,2368,415,1
+CASE_4563,USA,2023-04-25,Illinois,Cook County Circuit Court,19,Male,White,Low,17751,Fraud,Low,3,No,Rural,3794,370,1
+CASE_4564,USA,2022-08-11,Texas,Harris County District Court,58,Female,White,High,351086,WhiteCollar,Low,5,Yes,Urban,2116,266,1
+CASE_4565,USA,2022-05-06,New York,New York City Criminal Court,41,Female,Native American,Low,15515,Theft,Low,2,Yes,Urban,1077,303,1
+CASE_4566,USA,2022-03-06,Texas,Harris County District Court,20,Female,White,Low,17260,WhiteCollar,Low,2,No,Rural,5113,439,1
+CASE_4567,USA,2023-04-01,New York,New York City Criminal Court,53,Female,Asian,Low,27543,WhiteCollar,Low,0,No,Rural,5447,197,1
+CASE_4568,USA,2022-05-20,Texas,Harris County District Court,35,Female,Asian,High,281942,Assault,Medium,4,Yes,Urban,14026,232,1
+CASE_4569,USA,2023-12-19,Illinois,Cook County Circuit Court,19,Male,White,Medium,80589,Theft,Medium,5,No,Rural,22623,377,0
+CASE_4570,USA,2022-08-01,California,Superior Court of California,56,Male,Asian,Low,33353,Assault,High,4,Yes,Rural,149358,158,0
+CASE_4571,USA,2023-07-13,New York,New York City Criminal Court,69,Male,Asian,High,186249,Fraud,Low,2,No,Urban,2603,343,1
+CASE_4572,USA,2022-03-12,Texas,Harris County District Court,43,Male,Black,High,279000,Fraud,High,2,No,Rural,45154,124,0
+CASE_4573,USA,2023-05-23,New York,New York City Criminal Court,32,Male,Asian,High,275094,Theft,Low,2,No,Rural,1719,375,1
+CASE_4574,USA,2023-07-25,Texas,Harris County District Court,31,Male,Black,High,258148,Assault,Low,2,No,Urban,2889,103,1
+CASE_4575,USA,2022-06-10,California,Superior Court of California,25,Male,Hispanic,Medium,85428,Assault,Low,5,Yes,Rural,2783,254,1
+CASE_4576,USA,2022-07-07,Arizona,Maricopa County Superior Court,40,Male,Asian,Low,23196,Fraud,Low,1,Yes,Urban,1009,244,1
+CASE_4577,USA,2023-09-11,Arizona,Maricopa County Superior Court,55,Male,Asian,High,311466,WhiteCollar,High,5,Yes,Urban,132090,317,0
+CASE_4578,USA,2022-12-05,Illinois,Cook County Circuit Court,59,Female,Hispanic,Low,24047,Theft,High,4,No,Rural,102931,398,0
+CASE_4579,USA,2023-06-03,Texas,Harris County District Court,60,Female,Asian,High,305738,WhiteCollar,High,1,No,Rural,141290,271,0
+CASE_4580,USA,2023-06-29,Arizona,Maricopa County Superior Court,29,Female,Black,Low,27447,Theft,High,2,No,Rural,35691,378,0
+CASE_4581,USA,2022-09-17,Arizona,Maricopa County Superior Court,56,Male,Native American,High,209846,WhiteCollar,Medium,2,Yes,Urban,10574,124,1
+CASE_4582,USA,2023-02-05,New York,New York City Criminal Court,22,Male,Asian,Low,33165,Theft,High,5,No,Rural,84292,262,0
+CASE_4583,USA,2023-03-11,Arizona,Maricopa County Superior Court,51,Male,Hispanic,Medium,87322,WhiteCollar,Low,3,No,Urban,1602,340,1
+CASE_4584,USA,2022-02-18,New York,New York City Criminal Court,58,Female,Asian,High,304271,Fraud,Medium,5,No,Urban,9152,251,0
+CASE_4585,USA,2023-07-23,California,Superior Court of California,69,Male,Black,Medium,66804,Fraud,Medium,2,No,Rural,30744,417,0
+CASE_4586,USA,2023-06-04,Arizona,Maricopa County Superior Court,24,Female,White,Medium,72092,Assault,High,2,No,Rural,51583,373,0
+CASE_4587,USA,2022-12-01,Texas,Harris County District Court,34,Male,Asian,High,113708,Theft,Medium,5,No,Urban,21831,370,0
+CASE_4588,USA,2022-08-26,New York,New York City Criminal Court,24,Female,Hispanic,High,214736,Fraud,High,4,No,Rural,36446,351,0
+CASE_4589,USA,2022-09-03,Illinois,Cook County Circuit Court,24,Male,Asian,Low,29984,Theft,Low,4,Yes,Rural,992,130,1
+CASE_4590,USA,2023-02-09,California,Superior Court of California,54,Female,Hispanic,Medium,36639,Fraud,Medium,0,Yes,Rural,26637,193,1
+CASE_4591,USA,2022-08-02,Illinois,Cook County Circuit Court,63,Female,Hispanic,Low,23908,Assault,High,5,No,Urban,162349,279,0
+CASE_4592,USA,2023-06-18,California,Superior Court of California,36,Male,Black,Medium,83758,Assault,Medium,2,Yes,Urban,25997,184,0
+CASE_4593,USA,2022-09-07,New York,New York City Criminal Court,18,Female,Native American,High,305003,Theft,High,5,Yes,Urban,99393,281,0
+CASE_4594,USA,2023-04-29,New York,New York City Criminal Court,52,Female,White,Medium,65238,Assault,Medium,5,No,Urban,7178,259,1
+CASE_4595,USA,2023-05-21,New York,New York City Criminal Court,44,Female,White,High,130312,Theft,High,2,No,Urban,96464,200,0
+CASE_4596,USA,2023-01-22,Arizona,Maricopa County Superior Court,29,Male,Hispanic,Low,31679,Fraud,Low,0,Yes,Rural,2687,113,1
+CASE_4597,USA,2022-09-09,Illinois,Cook County Circuit Court,29,Male,White,High,477507,Theft,Low,5,Yes,Urban,1183,317,1
+CASE_4598,USA,2023-09-24,Arizona,Maricopa County Superior Court,36,Female,Hispanic,High,422753,WhiteCollar,High,3,No,Rural,45457,153,0
+CASE_4599,USA,2024-02-25,Arizona,Maricopa County Superior Court,46,Male,Black,Low,32537,Assault,Low,5,Yes,Urban,2960,136,1
+CASE_4600,USA,2023-04-05,California,Superior Court of California,21,Female,Hispanic,Medium,76184,Fraud,Low,3,No,Urban,5037,322,1
+CASE_4601,USA,2023-12-16,Texas,Harris County District Court,62,Female,Native American,High,296289,Theft,High,5,Yes,Rural,121583,15,0
+CASE_4602,USA,2024-02-17,Illinois,Cook County Circuit Court,44,Male,Native American,Low,15779,Fraud,Low,4,No,Rural,1006,229,1
+CASE_4603,USA,2023-12-30,New York,New York City Criminal Court,45,Female,Hispanic,Medium,36469,WhiteCollar,Medium,3,Yes,Rural,10838,48,0
+CASE_4604,USA,2022-03-20,California,Superior Court of California,30,Male,Asian,High,108044,Fraud,High,1,Yes,Rural,138922,314,1
+CASE_4605,USA,2022-10-11,Arizona,Maricopa County Superior Court,42,Male,Hispanic,High,189710,WhiteCollar,High,4,No,Urban,183270,243,0
+CASE_4606,USA,2024-02-27,Arizona,Maricopa County Superior Court,22,Male,Hispanic,Medium,88161,Theft,Low,5,No,Rural,3799,114,0
+CASE_4607,USA,2022-03-26,New York,New York City Criminal Court,39,Male,White,High,382191,WhiteCollar,High,3,Yes,Rural,75867,222,1
+CASE_4608,USA,2023-06-11,Arizona,Maricopa County Superior Court,69,Female,Native American,Medium,36012,Fraud,Low,0,No,Rural,1652,182,1
+CASE_4609,USA,2022-05-26,Illinois,Cook County Circuit Court,32,Male,Black,High,191022,Theft,High,1,No,Rural,49069,95,0
+CASE_4610,USA,2024-03-03,Illinois,Cook County Circuit Court,30,Female,Asian,Low,31770,WhiteCollar,High,4,Yes,Rural,59290,337,0
+CASE_4611,USA,2023-07-27,California,Superior Court of California,70,Male,Native American,Low,16772,Theft,High,3,Yes,Rural,33100,374,0
+CASE_4612,USA,2023-08-04,Texas,Harris County District Court,61,Female,White,Low,26779,Fraud,Medium,1,No,Urban,11192,209,1
+CASE_4613,USA,2022-08-26,Arizona,Maricopa County Superior Court,57,Male,Native American,Low,33945,Theft,Medium,0,No,Urban,24736,138,1
+CASE_4614,USA,2022-09-14,Texas,Harris County District Court,66,Male,White,Low,28655,WhiteCollar,Low,4,Yes,Urban,2259,343,1
+CASE_4615,USA,2022-11-24,Texas,Harris County District Court,30,Male,Black,Low,24586,Assault,Medium,4,Yes,Urban,19555,179,0
+CASE_4616,USA,2022-08-30,Illinois,Cook County Circuit Court,62,Female,Native American,Medium,46673,Assault,High,3,No,Rural,126414,247,0
+CASE_4617,USA,2022-02-26,New York,New York City Criminal Court,29,Male,White,Medium,47179,Theft,Medium,1,No,Urban,7177,210,0
+CASE_4618,USA,2022-10-29,Texas,Harris County District Court,42,Male,Hispanic,Medium,50763,WhiteCollar,High,2,No,Rural,50085,315,0
+CASE_4619,USA,2022-04-19,Arizona,Maricopa County Superior Court,22,Male,Native American,High,301098,Assault,Medium,3,No,Urban,8052,418,1
+CASE_4620,USA,2022-12-17,Illinois,Cook County Circuit Court,69,Female,Asian,Medium,89345,Fraud,High,0,Yes,Urban,146558,301,1
+CASE_4621,USA,2022-06-04,Arizona,Maricopa County Superior Court,54,Female,Asian,High,412852,WhiteCollar,Low,3,No,Rural,3113,111,1
+CASE_4622,USA,2022-12-15,Illinois,Cook County Circuit Court,45,Male,Asian,High,123623,Assault,High,5,Yes,Urban,126188,167,1
+CASE_4623,USA,2022-11-17,Illinois,Cook County Circuit Court,30,Female,White,High,162245,WhiteCollar,Low,5,No,Rural,4760,131,1
+CASE_4624,USA,2023-06-10,California,Superior Court of California,39,Female,Hispanic,Medium,66173,WhiteCollar,Low,3,No,Rural,4808,415,1
+CASE_4625,USA,2022-01-15,Illinois,Cook County Circuit Court,47,Male,Native American,Medium,43786,Fraud,Medium,4,Yes,Urban,19869,77,1
+CASE_4626,USA,2024-01-02,California,Superior Court of California,41,Male,Black,High,97382,Theft,High,3,Yes,Urban,95681,214,0
+CASE_4627,USA,2022-12-18,New York,New York City Criminal Court,62,Male,Native American,Low,31538,Assault,Low,3,No,Rural,2122,349,1
+CASE_4628,USA,2022-07-07,California,Superior Court of California,56,Female,Native American,Medium,81313,Assault,Medium,4,Yes,Urban,24351,42,1
+CASE_4629,USA,2023-11-10,Arizona,Maricopa County Superior Court,51,Female,Native American,High,216467,Fraud,Low,0,Yes,Urban,1012,357,1
+CASE_4630,USA,2023-05-14,New York,New York City Criminal Court,26,Female,Asian,High,454863,Fraud,Low,0,No,Rural,4115,377,1
+CASE_4631,USA,2024-01-03,California,Superior Court of California,30,Female,Asian,Medium,70650,WhiteCollar,Low,1,Yes,Rural,3759,39,1
+CASE_4632,USA,2022-12-31,Texas,Harris County District Court,50,Female,Asian,Low,23746,Theft,High,3,No,Rural,120366,287,0
+CASE_4633,USA,2022-12-04,Texas,Harris County District Court,45,Female,Asian,Low,31640,WhiteCollar,Medium,4,No,Urban,19785,409,0
+CASE_4634,USA,2022-04-14,New York,New York City Criminal Court,67,Male,Black,Low,21650,Theft,High,2,Yes,Rural,44045,255,0
+CASE_4635,USA,2023-12-15,New York,New York City Criminal Court,52,Female,Asian,High,111909,Fraud,High,4,No,Urban,111276,96,0
+CASE_4636,USA,2022-06-17,New York,New York City Criminal Court,66,Male,White,High,344186,Fraud,High,4,No,Rural,144831,354,0
+CASE_4637,USA,2023-11-01,New York,New York City Criminal Court,38,Female,White,High,90776,Fraud,Medium,2,Yes,Rural,5300,234,1
+CASE_4638,USA,2022-01-14,Arizona,Maricopa County Superior Court,43,Male,White,High,139229,Assault,Low,0,No,Urban,3632,410,1
+CASE_4639,USA,2022-10-22,Texas,Harris County District Court,58,Female,Native American,Medium,81607,Fraud,Medium,1,Yes,Urban,20950,223,1
+CASE_4640,USA,2023-09-18,Illinois,Cook County Circuit Court,45,Female,Black,Medium,66636,Assault,Medium,0,Yes,Rural,20236,201,1
+CASE_4641,USA,2023-12-25,California,Superior Court of California,42,Male,Hispanic,Low,20426,Assault,Medium,4,Yes,Rural,22046,219,0
+CASE_4642,USA,2022-04-20,Arizona,Maricopa County Superior Court,55,Female,Native American,High,275410,Theft,Medium,3,Yes,Urban,10960,95,1
+CASE_4643,USA,2022-01-07,Arizona,Maricopa County Superior Court,33,Female,Black,High,394406,Fraud,Medium,5,No,Urban,18238,76,0
+CASE_4644,USA,2022-03-14,Arizona,Maricopa County Superior Court,54,Female,Hispanic,Low,23424,Theft,Medium,3,Yes,Rural,28310,192,0
+CASE_4645,USA,2024-02-17,New York,New York City Criminal Court,50,Female,Hispanic,High,134332,Assault,Medium,1,Yes,Urban,12584,279,1
+CASE_4646,USA,2022-02-04,Illinois,Cook County Circuit Court,51,Male,Black,Medium,86541,Theft,High,3,No,Urban,128716,183,0
+CASE_4647,USA,2023-03-28,Texas,Harris County District Court,51,Female,Black,High,456095,Assault,Medium,0,Yes,Rural,22573,146,1
+CASE_4648,USA,2022-10-09,New York,New York City Criminal Court,36,Female,Hispanic,Medium,81146,Theft,Medium,3,No,Urban,25793,331,1
+CASE_4649,USA,2022-01-02,Arizona,Maricopa County Superior Court,66,Female,White,Low,24155,WhiteCollar,High,0,Yes,Urban,79771,276,0
+CASE_4650,USA,2023-06-09,Arizona,Maricopa County Superior Court,52,Male,Asian,High,437434,Fraud,Low,5,Yes,Urban,3670,106,0
+CASE_4651,USA,2022-04-23,Illinois,Cook County Circuit Court,67,Female,White,High,427423,Theft,Low,5,Yes,Urban,2458,131,0
+CASE_4652,USA,2023-03-26,Texas,Harris County District Court,47,Male,Hispanic,Low,28070,WhiteCollar,Medium,5,No,Urban,31516,338,0
+CASE_4653,USA,2022-10-08,Arizona,Maricopa County Superior Court,38,Male,Hispanic,Low,25799,Theft,Low,3,No,Rural,2718,422,1
+CASE_4654,USA,2023-04-29,New York,New York City Criminal Court,38,Female,Hispanic,Medium,46566,WhiteCollar,Medium,0,Yes,Urban,18385,395,1
+CASE_4655,USA,2022-01-04,California,Superior Court of California,64,Male,Hispanic,Medium,44990,Assault,Medium,2,No,Rural,19538,321,0
+CASE_4656,USA,2022-07-20,California,Superior Court of California,69,Female,Hispanic,Medium,89473,Assault,Low,3,No,Rural,2422,454,1
+CASE_4657,USA,2023-11-29,Illinois,Cook County Circuit Court,29,Female,White,Low,26987,Theft,High,3,Yes,Rural,44071,343,0
+CASE_4658,USA,2022-02-14,California,Superior Court of California,39,Male,Black,Low,29041,WhiteCollar,Medium,0,No,Urban,30386,179,1
+CASE_4659,USA,2022-05-02,Texas,Harris County District Court,55,Male,Hispanic,High,453488,WhiteCollar,High,4,No,Rural,80570,352,0
+CASE_4660,USA,2022-01-27,Illinois,Cook County Circuit Court,32,Female,Asian,Low,31717,Assault,Low,3,Yes,Urban,1587,332,1
+CASE_4661,USA,2023-06-15,New York,New York City Criminal Court,26,Male,Black,Medium,78744,Fraud,Low,5,No,Urban,4835,451,0
+CASE_4662,USA,2022-09-21,New York,New York City Criminal Court,54,Male,White,Medium,67946,WhiteCollar,High,4,Yes,Urban,105073,60,0
+CASE_4663,USA,2022-02-02,California,Superior Court of California,44,Male,Native American,Low,27879,WhiteCollar,Medium,2,Yes,Rural,22908,215,1
+CASE_4664,USA,2023-04-02,Illinois,Cook County Circuit Court,67,Male,Native American,Medium,65389,WhiteCollar,Medium,5,No,Rural,17232,206,0
+CASE_4665,USA,2023-03-15,California,Superior Court of California,51,Female,White,High,433474,Assault,High,2,Yes,Urban,96424,262,0
+CASE_4666,USA,2022-04-20,California,Superior Court of California,58,Female,Native American,High,268856,WhiteCollar,High,2,Yes,Urban,63560,356,0
+CASE_4667,USA,2023-11-12,Texas,Harris County District Court,38,Female,Native American,Low,20676,WhiteCollar,Medium,4,Yes,Rural,8134,164,0
+CASE_4668,USA,2022-07-05,California,Superior Court of California,25,Female,Hispanic,High,380290,WhiteCollar,Medium,2,Yes,Urban,10448,76,1
+CASE_4669,USA,2022-02-17,Arizona,Maricopa County Superior Court,20,Female,White,Low,26519,Theft,Medium,1,No,Rural,19633,298,0
+CASE_4670,USA,2022-06-01,Texas,Harris County District Court,38,Female,Black,High,237916,Fraud,High,0,No,Urban,151360,476,1
+CASE_4671,USA,2022-07-01,Illinois,Cook County Circuit Court,21,Female,Native American,Low,32706,WhiteCollar,Low,2,No,Rural,4384,199,1
+CASE_4672,USA,2023-06-10,California,Superior Court of California,53,Female,Native American,High,393687,Assault,Medium,4,Yes,Urban,22043,294,1
+CASE_4673,USA,2023-07-14,California,Superior Court of California,23,Female,Asian,High,407607,WhiteCollar,High,3,Yes,Rural,107023,339,1
+CASE_4674,USA,2022-09-17,Arizona,Maricopa County Superior Court,37,Female,White,High,218869,Theft,High,2,No,Urban,55502,331,1
+CASE_4675,USA,2022-06-20,California,Superior Court of California,30,Male,Black,Low,30566,Theft,Low,4,Yes,Rural,3970,232,1
+CASE_4676,USA,2022-09-24,Texas,Harris County District Court,64,Male,Native American,Low,16014,Theft,Low,2,No,Rural,942,278,1
+CASE_4677,USA,2023-06-30,Texas,Harris County District Court,43,Male,White,Medium,61250,Fraud,Medium,4,Yes,Rural,11308,85,1
+CASE_4678,USA,2023-06-22,Texas,Harris County District Court,61,Female,White,Medium,62191,Assault,High,1,Yes,Urban,133294,304,0
+CASE_4679,USA,2023-07-02,Arizona,Maricopa County Superior Court,65,Male,Native American,Low,23601,WhiteCollar,High,5,No,Rural,85011,476,0
+CASE_4680,USA,2022-01-07,Arizona,Maricopa County Superior Court,52,Male,White,Low,17728,Assault,Medium,4,No,Urban,26522,190,0
+CASE_4681,USA,2024-01-20,Arizona,Maricopa County Superior Court,35,Female,Asian,Medium,80099,WhiteCollar,Medium,3,No,Rural,7298,147,0
+CASE_4682,USA,2023-04-11,Arizona,Maricopa County Superior Court,65,Male,Asian,High,196424,Fraud,Low,5,No,Rural,2608,161,1
+CASE_4683,USA,2022-08-13,Arizona,Maricopa County Superior Court,37,Female,White,High,105977,WhiteCollar,Low,1,Yes,Rural,979,141,1
+CASE_4684,USA,2023-03-02,Texas,Harris County District Court,38,Female,Native American,High,465042,Fraud,Low,2,No,Urban,2450,162,1
+CASE_4685,USA,2023-10-15,Texas,Harris County District Court,68,Female,Asian,Low,20805,WhiteCollar,Medium,3,Yes,Urban,20962,249,1
+CASE_4686,USA,2023-02-04,Arizona,Maricopa County Superior Court,30,Female,Asian,Medium,89891,WhiteCollar,Low,0,No,Rural,2654,266,1
+CASE_4687,USA,2022-10-24,Texas,Harris County District Court,69,Female,White,Medium,40465,Assault,Medium,0,No,Urban,18052,378,1
+CASE_4688,USA,2023-03-10,Texas,Harris County District Court,56,Male,White,High,183547,WhiteCollar,Medium,3,Yes,Urban,12514,70,1
+CASE_4689,USA,2022-04-29,Texas,Harris County District Court,56,Female,Hispanic,Low,25922,WhiteCollar,High,1,Yes,Urban,189588,208,0
+CASE_4690,USA,2022-01-09,Texas,Harris County District Court,47,Female,Black,Low,21929,Fraud,High,2,Yes,Urban,83237,240,0
+CASE_4691,USA,2022-01-08,California,Superior Court of California,64,Female,Black,High,318286,Theft,Medium,1,Yes,Rural,26334,130,1
+CASE_4692,USA,2022-12-10,Texas,Harris County District Court,54,Female,Native American,Low,19288,Fraud,Medium,5,No,Rural,20474,414,0
+CASE_4693,USA,2023-02-21,Arizona,Maricopa County Superior Court,65,Male,Hispanic,High,104499,Theft,Low,0,Yes,Urban,4632,270,1
+CASE_4694,USA,2023-12-13,Arizona,Maricopa County Superior Court,56,Male,White,Low,33758,WhiteCollar,Medium,3,No,Rural,12228,264,0
+CASE_4695,USA,2022-07-05,Arizona,Maricopa County Superior Court,30,Male,Black,Low,29934,WhiteCollar,High,0,No,Rural,37087,410,1
+CASE_4696,USA,2023-07-03,Arizona,Maricopa County Superior Court,30,Female,White,Low,21208,Fraud,Medium,5,Yes,Rural,14748,205,0
+CASE_4697,USA,2023-04-05,Arizona,Maricopa County Superior Court,47,Female,White,Low,24788,Theft,High,4,No,Urban,30022,146,0
+CASE_4698,USA,2024-01-27,New York,New York City Criminal Court,27,Female,Hispanic,Medium,63875,Theft,Low,5,Yes,Rural,4803,246,1
+CASE_4699,USA,2023-11-09,Arizona,Maricopa County Superior Court,62,Male,Asian,High,156659,WhiteCollar,Medium,3,No,Rural,18252,374,0
+CASE_4700,USA,2023-05-27,California,Superior Court of California,31,Female,Asian,High,466275,Fraud,Low,4,No,Rural,2589,127,1
+CASE_4701,USA,2023-03-20,Illinois,Cook County Circuit Court,39,Male,White,Low,32165,Assault,Medium,5,Yes,Urban,12584,201,0
+CASE_4702,USA,2022-04-16,Texas,Harris County District Court,38,Male,Black,Low,22277,Fraud,Low,1,Yes,Urban,7182,442,1
+CASE_4703,USA,2022-06-16,Arizona,Maricopa County Superior Court,34,Female,Black,High,222586,Assault,Medium,5,Yes,Urban,23995,299,1
+CASE_4704,USA,2024-01-23,New York,New York City Criminal Court,49,Male,Asian,Medium,79316,WhiteCollar,Low,1,Yes,Rural,1420,61,1
+CASE_4705,USA,2022-02-25,Arizona,Maricopa County Superior Court,36,Male,Asian,High,147573,Fraud,Low,5,Yes,Urban,2111,236,1
+CASE_4706,USA,2022-07-11,Illinois,Cook County Circuit Court,37,Male,Black,Medium,72153,Theft,High,2,No,Urban,164989,396,0
+CASE_4707,USA,2022-09-29,Texas,Harris County District Court,44,Male,Native American,Low,34599,WhiteCollar,High,3,Yes,Urban,38987,106,0
+CASE_4708,USA,2024-01-01,Arizona,Maricopa County Superior Court,24,Male,Hispanic,Medium,50595,Theft,High,1,No,Rural,112885,376,0
+CASE_4709,USA,2022-12-16,Illinois,Cook County Circuit Court,30,Male,White,Medium,35520,Fraud,Medium,2,Yes,Urban,16469,22,0
+CASE_4710,USA,2023-11-02,Arizona,Maricopa County Superior Court,18,Male,Hispanic,Medium,58224,Theft,Low,0,Yes,Urban,4360,48,1
+CASE_4711,USA,2023-03-03,New York,New York City Criminal Court,43,Male,Black,High,479600,Theft,High,4,No,Urban,146083,382,0
+CASE_4712,USA,2022-07-08,New York,New York City Criminal Court,20,Female,Asian,High,393382,Fraud,Medium,4,Yes,Rural,7882,309,1
+CASE_4713,USA,2022-02-08,Illinois,Cook County Circuit Court,53,Female,Asian,Medium,70350,WhiteCollar,High,4,No,Rural,79826,70,0
+CASE_4714,USA,2023-08-04,Texas,Harris County District Court,34,Female,Native American,High,281410,Theft,High,4,Yes,Rural,78707,39,1
+CASE_4715,USA,2022-07-04,Illinois,Cook County Circuit Court,70,Male,Native American,High,264124,Assault,High,5,Yes,Rural,77074,160,0
+CASE_4716,USA,2022-03-09,Illinois,Cook County Circuit Court,28,Female,White,High,102468,WhiteCollar,Low,5,No,Rural,1130,296,1
+CASE_4717,USA,2023-01-03,Arizona,Maricopa County Superior Court,19,Male,Black,Low,18244,Assault,Low,2,Yes,Rural,5085,202,1
+CASE_4718,USA,2022-12-26,New York,New York City Criminal Court,67,Male,Native American,High,220696,Theft,High,1,No,Rural,143609,396,0
+CASE_4719,USA,2022-02-05,California,Superior Court of California,33,Male,Asian,Medium,62224,Assault,Medium,4,Yes,Urban,10522,4,0
+CASE_4720,USA,2022-12-02,Arizona,Maricopa County Superior Court,63,Male,Hispanic,Medium,45244,Theft,High,0,Yes,Urban,139861,273,1
+CASE_4721,USA,2022-04-13,Texas,Harris County District Court,63,Female,Asian,High,390593,Assault,Low,5,Yes,Urban,4590,76,1
+CASE_4722,USA,2024-01-21,Texas,Harris County District Court,63,Male,Native American,Medium,43520,Theft,Medium,1,No,Urban,24433,344,1
+CASE_4723,USA,2022-12-15,Illinois,Cook County Circuit Court,51,Female,Asian,Medium,86560,WhiteCollar,High,2,No,Rural,27953,437,0
+CASE_4724,USA,2023-08-23,Arizona,Maricopa County Superior Court,19,Female,Native American,High,368618,Assault,High,1,No,Rural,95988,112,0
+CASE_4725,USA,2023-07-27,California,Superior Court of California,50,Female,Native American,Low,26505,WhiteCollar,Medium,3,Yes,Urban,9472,337,1
+CASE_4726,USA,2024-01-08,New York,New York City Criminal Court,23,Male,Asian,Medium,56486,WhiteCollar,Medium,4,Yes,Urban,8644,281,1
+CASE_4727,USA,2022-11-30,California,Superior Court of California,33,Female,Hispanic,High,482218,WhiteCollar,High,3,No,Urban,110511,363,1
+CASE_4728,USA,2023-03-24,New York,New York City Criminal Court,61,Male,Native American,Low,32527,Assault,Low,1,No,Rural,1796,141,1
+CASE_4729,USA,2022-01-09,Arizona,Maricopa County Superior Court,59,Male,White,High,218558,Assault,High,3,Yes,Rural,95172,331,1
+CASE_4730,USA,2023-10-21,California,Superior Court of California,19,Male,White,High,279046,Fraud,Medium,3,Yes,Rural,15525,38,1
+CASE_4731,USA,2024-01-21,New York,New York City Criminal Court,48,Male,White,Medium,84943,Assault,High,0,No,Rural,31820,134,0
+CASE_4732,USA,2023-02-27,New York,New York City Criminal Court,56,Male,Native American,Low,20598,Fraud,High,1,Yes,Rural,55697,229,1
+CASE_4733,USA,2023-12-31,Arizona,Maricopa County Superior Court,19,Female,Asian,Low,31154,Fraud,Low,4,Yes,Rural,3438,405,1
+CASE_4734,USA,2022-05-08,Texas,Harris County District Court,53,Male,Asian,High,236396,Theft,Medium,0,Yes,Urban,19717,330,1
+CASE_4735,USA,2022-05-01,California,Superior Court of California,64,Male,Native American,Medium,55670,Fraud,Medium,3,Yes,Urban,22937,292,1
+CASE_4736,USA,2023-12-25,New York,New York City Criminal Court,60,Male,White,Medium,45518,Fraud,High,2,No,Urban,38341,304,0
+CASE_4737,USA,2022-01-14,New York,New York City Criminal Court,64,Male,Hispanic,Low,27400,Fraud,High,0,Yes,Urban,198093,245,0
+CASE_4738,USA,2023-07-16,Arizona,Maricopa County Superior Court,57,Male,Hispanic,Medium,54913,Theft,Low,5,No,Urban,716,400,1
+CASE_4739,USA,2023-01-08,New York,New York City Criminal Court,45,Male,White,Medium,77892,Assault,Low,4,Yes,Rural,4314,224,1
+CASE_4740,USA,2023-05-27,Texas,Harris County District Court,66,Female,Asian,Medium,66825,Theft,Low,3,No,Rural,999,254,1
+CASE_4741,USA,2022-11-08,Illinois,Cook County Circuit Court,28,Male,Asian,Medium,35044,WhiteCollar,High,4,Yes,Rural,114310,231,0
+CASE_4742,USA,2023-03-14,California,Superior Court of California,55,Female,Native American,Medium,70122,Theft,Medium,2,No,Urban,8788,206,1
+CASE_4743,USA,2022-01-26,Texas,Harris County District Court,58,Male,White,High,290772,WhiteCollar,Medium,0,No,Urban,18388,273,0
+CASE_4744,USA,2022-04-27,Texas,Harris County District Court,48,Female,Asian,Low,31380,Fraud,Low,5,No,Rural,990,487,0
+CASE_4745,USA,2023-01-02,New York,New York City Criminal Court,45,Male,Black,Medium,84040,Assault,Medium,4,Yes,Urban,9142,347,1
+CASE_4746,USA,2024-01-25,Texas,Harris County District Court,49,Female,Black,Low,17304,WhiteCollar,Low,3,No,Rural,2174,405,1
+CASE_4747,USA,2023-10-30,California,Superior Court of California,20,Female,Native American,Low,31117,Theft,High,2,No,Rural,121309,371,0
+CASE_4748,USA,2022-02-16,Illinois,Cook County Circuit Court,59,Female,White,High,195658,Theft,Medium,2,Yes,Rural,11066,151,0
+CASE_4749,USA,2022-01-25,Illinois,Cook County Circuit Court,19,Male,Hispanic,Medium,63224,Fraud,High,1,Yes,Rural,104264,122,1
+CASE_4750,USA,2024-02-11,Texas,Harris County District Court,68,Female,Black,Medium,68576,Fraud,Medium,1,Yes,Urban,18772,160,1
+CASE_4751,USA,2023-01-17,Texas,Harris County District Court,61,Female,Asian,Medium,69069,WhiteCollar,High,3,No,Rural,143438,34,1
+CASE_4752,USA,2023-02-13,Texas,Harris County District Court,50,Male,Asian,Low,31256,WhiteCollar,Medium,3,No,Rural,26592,415,0
+CASE_4753,USA,2023-12-30,New York,New York City Criminal Court,65,Female,White,Medium,78015,Theft,Low,4,Yes,Rural,1213,201,0
+CASE_4754,USA,2023-03-24,California,Superior Court of California,31,Male,Hispanic,Low,32751,Assault,Low,4,Yes,Rural,2724,113,1
+CASE_4755,USA,2022-08-15,Texas,Harris County District Court,64,Female,Black,Low,21905,Fraud,Low,1,Yes,Rural,3394,296,0
+CASE_4756,USA,2023-02-03,Texas,Harris County District Court,64,Male,Hispanic,Medium,88429,WhiteCollar,High,0,No,Urban,103044,204,0
+CASE_4757,USA,2023-06-01,Texas,Harris County District Court,61,Male,Asian,Medium,36409,Assault,Medium,5,Yes,Urban,15010,3,0
+CASE_4758,USA,2022-10-14,New York,New York City Criminal Court,47,Male,White,High,441046,WhiteCollar,Medium,0,Yes,Urban,21853,132,1
+CASE_4759,USA,2024-02-17,Arizona,Maricopa County Superior Court,54,Female,White,High,315400,WhiteCollar,Low,1,Yes,Rural,2975,54,1
+CASE_4760,USA,2023-01-28,New York,New York City Criminal Court,27,Female,White,Medium,51938,Assault,Low,2,Yes,Urban,1521,77,1
+CASE_4761,USA,2022-03-20,California,Superior Court of California,31,Male,Native American,High,287562,WhiteCollar,High,4,Yes,Urban,58908,57,0
+CASE_4762,USA,2022-07-16,Illinois,Cook County Circuit Court,43,Female,Asian,Medium,38673,Assault,Medium,5,No,Urban,7079,132,0
+CASE_4763,USA,2023-10-13,Arizona,Maricopa County Superior Court,53,Female,Black,Low,19676,WhiteCollar,Medium,2,No,Rural,18744,452,1
+CASE_4764,USA,2023-03-26,Texas,Harris County District Court,68,Male,Hispanic,High,416975,Fraud,Low,2,Yes,Rural,4910,246,1
+CASE_4765,USA,2022-09-26,New York,New York City Criminal Court,20,Male,Native American,High,301014,Fraud,Low,2,Yes,Rural,2906,41,1
+CASE_4766,USA,2022-03-30,New York,New York City Criminal Court,26,Male,Asian,Low,22600,WhiteCollar,High,5,Yes,Urban,128359,454,0
+CASE_4767,USA,2022-09-29,California,Superior Court of California,39,Female,Hispanic,Low,29748,Fraud,Medium,1,No,Rural,28970,245,0
+CASE_4768,USA,2022-07-07,Arizona,Maricopa County Superior Court,39,Female,Native American,Low,24881,Fraud,High,0,No,Rural,122465,137,1
+CASE_4769,USA,2022-12-26,Texas,Harris County District Court,23,Male,White,Medium,55950,WhiteCollar,Medium,5,No,Urban,16393,301,0
+CASE_4770,USA,2024-01-13,California,Superior Court of California,40,Male,Native American,High,175424,Assault,Low,0,No,Rural,720,282,1
+CASE_4771,USA,2022-11-07,California,Superior Court of California,49,Female,Hispanic,Medium,52414,Fraud,Medium,4,No,Urban,25779,328,0
+CASE_4772,USA,2022-01-15,Illinois,Cook County Circuit Court,32,Male,White,Medium,79293,Theft,Medium,2,No,Urban,23043,178,0
+CASE_4773,USA,2022-12-25,New York,New York City Criminal Court,24,Male,Black,Medium,59214,Fraud,Low,5,Yes,Rural,959,131,1
+CASE_4774,USA,2022-07-27,California,Superior Court of California,31,Female,White,Medium,36831,Theft,High,1,No,Urban,73610,112,1
+CASE_4775,USA,2022-01-22,Texas,Harris County District Court,52,Male,Native American,Medium,76037,Fraud,High,2,No,Urban,106438,199,0
+CASE_4776,USA,2023-02-27,Arizona,Maricopa County Superior Court,45,Female,Asian,Low,16799,Fraud,High,4,No,Urban,158310,158,0
+CASE_4777,USA,2023-01-03,Illinois,Cook County Circuit Court,59,Female,Native American,High,480445,Theft,Low,5,Yes,Rural,2906,332,1
+CASE_4778,USA,2023-01-12,California,Superior Court of California,50,Male,Asian,High,265714,WhiteCollar,Low,3,No,Urban,778,282,1
+CASE_4779,USA,2023-03-24,Arizona,Maricopa County Superior Court,30,Female,Hispanic,Low,28392,Theft,Low,0,No,Rural,830,446,1
+CASE_4780,USA,2023-01-05,New York,New York City Criminal Court,66,Female,Black,High,355974,Theft,High,3,No,Rural,157054,274,0
+CASE_4781,USA,2022-08-02,California,Superior Court of California,26,Female,White,Medium,38471,Theft,Medium,5,No,Rural,11518,232,0
+CASE_4782,USA,2022-05-03,Texas,Harris County District Court,68,Male,Hispanic,High,268437,Assault,Medium,5,No,Rural,12034,200,0
+CASE_4783,USA,2022-10-16,Arizona,Maricopa County Superior Court,42,Female,Black,Medium,49213,Assault,High,3,No,Rural,94106,248,0
+CASE_4784,USA,2023-04-03,Illinois,Cook County Circuit Court,44,Male,White,Medium,84302,Assault,Medium,0,No,Urban,15793,55,1
+CASE_4785,USA,2022-05-23,Texas,Harris County District Court,36,Female,Black,Low,24495,Theft,Medium,4,Yes,Rural,30397,258,0
+CASE_4786,USA,2022-06-15,New York,New York City Criminal Court,58,Male,Hispanic,Low,34651,Assault,Low,4,No,Urban,3576,393,0
+CASE_4787,USA,2023-01-14,California,Superior Court of California,47,Female,White,Medium,89480,Assault,High,0,No,Rural,81828,406,0
+CASE_4788,USA,2023-01-14,New York,New York City Criminal Court,38,Female,Native American,Medium,83474,Theft,Medium,3,No,Urban,23527,313,0
+CASE_4789,USA,2022-06-16,Illinois,Cook County Circuit Court,39,Male,White,High,160756,Assault,Medium,5,No,Rural,14792,216,0
+CASE_4790,USA,2023-10-24,Illinois,Cook County Circuit Court,36,Male,White,Low,19882,WhiteCollar,Low,2,Yes,Urban,4604,203,1
+CASE_4791,USA,2022-12-26,New York,New York City Criminal Court,20,Female,Hispanic,Low,15793,Assault,Low,5,No,Urban,2592,313,1
+CASE_4792,USA,2023-04-05,Illinois,Cook County Circuit Court,18,Female,White,Medium,57886,Assault,Medium,5,No,Urban,18968,399,0
+CASE_4793,USA,2023-10-22,Texas,Harris County District Court,44,Male,Hispanic,Low,32562,Assault,Low,1,No,Urban,938,436,0
+CASE_4794,USA,2023-02-27,Illinois,Cook County Circuit Court,58,Female,White,Low,21299,Theft,Low,3,Yes,Urban,2778,429,1
+CASE_4795,USA,2023-11-27,Illinois,Cook County Circuit Court,40,Female,White,High,181437,Fraud,Low,5,No,Urban,4874,404,1
+CASE_4796,USA,2023-09-27,Texas,Harris County District Court,28,Male,Hispanic,Low,26749,WhiteCollar,Low,2,No,Rural,4784,237,1
+CASE_4797,USA,2023-01-29,New York,New York City Criminal Court,40,Female,Asian,High,319704,Theft,Medium,5,Yes,Rural,8749,25,0
+CASE_4798,USA,2024-01-11,New York,New York City Criminal Court,20,Female,White,Medium,45771,Theft,Low,3,No,Urban,2930,102,1
+CASE_4799,USA,2023-12-01,Illinois,Cook County Circuit Court,60,Male,White,Medium,65809,Fraud,High,3,Yes,Rural,124845,243,0
+CASE_4800,USA,2022-09-05,Illinois,Cook County Circuit Court,70,Female,Black,High,188309,Fraud,Low,3,Yes,Urban,5833,225,1
+CASE_4801,USA,2022-09-05,Arizona,Maricopa County Superior Court,67,Female,Hispanic,Medium,52771,Theft,High,1,Yes,Urban,131830,226,0
+CASE_4802,USA,2022-11-02,New York,New York City Criminal Court,22,Female,Hispanic,Low,16810,Theft,Medium,1,No,Rural,24352,520,0
+CASE_4803,USA,2024-01-10,Texas,Harris County District Court,57,Female,White,High,124303,Theft,Medium,5,No,Urban,13650,267,0
+CASE_4804,USA,2023-08-16,New York,New York City Criminal Court,61,Male,Hispanic,Low,29891,Fraud,Medium,2,Yes,Rural,26878,236,0
+CASE_4805,USA,2022-07-14,Arizona,Maricopa County Superior Court,37,Female,Asian,High,496152,Assault,Low,3,No,Urban,1389,73,1
+CASE_4806,USA,2022-05-04,Illinois,Cook County Circuit Court,19,Female,Native American,High,196871,Theft,Medium,0,No,Urban,13062,407,1
+CASE_4807,USA,2023-05-26,Arizona,Maricopa County Superior Court,39,Male,White,Medium,82056,Theft,Low,2,No,Urban,4950,331,1
+CASE_4808,USA,2022-01-12,New York,New York City Criminal Court,42,Female,Black,High,409204,WhiteCollar,High,0,No,Urban,82276,351,1
+CASE_4809,USA,2022-05-02,New York,New York City Criminal Court,68,Female,Hispanic,Medium,50355,Fraud,Medium,4,No,Urban,21853,173,0
+CASE_4810,USA,2023-01-17,California,Superior Court of California,45,Male,Hispanic,Medium,45007,Theft,High,5,No,Urban,34388,136,0
+CASE_4811,USA,2022-12-06,California,Superior Court of California,61,Female,Hispanic,Low,16319,Fraud,Low,1,Yes,Urban,2340,349,1
+CASE_4812,USA,2024-02-10,California,Superior Court of California,62,Female,White,Low,25441,Assault,High,2,No,Urban,145164,454,0
+CASE_4813,USA,2024-03-04,California,Superior Court of California,26,Female,Asian,High,113032,Assault,Medium,5,No,Urban,9907,79,0
+CASE_4814,USA,2022-09-11,New York,New York City Criminal Court,40,Female,Hispanic,High,377581,Assault,Medium,3,Yes,Urban,15976,194,1
+CASE_4815,USA,2023-05-08,Arizona,Maricopa County Superior Court,18,Female,Asian,High,185615,Assault,Medium,0,No,Urban,10207,270,1
+CASE_4816,USA,2022-06-08,Texas,Harris County District Court,37,Male,Black,Medium,57969,Assault,High,1,Yes,Urban,138570,273,0
+CASE_4817,USA,2022-10-29,Illinois,Cook County Circuit Court,34,Female,Hispanic,Low,28413,Fraud,Medium,1,Yes,Urban,21203,190,1
+CASE_4818,USA,2023-07-13,California,Superior Court of California,53,Female,Hispanic,Medium,85946,Theft,Low,2,Yes,Rural,2070,85,1
+CASE_4819,USA,2023-03-10,Texas,Harris County District Court,18,Female,Native American,Medium,71083,Theft,Low,3,No,Urban,1119,337,1
+CASE_4820,USA,2023-11-06,New York,New York City Criminal Court,20,Female,Hispanic,Low,31105,Theft,High,5,No,Urban,160445,187,0
+CASE_4821,USA,2023-02-14,California,Superior Court of California,55,Female,Native American,Low,24131,WhiteCollar,High,1,Yes,Rural,176410,423,0
+CASE_4822,USA,2023-06-24,Texas,Harris County District Court,33,Female,Black,Medium,72873,Fraud,Low,3,Yes,Urban,2434,161,1
+CASE_4823,USA,2022-04-22,Illinois,Cook County Circuit Court,35,Female,White,Medium,38245,Theft,High,3,Yes,Urban,83017,45,0
+CASE_4824,USA,2022-01-22,New York,New York City Criminal Court,45,Male,Black,Low,26809,WhiteCollar,Medium,4,Yes,Rural,10552,396,0
+CASE_4825,USA,2023-08-24,Illinois,Cook County Circuit Court,50,Female,White,High,471443,Theft,Medium,0,No,Urban,5919,182,0
+CASE_4826,USA,2023-01-06,Texas,Harris County District Court,55,Female,Asian,Low,21573,Fraud,Low,4,Yes,Rural,3192,87,1
+CASE_4827,USA,2023-10-31,Arizona,Maricopa County Superior Court,20,Male,White,High,261395,Theft,Medium,4,No,Rural,22609,160,1
+CASE_4828,USA,2024-01-28,Arizona,Maricopa County Superior Court,56,Female,Black,Low,17237,WhiteCollar,Medium,2,Yes,Urban,30901,307,0
+CASE_4829,USA,2023-06-16,Illinois,Cook County Circuit Court,62,Male,Asian,Low,15205,WhiteCollar,Medium,5,Yes,Rural,23935,159,1
+CASE_4830,USA,2023-11-08,New York,New York City Criminal Court,36,Female,Hispanic,High,292528,Theft,High,0,Yes,Urban,96591,237,1
+CASE_4831,USA,2022-12-28,California,Superior Court of California,39,Female,White,Low,21008,Fraud,Medium,1,Yes,Urban,12421,305,1
+CASE_4832,USA,2023-04-28,California,Superior Court of California,56,Male,Native American,Medium,77162,Theft,Medium,5,No,Rural,22601,207,0
+CASE_4833,USA,2022-05-10,California,Superior Court of California,53,Male,Hispanic,High,187966,Assault,Low,4,No,Rural,848,69,0
+CASE_4834,USA,2022-05-05,Texas,Harris County District Court,59,Female,White,Low,19142,Theft,Low,5,No,Rural,5256,275,1
+CASE_4835,USA,2023-04-25,California,Superior Court of California,18,Male,White,Medium,62023,Fraud,Medium,4,Yes,Urban,16677,323,0
+CASE_4836,USA,2023-05-22,New York,New York City Criminal Court,31,Female,Native American,Medium,74092,Assault,Medium,5,Yes,Urban,6333,124,1
+CASE_4837,USA,2024-02-09,California,Superior Court of California,52,Female,Native American,High,347768,Fraud,Medium,0,Yes,Urban,10414,196,1
+CASE_4838,USA,2023-11-21,Texas,Harris County District Court,47,Female,Asian,High,130429,Fraud,High,5,Yes,Rural,73494,83,0
+CASE_4839,USA,2022-12-17,Texas,Harris County District Court,42,Male,White,Low,33681,Fraud,High,5,Yes,Urban,147992,194,1
+CASE_4840,USA,2023-05-17,New York,New York City Criminal Court,66,Female,Black,Low,30924,Theft,Low,1,Yes,Rural,3603,326,1
+CASE_4841,USA,2022-10-11,Texas,Harris County District Court,45,Female,Hispanic,High,295864,WhiteCollar,Low,3,Yes,Urban,2414,274,1
+CASE_4842,USA,2023-10-19,Texas,Harris County District Court,29,Female,Native American,Medium,41373,Assault,Medium,2,No,Urban,7112,167,1
+CASE_4843,USA,2022-02-19,California,Superior Court of California,52,Male,Asian,Medium,89970,Theft,Medium,5,No,Urban,19941,95,0
+CASE_4844,USA,2022-07-19,Texas,Harris County District Court,42,Female,Hispanic,Medium,54434,Theft,Low,2,Yes,Urban,3767,282,1
+CASE_4845,USA,2023-02-14,California,Superior Court of California,56,Male,Hispanic,High,156886,Theft,Medium,1,No,Urban,14261,364,1
+CASE_4846,USA,2023-06-15,New York,New York City Criminal Court,36,Male,White,Medium,82689,Assault,Low,1,No,Rural,517,210,1
+CASE_4847,USA,2022-04-18,Illinois,Cook County Circuit Court,60,Female,Native American,High,380026,Theft,Medium,4,Yes,Rural,19754,167,1
+CASE_4848,USA,2023-09-02,Texas,Harris County District Court,54,Female,Black,High,475840,Assault,Medium,0,No,Rural,13461,208,1
+CASE_4849,USA,2023-01-08,California,Superior Court of California,46,Female,Hispanic,Low,24855,WhiteCollar,Medium,2,Yes,Rural,12228,237,0
+CASE_4850,USA,2023-03-07,Illinois,Cook County Circuit Court,53,Female,Black,High,113370,Assault,Medium,2,Yes,Rural,30172,337,1
+CASE_4851,USA,2023-06-10,New York,New York City Criminal Court,20,Female,Asian,High,228090,Assault,Medium,5,Yes,Urban,16552,106,0
+CASE_4852,USA,2023-10-09,New York,New York City Criminal Court,57,Male,Hispanic,Medium,54629,WhiteCollar,Medium,4,No,Urban,25388,332,1
+CASE_4853,USA,2022-07-13,Illinois,Cook County Circuit Court,40,Male,Hispanic,Low,31250,Theft,High,1,No,Urban,195937,367,0
+CASE_4854,USA,2022-08-27,Illinois,Cook County Circuit Court,20,Female,Asian,Low,31082,Assault,High,3,No,Urban,92432,386,0
+CASE_4855,USA,2022-01-21,New York,New York City Criminal Court,35,Male,Black,High,180172,Theft,Low,2,Yes,Urban,5263,346,1
+CASE_4856,USA,2023-05-15,Texas,Harris County District Court,29,Male,Hispanic,Medium,82196,Assault,Low,2,No,Urban,3243,439,0
+CASE_4857,USA,2022-07-15,New York,New York City Criminal Court,26,Female,Black,Medium,44924,Fraud,Medium,1,No,Urban,22727,313,0
+CASE_4858,USA,2022-03-18,Texas,Harris County District Court,51,Male,Hispanic,Medium,71808,Fraud,Low,5,No,Rural,5473,281,1
+CASE_4859,USA,2024-03-09,Texas,Harris County District Court,35,Male,Black,Low,27969,Fraud,Medium,3,No,Urban,15325,403,1
+CASE_4860,USA,2022-11-13,Texas,Harris County District Court,60,Male,Native American,Medium,56985,Fraud,Low,5,Yes,Urban,3384,119,1
+CASE_4861,USA,2023-03-25,Arizona,Maricopa County Superior Court,51,Male,Hispanic,Medium,37821,Theft,Low,2,No,Rural,2020,266,1
+CASE_4862,USA,2023-05-08,New York,New York City Criminal Court,59,Male,Hispanic,Medium,71146,WhiteCollar,Medium,4,No,Urban,21856,466,0
+CASE_4863,USA,2023-08-16,Illinois,Cook County Circuit Court,48,Male,Asian,Medium,63601,Theft,High,3,Yes,Urban,30221,138,0
+CASE_4864,USA,2023-10-21,New York,New York City Criminal Court,18,Male,Native American,High,185431,Fraud,Medium,0,Yes,Urban,22048,55,1
+CASE_4865,USA,2023-03-13,Arizona,Maricopa County Superior Court,35,Female,Native American,Medium,56606,Assault,Medium,4,Yes,Rural,16697,26,1
+CASE_4866,USA,2022-03-18,New York,New York City Criminal Court,58,Male,Asian,High,172057,Theft,Medium,3,Yes,Rural,13881,263,1
+CASE_4867,USA,2023-03-26,Illinois,Cook County Circuit Court,49,Female,Hispanic,High,401954,Theft,Low,3,No,Urban,5510,133,1
+CASE_4868,USA,2024-01-20,Illinois,Cook County Circuit Court,44,Female,Asian,High,193660,WhiteCollar,High,5,Yes,Urban,118731,84,0
+CASE_4869,USA,2022-11-27,New York,New York City Criminal Court,53,Male,Native American,Low,22263,Assault,Low,3,Yes,Urban,2147,352,1
+CASE_4870,USA,2023-01-04,Arizona,Maricopa County Superior Court,19,Female,Asian,High,354939,WhiteCollar,High,2,No,Urban,128849,258,0
+CASE_4871,USA,2023-08-02,California,Superior Court of California,53,Male,Asian,Low,28306,WhiteCollar,High,3,Yes,Rural,144686,337,0
+CASE_4872,USA,2022-07-15,California,Superior Court of California,55,Female,Hispanic,High,198395,Fraud,High,2,No,Rural,43303,204,0
+CASE_4873,USA,2024-01-21,Texas,Harris County District Court,22,Male,White,High,358527,Fraud,High,5,No,Rural,102481,429,0
+CASE_4874,USA,2022-04-06,New York,New York City Criminal Court,67,Female,Asian,Medium,86585,Theft,Medium,1,Yes,Urban,13440,87,0
+CASE_4875,USA,2022-12-31,California,Superior Court of California,37,Female,Asian,Low,16777,Fraud,Low,5,Yes,Rural,4250,166,1
+CASE_4876,USA,2023-12-03,Texas,Harris County District Court,39,Female,Asian,High,426932,Theft,High,5,No,Urban,146591,316,0
+CASE_4877,USA,2022-08-20,Texas,Harris County District Court,54,Male,Hispanic,Low,28569,Theft,Low,3,Yes,Rural,2435,136,1
+CASE_4878,USA,2022-11-15,Illinois,Cook County Circuit Court,38,Female,Black,High,287144,Theft,Medium,2,Yes,Rural,26609,159,1
+CASE_4879,USA,2022-01-28,Illinois,Cook County Circuit Court,24,Female,White,High,165406,WhiteCollar,Medium,2,Yes,Rural,7128,350,1
+CASE_4880,USA,2023-06-15,New York,New York City Criminal Court,68,Male,Asian,High,499965,Assault,Medium,5,No,Rural,15377,415,1
+CASE_4881,USA,2023-07-22,New York,New York City Criminal Court,69,Male,Asian,Low,29139,WhiteCollar,Low,3,No,Urban,1837,371,1
+CASE_4882,USA,2023-11-21,New York,New York City Criminal Court,36,Female,White,High,279708,Theft,Medium,5,Yes,Urban,22828,305,0
+CASE_4883,USA,2023-05-26,Illinois,Cook County Circuit Court,25,Female,Black,Medium,40036,Fraud,Medium,3,Yes,Rural,14596,42,1
+CASE_4884,USA,2022-12-20,New York,New York City Criminal Court,69,Male,Hispanic,High,241483,Theft,High,3,No,Rural,40923,101,0
+CASE_4885,USA,2022-03-14,California,Superior Court of California,31,Male,Asian,High,457011,Fraud,High,5,Yes,Rural,64372,105,0
+CASE_4886,USA,2022-03-26,Arizona,Maricopa County Superior Court,40,Male,White,Low,26696,Theft,Low,3,No,Urban,5498,100,1
+CASE_4887,USA,2023-07-31,New York,New York City Criminal Court,54,Female,Native American,High,379689,Assault,High,4,Yes,Urban,130824,152,0
+CASE_4888,USA,2023-02-07,Illinois,Cook County Circuit Court,70,Female,White,High,428653,Assault,Low,2,Yes,Rural,4520,123,1
+CASE_4889,USA,2023-02-04,New York,New York City Criminal Court,54,Male,Black,Medium,81340,Fraud,Low,3,Yes,Urban,5452,31,1
+CASE_4890,USA,2022-08-15,Arizona,Maricopa County Superior Court,37,Male,Asian,Medium,79578,Theft,Low,2,Yes,Rural,3457,297,1
+CASE_4891,USA,2023-08-05,Texas,Harris County District Court,44,Female,Black,Medium,35054,WhiteCollar,Low,5,Yes,Urban,6185,322,1
+CASE_4892,USA,2022-07-01,Texas,Harris County District Court,58,Male,Hispanic,High,454934,Fraud,Medium,1,No,Rural,19049,414,0
+CASE_4893,USA,2022-11-22,Arizona,Maricopa County Superior Court,51,Female,White,Medium,36956,WhiteCollar,High,2,Yes,Urban,99196,31,0
+CASE_4894,USA,2023-09-07,New York,New York City Criminal Court,56,Male,Black,Medium,51698,Theft,High,1,Yes,Urban,59952,208,1
+CASE_4895,USA,2024-02-10,New York,New York City Criminal Court,45,Female,Hispanic,Medium,48082,WhiteCollar,Low,4,No,Rural,873,430,0
+CASE_4896,USA,2023-12-19,California,Superior Court of California,37,Male,Asian,High,315962,Assault,Low,1,Yes,Rural,3223,328,1
+CASE_4897,USA,2022-03-19,New York,New York City Criminal Court,20,Female,Hispanic,High,407462,WhiteCollar,High,1,Yes,Rural,117325,245,0
+CASE_4898,USA,2023-07-05,New York,New York City Criminal Court,38,Female,Asian,Low,29409,Fraud,Medium,4,No,Rural,16726,206,0
+CASE_4899,USA,2022-05-17,New York,New York City Criminal Court,26,Female,Hispanic,Low,21036,Assault,Medium,2,Yes,Urban,21262,339,1
+CASE_4900,USA,2023-03-16,New York,New York City Criminal Court,61,Female,Asian,Low,26511,WhiteCollar,High,3,No,Rural,137219,480,0
+CASE_4901,USA,2023-09-24,Texas,Harris County District Court,30,Male,Native American,High,482309,Theft,Low,4,Yes,Urban,773,15,1
+CASE_4902,USA,2022-04-22,California,Superior Court of California,18,Male,White,High,366770,WhiteCollar,Low,5,No,Urban,4599,270,1
+CASE_4903,USA,2023-02-24,New York,New York City Criminal Court,64,Female,Native American,High,292713,Fraud,Medium,5,No,Rural,9280,114,1
+CASE_4904,USA,2023-11-22,Texas,Harris County District Court,46,Male,Native American,High,319163,Fraud,Medium,4,Yes,Rural,8447,68,1
+CASE_4905,USA,2023-12-07,Texas,Harris County District Court,47,Female,Black,Medium,55917,WhiteCollar,High,0,No,Rural,141086,213,1
+CASE_4906,USA,2022-04-11,Texas,Harris County District Court,67,Female,Native American,Low,25173,WhiteCollar,Low,1,Yes,Urban,1369,261,1
+CASE_4907,USA,2022-04-03,New York,New York City Criminal Court,57,Male,Hispanic,Low,29370,Assault,Low,4,No,Urban,1367,410,0
+CASE_4908,USA,2023-08-02,Illinois,Cook County Circuit Court,33,Female,White,High,230309,Fraud,Medium,0,Yes,Urban,16744,257,1
+CASE_4909,USA,2022-10-21,California,Superior Court of California,43,Female,Asian,Low,32189,Theft,Medium,0,No,Urban,8518,101,1
+CASE_4910,USA,2022-05-14,New York,New York City Criminal Court,41,Female,Asian,Low,22538,Fraud,Low,4,No,Rural,959,322,1
+CASE_4911,USA,2022-04-18,Illinois,Cook County Circuit Court,36,Female,Asian,Medium,48934,Theft,Medium,4,Yes,Rural,18309,20,0
+CASE_4912,USA,2023-07-30,California,Superior Court of California,41,Male,Asian,Low,24878,Assault,High,4,No,Urban,157381,410,0
+CASE_4913,USA,2023-08-11,Illinois,Cook County Circuit Court,42,Female,Hispanic,High,440567,WhiteCollar,High,3,Yes,Rural,138969,271,0
+CASE_4914,USA,2022-04-18,New York,New York City Criminal Court,28,Female,Hispanic,High,467938,WhiteCollar,Medium,3,Yes,Urban,17387,79,1
+CASE_4915,USA,2023-12-29,Texas,Harris County District Court,42,Male,Asian,Low,20557,Theft,High,2,Yes,Urban,52013,317,0
+CASE_4916,USA,2022-12-13,California,Superior Court of California,54,Male,Hispanic,Low,24810,Fraud,Medium,1,No,Urban,35512,236,0
+CASE_4917,USA,2022-10-16,Arizona,Maricopa County Superior Court,60,Female,Native American,Low,32950,Fraud,Medium,4,Yes,Urban,24077,257,0
+CASE_4918,USA,2022-05-04,New York,New York City Criminal Court,58,Female,Black,Low,29746,Fraud,High,3,No,Rural,93791,444,0
+CASE_4919,USA,2023-08-14,Texas,Harris County District Court,27,Female,Hispanic,High,232609,Assault,Low,5,No,Urban,5419,314,1
+CASE_4920,USA,2023-05-01,California,Superior Court of California,21,Male,Native American,High,319468,WhiteCollar,Medium,1,Yes,Rural,16184,360,1
+CASE_4921,USA,2023-03-10,New York,New York City Criminal Court,67,Female,Hispanic,Low,25478,Assault,Low,1,Yes,Rural,1328,392,1
+CASE_4922,USA,2023-09-26,Illinois,Cook County Circuit Court,69,Male,White,High,438684,Theft,Medium,4,No,Urban,22075,365,0
+CASE_4923,USA,2023-02-15,Illinois,Cook County Circuit Court,35,Male,White,Medium,54170,WhiteCollar,High,2,No,Urban,138542,369,1
+CASE_4924,USA,2023-10-16,Arizona,Maricopa County Superior Court,30,Male,White,High,193456,Fraud,High,2,Yes,Urban,60876,246,1
+CASE_4925,USA,2022-04-11,Texas,Harris County District Court,67,Female,Asian,Medium,63438,Theft,Low,2,No,Rural,1705,359,1
+CASE_4926,USA,2024-01-12,Texas,Harris County District Court,64,Female,Native American,High,132585,WhiteCollar,Low,5,No,Urban,4573,369,0
+CASE_4927,USA,2022-10-14,Illinois,Cook County Circuit Court,35,Male,Asian,Low,20835,Fraud,High,1,No,Rural,136955,480,0
+CASE_4928,USA,2023-10-20,Illinois,Cook County Circuit Court,29,Male,Hispanic,High,386893,Assault,Medium,3,Yes,Urban,21875,356,0
+CASE_4929,USA,2023-07-26,Texas,Harris County District Court,46,Male,White,High,145173,WhiteCollar,Medium,4,Yes,Urban,16843,278,1
+CASE_4930,USA,2022-11-03,California,Superior Court of California,30,Male,White,High,354729,Fraud,High,5,No,Urban,39452,232,0
+CASE_4931,USA,2022-10-19,Arizona,Maricopa County Superior Court,26,Female,Black,Low,19618,WhiteCollar,Medium,5,No,Rural,25642,464,0
+CASE_4932,USA,2023-09-24,California,Superior Court of California,53,Male,Asian,High,215775,Assault,Low,5,No,Rural,2538,346,0
+CASE_4933,USA,2022-10-22,Arizona,Maricopa County Superior Court,41,Female,White,Medium,41781,Fraud,High,0,Yes,Urban,96563,88,1
+CASE_4934,USA,2023-04-26,New York,New York City Criminal Court,46,Male,Hispanic,High,190827,Assault,Medium,2,Yes,Urban,22345,304,1
+CASE_4935,USA,2023-07-28,New York,New York City Criminal Court,42,Female,Black,Low,34229,Theft,Medium,0,No,Rural,19334,206,1
+CASE_4936,USA,2023-10-25,Illinois,Cook County Circuit Court,21,Male,Black,High,134019,Fraud,High,3,Yes,Rural,101366,317,1
+CASE_4937,USA,2022-07-26,New York,New York City Criminal Court,39,Female,White,Medium,54449,Assault,High,0,Yes,Rural,100313,295,1
+CASE_4938,USA,2022-03-03,New York,New York City Criminal Court,37,Female,Asian,Medium,47588,Assault,Medium,3,No,Rural,15750,371,0
+CASE_4939,USA,2023-08-07,California,Superior Court of California,31,Male,Black,High,268462,WhiteCollar,High,3,Yes,Urban,46265,256,1
+CASE_4940,USA,2022-06-07,Illinois,Cook County Circuit Court,43,Male,Hispanic,Medium,55351,Theft,High,3,Yes,Urban,92256,173,0
+CASE_4941,USA,2022-02-10,Illinois,Cook County Circuit Court,22,Male,Native American,High,360752,Theft,Medium,3,No,Rural,15211,117,1
+CASE_4942,USA,2022-09-09,Texas,Harris County District Court,55,Male,White,Medium,52567,Assault,Low,1,Yes,Urban,2414,222,1
+CASE_4943,USA,2022-09-03,Arizona,Maricopa County Superior Court,54,Male,Hispanic,Low,23205,Assault,Medium,5,Yes,Urban,8982,205,0
+CASE_4944,USA,2022-07-31,Arizona,Maricopa County Superior Court,59,Male,Black,High,197873,Theft,High,1,No,Urban,100110,227,0
+CASE_4945,USA,2022-03-16,California,Superior Court of California,37,Male,Native American,Low,31725,Theft,Low,3,Yes,Rural,4786,367,1
+CASE_4946,USA,2022-11-20,Arizona,Maricopa County Superior Court,57,Male,Hispanic,High,337585,Theft,Medium,3,No,Urban,26838,384,1
+CASE_4947,USA,2022-02-21,Illinois,Cook County Circuit Court,54,Male,Black,High,104201,Fraud,Medium,0,No,Rural,6542,352,1
+CASE_4948,USA,2023-10-31,California,Superior Court of California,36,Male,Native American,High,430925,Assault,High,5,Yes,Urban,33272,102,0
+CASE_4949,USA,2022-02-03,Illinois,Cook County Circuit Court,31,Male,Native American,High,129136,Assault,Medium,4,No,Urban,18572,293,0
+CASE_4950,USA,2023-09-12,New York,New York City Criminal Court,49,Male,Black,Medium,37901,WhiteCollar,High,3,Yes,Urban,174896,106,0
+CASE_4951,USA,2022-09-26,New York,New York City Criminal Court,63,Female,Black,Medium,50431,Fraud,Medium,5,Yes,Rural,25282,176,1
+CASE_4952,USA,2022-05-03,Arizona,Maricopa County Superior Court,61,Male,Native American,Low,23056,Fraud,High,0,No,Urban,78800,193,0
+CASE_4953,USA,2023-03-01,New York,New York City Criminal Court,40,Female,Black,Medium,85325,WhiteCollar,High,4,No,Urban,44955,214,0
+CASE_4954,USA,2022-02-20,Arizona,Maricopa County Superior Court,58,Female,Black,Medium,75664,Fraud,Low,0,Yes,Rural,5548,47,1
+CASE_4955,USA,2023-08-04,Arizona,Maricopa County Superior Court,60,Male,White,High,340225,Fraud,Medium,4,No,Urban,17414,281,0
+CASE_4956,USA,2023-06-27,California,Superior Court of California,52,Female,Native American,High,142369,Fraud,Low,2,No,Urban,1635,416,1
+CASE_4957,USA,2022-01-08,California,Superior Court of California,45,Female,Black,Medium,69667,WhiteCollar,Low,4,Yes,Urban,3593,376,0
+CASE_4958,USA,2024-01-20,Texas,Harris County District Court,48,Male,Black,Medium,76915,WhiteCollar,High,2,No,Rural,40290,196,0
+CASE_4959,USA,2022-07-01,New York,New York City Criminal Court,63,Male,Native American,Low,17960,WhiteCollar,High,2,No,Rural,122233,336,1
+CASE_4960,USA,2024-02-15,Arizona,Maricopa County Superior Court,45,Female,Hispanic,High,213998,Assault,Low,2,No,Urban,5526,337,1
+CASE_4961,USA,2022-12-28,New York,New York City Criminal Court,44,Female,White,Medium,47201,Assault,Medium,2,No,Urban,18781,320,1
+CASE_4962,USA,2023-04-15,Illinois,Cook County Circuit Court,67,Male,Native American,Medium,66821,WhiteCollar,Medium,1,No,Urban,17172,223,0
+CASE_4963,USA,2022-07-22,Arizona,Maricopa County Superior Court,35,Female,White,Medium,48601,Fraud,Medium,5,Yes,Urban,24062,141,0
+CASE_4964,USA,2023-12-20,New York,New York City Criminal Court,53,Female,Hispanic,Medium,49530,Fraud,Low,1,Yes,Rural,5866,70,1
+CASE_4965,USA,2022-11-19,California,Superior Court of California,68,Male,Asian,Medium,46154,WhiteCollar,High,4,No,Urban,46300,260,0
+CASE_4966,USA,2022-07-06,Illinois,Cook County Circuit Court,65,Female,Black,Low,26538,Assault,High,0,No,Urban,161974,420,0
+CASE_4967,USA,2023-04-04,Texas,Harris County District Court,46,Male,Hispanic,High,417807,Fraud,High,4,Yes,Rural,112897,333,1
+CASE_4968,USA,2022-06-10,Arizona,Maricopa County Superior Court,67,Female,Black,Medium,79241,Assault,Medium,1,Yes,Rural,18654,233,1
+CASE_4969,USA,2023-11-24,Texas,Harris County District Court,54,Female,Asian,High,324425,WhiteCollar,Medium,0,Yes,Urban,12992,66,1
+CASE_4970,USA,2024-03-01,New York,New York City Criminal Court,39,Male,Asian,High,408515,Fraud,High,1,No,Urban,43526,77,0
+CASE_4971,USA,2022-05-22,Texas,Harris County District Court,36,Male,Native American,Low,33583,Theft,Medium,0,No,Urban,21290,288,1
+CASE_4972,USA,2022-10-03,Illinois,Cook County Circuit Court,58,Male,White,High,289839,Fraud,High,2,Yes,Urban,65178,55,1
+CASE_4973,USA,2022-10-13,Texas,Harris County District Court,48,Male,Black,Low,18208,Theft,Low,4,No,Urban,2014,453,0
+CASE_4974,USA,2024-01-11,New York,New York City Criminal Court,55,Female,White,High,381972,Fraud,Low,0,No,Urban,4591,77,1
+CASE_4975,USA,2024-02-23,Texas,Harris County District Court,27,Male,Hispanic,High,178879,Fraud,Medium,1,No,Rural,5931,343,0
+CASE_4976,USA,2022-01-17,California,Superior Court of California,59,Male,Asian,Medium,74648,WhiteCollar,Medium,1,Yes,Urban,21614,354,1
+CASE_4977,USA,2023-09-16,California,Superior Court of California,31,Female,Native American,Medium,40221,Theft,High,2,Yes,Rural,31399,280,0
+CASE_4978,USA,2022-04-15,Illinois,Cook County Circuit Court,32,Male,Native American,Medium,73565,Assault,High,1,Yes,Urban,97151,327,0
+CASE_4979,USA,2023-09-23,California,Superior Court of California,22,Male,Native American,Low,21804,Assault,High,2,No,Rural,145574,223,0
+CASE_4980,USA,2022-12-04,California,Superior Court of California,48,Male,Hispanic,High,428149,WhiteCollar,Medium,3,Yes,Urban,24956,370,1
+CASE_4981,USA,2023-05-17,Texas,Harris County District Court,46,Female,Native American,Low,21339,Theft,Low,1,No,Urban,3712,213,1
+CASE_4982,USA,2023-10-28,Texas,Harris County District Court,27,Female,Black,High,138657,Assault,Medium,1,No,Urban,23013,225,0
+CASE_4983,USA,2023-09-04,California,Superior Court of California,29,Male,Hispanic,High,420949,Assault,Low,4,Yes,Rural,3088,250,1
+CASE_4984,USA,2023-05-14,Arizona,Maricopa County Superior Court,37,Male,Black,Medium,39727,WhiteCollar,High,1,Yes,Rural,132184,146,1
+CASE_4985,USA,2022-10-09,California,Superior Court of California,68,Female,Hispanic,Low,17299,Assault,Low,3,No,Rural,1747,434,1
+CASE_4986,USA,2022-04-29,California,Superior Court of California,45,Male,White,High,243798,Theft,High,2,No,Rural,27645,248,0
+CASE_4987,USA,2022-06-02,California,Superior Court of California,59,Male,White,Medium,36121,WhiteCollar,High,3,No,Urban,142053,293,0
+CASE_4988,USA,2022-12-08,California,Superior Court of California,60,Female,Hispanic,Medium,53928,Theft,High,3,Yes,Urban,73781,269,1
+CASE_4989,USA,2024-03-02,Arizona,Maricopa County Superior Court,64,Male,Black,High,273484,Assault,High,2,Yes,Urban,47988,362,0
+CASE_4990,USA,2022-01-05,Arizona,Maricopa County Superior Court,59,Male,Hispanic,Low,28280,Assault,Medium,1,No,Rural,29618,304,1
+CASE_4991,USA,2022-08-16,Arizona,Maricopa County Superior Court,31,Male,Asian,Low,15564,Theft,High,5,Yes,Urban,85548,379,0
+CASE_4992,USA,2022-02-19,Illinois,Cook County Circuit Court,27,Male,White,Low,25956,Assault,Medium,2,No,Urban,15335,450,1
+CASE_4993,USA,2022-08-29,Arizona,Maricopa County Superior Court,28,Female,Asian,Low,21753,WhiteCollar,Medium,4,No,Urban,18703,300,0
+CASE_4994,USA,2022-03-29,Arizona,Maricopa County Superior Court,48,Male,Native American,High,195160,Theft,Medium,2,No,Rural,6296,300,1
+CASE_4995,USA,2022-08-17,New York,New York City Criminal Court,20,Male,White,Low,31896,Assault,Medium,4,No,Rural,27244,341,0
+CASE_4996,USA,2023-12-24,New York,New York City Criminal Court,50,Male,White,Medium,74804,Theft,Low,4,Yes,Urban,2181,166,1
+CASE_4997,USA,2022-11-15,Texas,Harris County District Court,31,Male,Hispanic,Medium,59002,Fraud,Low,0,Yes,Urban,6536,264,1
+CASE_4998,USA,2023-04-05,Texas,Harris County District Court,39,Female,Hispanic,Medium,46711,WhiteCollar,Medium,3,Yes,Urban,26718,87,1
+CASE_4999,USA,2023-06-08,Illinois,Cook County Circuit Court,31,Male,Asian,Medium,58267,Fraud,Medium,5,No,Rural,11290,99,0

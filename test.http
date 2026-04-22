@@ -1,0 +1,15 @@
+### Upload CSV
+POST http://localhost:8080/api/audit/upload
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="bailwatch_india_final.csv"
+Content-Type: text/csv
+
+< ./bailwatch_india_final.csv
+--WebAppBoundary--
+
+###
+
+### Run Audit — replace ID below with what upload returned
+GET http://localhost:8080/api/audit/run/1776495103448

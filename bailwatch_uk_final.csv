@@ -1,0 +1,1001 @@
+case_id,country,date,country_region,court_name,court_type,age,gender,ethnicity,income_level,annual_income_gbp,crime_type,severity_category,prior_cases,legal_representation,location_type,bail_amount_gbp,remand_days,bail_granted
+CASE_5000,UK,2022-08-23,England,Westminster Magistrates' Court,Magistrates Court,51,Female,White British,Medium,32780,Fraud,Medium,4,No,Rural,11299,166,0
+CASE_5001,UK,2023-09-18,England,Birmingham Magistrates' Court,Magistrates Court,23,Male,White British,Medium,28400,Fraud,Low,3,Yes,Urban,2204,61,1
+CASE_5002,UK,2023-10-30,England,Westminster Magistrates' Court,Magistrates Court,34,Female,White British,High,261884,Theft,Medium,2,No,Rural,4783,113,1
+CASE_5003,UK,2023-12-11,England,Birmingham Magistrates' Court,Magistrates Court,34,Female,Other,Low,9514,Assault,Low,1,No,Urban,1517,87,1
+CASE_5004,UK,2023-01-31,Scotland,Glasgow Sheriff Court,Magistrates Court,22,Female,White British,High,270181,Theft,High,2,Yes,Urban,22832,1,0
+CASE_5005,UK,2023-02-28,England,Birmingham Magistrates' Court,Magistrates Court,47,Male,Black British,High,165373,Fraud,High,3,Yes,Urban,44344,97,0
+CASE_5006,UK,2022-05-08,England,Westminster Magistrates' Court,Magistrates Court,33,Female,Asian British,Low,10084,Assault,High,3,No,Rural,59014,199,0
+CASE_5007,UK,2023-02-25,Scotland,Glasgow Sheriff Court,Magistrates Court,31,Female,Black British,Low,13632,WhiteCollar,Medium,3,No,Rural,15853,285,1
+CASE_5008,UK,2022-08-15,England,Birmingham Magistrates' Court,Magistrates Court,44,Male,Other,Medium,30876,WhiteCollar,High,3,Yes,Urban,18446,16,0
+CASE_5009,UK,2023-01-14,England,Manchester Crown Court,Crown Court,32,Female,Mixed,Medium,36464,Theft,High,4,Yes,Rural,46460,19,0
+CASE_5010,UK,2022-02-28,England,Birmingham Magistrates' Court,Magistrates Court,36,Male,Mixed,High,289553,Theft,Low,5,Yes,Rural,1790,179,1
+CASE_5011,UK,2022-03-06,England,Westminster Magistrates' Court,Magistrates Court,35,Male,White British,Medium,33663,Theft,Medium,0,No,Rural,13171,74,1
+CASE_5012,UK,2022-05-15,Scotland,Glasgow Sheriff Court,Magistrates Court,48,Male,Asian British,Low,15574,Theft,Medium,5,No,Urban,7571,66,0
+CASE_5013,UK,2023-01-04,Scotland,Glasgow Sheriff Court,Magistrates Court,49,Female,Mixed,Low,12866,Assault,High,4,Yes,Urban,60767,98,0
+CASE_5014,UK,2023-09-08,England,Birmingham Magistrates' Court,Magistrates Court,22,Male,Mixed,High,277501,WhiteCollar,High,0,Yes,Urban,60859,100,1
+CASE_5015,UK,2023-01-13,Scotland,Glasgow Sheriff Court,Magistrates Court,19,Female,Black British,High,272498,WhiteCollar,Medium,2,Yes,Urban,11718,78,1
+CASE_5016,UK,2023-06-21,Scotland,Glasgow Sheriff Court,Magistrates Court,45,Female,Mixed,Medium,25579,Assault,Low,1,Yes,Urban,1862,84,1
+CASE_5017,UK,2022-11-07,Wales,Cardiff Crown Court,Crown Court,31,Female,Black British,High,195878,Assault,High,4,No,Urban,44821,48,0
+CASE_5018,UK,2023-04-19,England,Manchester Crown Court,Crown Court,18,Female,Other,Low,9315,Fraud,High,2,Yes,Rural,33324,233,0
+CASE_5019,UK,2022-01-04,England,Birmingham Magistrates' Court,Magistrates Court,36,Male,Other,Low,11472,Assault,Medium,1,No,Rural,8361,164,1
+CASE_5020,UK,2022-11-23,Scotland,Glasgow Sheriff Court,Magistrates Court,20,Female,White British,High,195280,WhiteCollar,Medium,1,Yes,Rural,3196,7,1
+CASE_5021,UK,2022-09-03,Scotland,Glasgow Sheriff Court,Magistrates Court,43,Male,Black British,High,225321,Assault,Low,3,No,Rural,765,83,1
+CASE_5022,UK,2022-05-10,Scotland,Glasgow Sheriff Court,Magistrates Court,56,Male,Other,Medium,44840,Theft,Medium,3,Yes,Urban,13251,39,1
+CASE_5023,UK,2022-10-26,Scotland,Glasgow Sheriff Court,Magistrates Court,51,Male,Asian British,High,239609,Fraud,Medium,1,Yes,Rural,10886,194,1
+CASE_5024,UK,2023-12-06,England,Birmingham Magistrates' Court,Magistrates Court,61,Female,White British,Low,16680,Fraud,Medium,5,No,Urban,5188,191,0
+CASE_5025,UK,2023-02-24,England,Westminster Magistrates' Court,Magistrates Court,23,Male,Black British,Medium,31042,Fraud,Medium,5,Yes,Rural,7155,10,1
+CASE_5026,UK,2023-03-09,Scotland,Glasgow Sheriff Court,Magistrates Court,47,Female,Asian British,Medium,22774,Theft,Low,3,Yes,Urban,2433,80,1
+CASE_5027,UK,2022-06-02,Wales,Cardiff Crown Court,Crown Court,39,Male,Mixed,Medium,43398,Assault,Low,5,Yes,Urban,1159,64,1
+CASE_5028,UK,2023-04-06,England,Birmingham Magistrates' Court,Magistrates Court,22,Male,Asian British,Medium,29500,WhiteCollar,Low,3,No,Rural,1905,79,1
+CASE_5029,UK,2022-06-06,England,Manchester Crown Court,Crown Court,24,Female,White British,Low,8571,Theft,Low,0,Yes,Rural,1886,213,1
+CASE_5030,UK,2023-10-01,Wales,Cardiff Crown Court,Crown Court,52,Male,White British,Low,11521,WhiteCollar,Medium,2,Yes,Urban,6705,212,0
+CASE_5031,UK,2023-11-02,England,Birmingham Magistrates' Court,Magistrates Court,70,Male,Mixed,Low,19572,Assault,High,5,No,Urban,33751,207,0
+CASE_5032,UK,2022-09-28,England,Birmingham Magistrates' Court,Magistrates Court,46,Female,Asian British,High,273100,Fraud,Medium,4,Yes,Urban,12721,185,1
+CASE_5033,UK,2024-01-27,England,Manchester Crown Court,Crown Court,64,Female,Mixed,Low,15912,WhiteCollar,Low,4,No,Rural,2210,108,1
+CASE_5034,UK,2022-04-26,Scotland,Glasgow Sheriff Court,Magistrates Court,19,Male,Mixed,High,84679,Theft,Low,5,Yes,Rural,682,5,1
+CASE_5035,UK,2023-09-10,England,Westminster Magistrates' Court,Magistrates Court,57,Female,Mixed,Medium,52496,WhiteCollar,High,4,No,Rural,42289,199,0
+CASE_5036,UK,2023-01-10,England,Birmingham Magistrates' Court,Magistrates Court,59,Male,Other,High,184976,Fraud,Low,3,Yes,Rural,1420,137,1
+CASE_5037,UK,2023-08-29,England,Westminster Magistrates' Court,Magistrates Court,62,Female,Mixed,High,102310,WhiteCollar,High,2,No,Rural,68228,90,0
+CASE_5038,UK,2023-03-17,Wales,Cardiff Crown Court,Crown Court,63,Female,Black British,Low,11034,WhiteCollar,Low,1,Yes,Urban,1581,93,1
+CASE_5039,UK,2022-12-18,Scotland,Glasgow Sheriff Court,Magistrates Court,51,Male,Mixed,High,243246,WhiteCollar,Medium,0,No,Urban,4850,68,1
+CASE_5040,UK,2022-12-11,Wales,Cardiff Crown Court,Crown Court,40,Female,Black British,Medium,32962,WhiteCollar,Medium,3,Yes,Rural,3663,85,0
+CASE_5041,UK,2022-02-06,England,Birmingham Magistrates' Court,Magistrates Court,21,Male,Black British,High,253925,WhiteCollar,Low,2,Yes,Urban,496,77,1
+CASE_5042,UK,2023-10-17,Scotland,Glasgow Sheriff Court,Magistrates Court,49,Female,White British,High,266751,Fraud,Medium,4,No,Rural,9976,175,0
+CASE_5043,UK,2022-04-23,England,Birmingham Magistrates' Court,Magistrates Court,30,Female,Black British,Medium,23726,Fraud,Medium,4,No,Urban,16205,103,0
+CASE_5044,UK,2023-06-16,Wales,Cardiff Crown Court,Crown Court,36,Male,Other,High,192727,Fraud,Medium,1,No,Rural,10507,193,1
+CASE_5045,UK,2022-10-28,England,Manchester Crown Court,Crown Court,50,Male,Mixed,High,123920,Fraud,Medium,2,No,Rural,5130,175,1
+CASE_5046,UK,2023-01-29,England,Birmingham Magistrates' Court,Magistrates Court,64,Male,Other,Low,9277,Theft,Medium,3,No,Urban,14065,200,0
+CASE_5047,UK,2022-12-13,England,Westminster Magistrates' Court,Magistrates Court,70,Female,Asian British,High,226102,WhiteCollar,Medium,0,Yes,Rural,7651,134,1
+CASE_5048,UK,2023-11-23,England,Westminster Magistrates' Court,Magistrates Court,32,Male,White British,Low,11616,Theft,High,5,Yes,Urban,43926,172,0
+CASE_5049,UK,2022-02-23,England,Birmingham Magistrates' Court,Magistrates Court,43,Female,Black British,Low,13981,Fraud,Medium,4,No,Urban,16339,283,0
+CASE_5050,UK,2023-02-28,England,Birmingham Magistrates' Court,Magistrates Court,58,Female,Black British,Medium,32271,Assault,Low,3,Yes,Rural,2934,79,1
+CASE_5051,UK,2022-01-02,Wales,Cardiff Crown Court,Crown Court,57,Female,Black British,Medium,35804,Theft,Low,5,No,Rural,1587,144,1
+CASE_5052,UK,2023-09-11,England,Westminster Magistrates' Court,Magistrates Court,62,Female,Black British,High,239666,Theft,Medium,1,Yes,Rural,3203,24,1
+CASE_5053,UK,2023-03-19,England,Manchester Crown Court,Crown Court,52,Female,Black British,Low,12573,Assault,High,3,Yes,Rural,19194,54,1
+CASE_5054,UK,2022-03-22,Wales,Cardiff Crown Court,Crown Court,43,Female,Other,Low,16964,Fraud,High,3,No,Rural,43107,228,0
+CASE_5055,UK,2023-11-21,England,Birmingham Magistrates' Court,Magistrates Court,54,Female,Asian British,Low,16509,Assault,Low,2,Yes,Rural,1162,170,1
+CASE_5056,UK,2023-06-12,Wales,Cardiff Crown Court,Crown Court,48,Male,Mixed,Low,17821,Fraud,High,1,No,Urban,51678,203,0
+CASE_5057,UK,2023-07-01,England,Manchester Crown Court,Crown Court,33,Male,Other,High,199091,Theft,Medium,0,Yes,Urban,8791,94,1
+CASE_5058,UK,2023-06-01,England,Westminster Magistrates' Court,Magistrates Court,33,Male,Other,Low,12932,Theft,High,1,Yes,Rural,52692,147,1
+CASE_5059,UK,2022-04-07,Wales,Cardiff Crown Court,Crown Court,18,Female,Mixed,Medium,51297,Fraud,High,1,Yes,Urban,52620,36,0
+CASE_5060,UK,2022-05-19,Wales,Cardiff Crown Court,Crown Court,63,Female,Other,Medium,35251,WhiteCollar,Medium,3,Yes,Urban,8200,106,0
+CASE_5061,UK,2023-10-24,Wales,Cardiff Crown Court,Crown Court,62,Female,Asian British,Low,12118,WhiteCollar,High,3,No,Rural,80310,294,0
+CASE_5062,UK,2022-03-04,England,Westminster Magistrates' Court,Magistrates Court,36,Male,Black British,Medium,33763,Theft,Low,1,Yes,Urban,995,100,1
+CASE_5063,UK,2022-09-16,England,Manchester Crown Court,Crown Court,66,Female,Other,Low,10816,Fraud,High,0,No,Urban,51808,128,1
+CASE_5064,UK,2023-11-24,Wales,Cardiff Crown Court,Crown Court,18,Male,Black British,Low,10603,WhiteCollar,Low,0,No,Rural,380,140,1
+CASE_5065,UK,2022-08-31,England,Westminster Magistrates' Court,Magistrates Court,60,Female,Black British,Medium,30442,Assault,High,5,Yes,Rural,75676,177,0
+CASE_5066,UK,2022-04-10,England,Birmingham Magistrates' Court,Magistrates Court,44,Male,Black British,High,252828,Assault,Low,0,Yes,Rural,474,88,1
+CASE_5067,UK,2022-11-11,England,Birmingham Magistrates' Court,Magistrates Court,50,Female,Other,High,106771,Theft,Low,3,No,Rural,228,96,1
+CASE_5068,UK,2024-02-07,England,Manchester Crown Court,Crown Court,67,Male,White British,Low,17062,WhiteCollar,High,4,Yes,Urban,17177,162,0
+CASE_5069,UK,2022-02-17,Wales,Cardiff Crown Court,Crown Court,46,Female,Other,Medium,43149,WhiteCollar,Medium,1,Yes,Urban,4759,4,0
+CASE_5070,UK,2022-06-05,England,Manchester Crown Court,Crown Court,55,Female,Mixed,Medium,26485,Fraud,Medium,5,No,Rural,9739,126,0
+CASE_5071,UK,2022-01-01,England,Manchester Crown Court,Crown Court,68,Male,Mixed,High,241111,Fraud,High,1,No,Rural,35788,72,1
+CASE_5072,UK,2023-07-15,England,Manchester Crown Court,Crown Court,37,Male,Black British,High,139786,WhiteCollar,Medium,4,Yes,Urban,10419,177,1
+CASE_5073,UK,2022-06-29,Scotland,Glasgow Sheriff Court,Magistrates Court,27,Female,White British,Low,8266,Fraud,Low,0,Yes,Urban,1164,148,1
+CASE_5074,UK,2023-07-03,Scotland,Glasgow Sheriff Court,Magistrates Court,35,Female,Asian British,Medium,47258,WhiteCollar,High,3,No,Urban,29237,180,0
+CASE_5075,UK,2022-01-13,England,Manchester Crown Court,Crown Court,60,Female,Other,High,65292,Fraud,Low,1,Yes,Rural,1928,144,1
+CASE_5076,UK,2023-10-05,England,Manchester Crown Court,Crown Court,19,Female,White British,Low,11882,WhiteCollar,Medium,3,Yes,Rural,14901,190,1
+CASE_5077,UK,2023-10-11,England,Manchester Crown Court,Crown Court,52,Male,Other,Medium,40370,Fraud,Low,0,Yes,Urban,1338,87,1
+CASE_5078,UK,2023-01-28,England,Westminster Magistrates' Court,Magistrates Court,33,Female,White British,Low,8074,WhiteCollar,Low,5,Yes,Rural,1857,227,1
+CASE_5079,UK,2022-03-03,England,Westminster Magistrates' Court,Magistrates Court,69,Female,White British,Medium,30470,Fraud,High,2,Yes,Rural,47070,121,0
+CASE_5080,UK,2023-11-04,England,Westminster Magistrates' Court,Magistrates Court,26,Male,Other,Medium,35569,WhiteCollar,Low,2,No,Rural,722,195,0
+CASE_5081,UK,2023-09-25,England,Westminster Magistrates' Court,Magistrates Court,58,Female,Asian British,Medium,36291,Theft,Medium,5,No,Urban,13549,104,0
+CASE_5082,UK,2023-05-09,England,Westminster Magistrates' Court,Magistrates Court,46,Female,Black British,Low,15972,Assault,Low,3,Yes,Urban,1523,204,1
+CASE_5083,UK,2022-12-30,Wales,Cardiff Crown Court,Crown Court,36,Male,Other,Low,15534,Fraud,Low,1,Yes,Rural,291,112,1
+CASE_5084,UK,2024-02-28,England,Manchester Crown Court,Crown Court,67,Female,Other,High,189400,Assault,Low,3,No,Urban,409,68,1
+CASE_5085,UK,2022-11-05,England,Manchester Crown Court,Crown Court,44,Male,Mixed,Medium,38865,Fraud,Low,3,No,Rural,662,65,1
+CASE_5086,UK,2022-06-16,England,Manchester Crown Court,Crown Court,49,Male,Asian British,High,148886,Theft,High,1,Yes,Rural,32254,60,0
+CASE_5087,UK,2022-11-08,England,Birmingham Magistrates' Court,Magistrates Court,22,Male,Mixed,High,162776,Fraud,Medium,3,No,Rural,5250,68,0
+CASE_5088,UK,2022-04-23,England,Manchester Crown Court,Crown Court,35,Male,White British,Medium,38947,WhiteCollar,Medium,1,No,Urban,7503,165,1
+CASE_5089,UK,2024-02-17,Scotland,Glasgow Sheriff Court,Magistrates Court,26,Male,Mixed,High,186696,WhiteCollar,Low,1,No,Rural,1131,106,1
+CASE_5090,UK,2024-02-26,Scotland,Glasgow Sheriff Court,Magistrates Court,66,Female,White British,High,88397,Theft,Medium,3,Yes,Rural,5934,41,1
+CASE_5091,UK,2022-10-22,Scotland,Glasgow Sheriff Court,Magistrates Court,36,Female,Other,Medium,25691,WhiteCollar,Medium,0,No,Urban,3428,164,1
+CASE_5092,UK,2023-10-12,England,Westminster Magistrates' Court,Magistrates Court,31,Male,White British,Medium,38450,WhiteCollar,Low,1,No,Urban,229,59,1
+CASE_5093,UK,2022-08-23,Scotland,Glasgow Sheriff Court,Magistrates Court,57,Male,White British,High,238844,Fraud,Medium,3,Yes,Rural,14844,55,1
+CASE_5094,UK,2023-12-26,Wales,Cardiff Crown Court,Crown Court,60,Male,Other,Low,17445,Theft,High,4,Yes,Rural,22847,166,0
+CASE_5095,UK,2022-09-08,England,Birmingham Magistrates' Court,Magistrates Court,54,Female,Asian British,High,58458,Assault,High,2,No,Urban,45293,204,0
+CASE_5096,UK,2022-04-23,England,Birmingham Magistrates' Court,Magistrates Court,31,Female,White British,Medium,50285,WhiteCollar,High,0,Yes,Rural,39108,129,1
+CASE_5097,UK,2022-10-05,Wales,Cardiff Crown Court,Crown Court,49,Male,Mixed,High,167253,Fraud,High,4,Yes,Rural,54522,1,0
+CASE_5098,UK,2024-02-21,Scotland,Glasgow Sheriff Court,Magistrates Court,59,Male,Asian British,Low,15885,Theft,Low,2,Yes,Urban,1463,91,0
+CASE_5099,UK,2024-01-02,England,Birmingham Magistrates' Court,Magistrates Court,55,Female,Other,Low,16444,Assault,High,5,No,Rural,20368,113,0
+CASE_5100,UK,2024-02-09,Wales,Cardiff Crown Court,Crown Court,39,Male,Other,Low,14182,Assault,High,4,No,Urban,17523,255,0
+CASE_5101,UK,2022-08-08,England,Manchester Crown Court,Crown Court,34,Male,Asian British,High,259243,WhiteCollar,Medium,4,No,Urban,11068,156,0
+CASE_5102,UK,2023-11-15,Scotland,Glasgow Sheriff Court,Magistrates Court,50,Female,White British,Low,15008,Theft,Medium,5,No,Rural,10884,219,0
+CASE_5103,UK,2022-04-25,Scotland,Glasgow Sheriff Court,Magistrates Court,22,Male,White British,Low,18074,WhiteCollar,High,2,No,Rural,37644,47,0
+CASE_5104,UK,2023-09-03,Wales,Cardiff Crown Court,Crown Court,58,Female,Black British,Low,9445,WhiteCollar,Low,5,Yes,Rural,989,42,1
+CASE_5105,UK,2023-06-16,England,Birmingham Magistrates' Court,Magistrates Court,69,Female,Mixed,High,57168,Theft,High,3,Yes,Rural,30578,85,0
+CASE_5106,UK,2022-05-15,Wales,Cardiff Crown Court,Crown Court,57,Female,Black British,Low,17328,Fraud,Low,3,Yes,Urban,257,150,1
+CASE_5107,UK,2022-08-17,England,Birmingham Magistrates' Court,Magistrates Court,47,Female,Other,High,223485,WhiteCollar,Medium,2,No,Rural,4318,58,1
+CASE_5108,UK,2022-05-30,Wales,Cardiff Crown Court,Crown Court,59,Female,Asian British,Medium,30242,Theft,Medium,1,Yes,Rural,11852,155,1
+CASE_5109,UK,2022-02-07,Wales,Cardiff Crown Court,Crown Court,31,Female,Black British,Low,15831,WhiteCollar,Medium,0,Yes,Urban,11446,201,1
+CASE_5110,UK,2022-05-07,England,Birmingham Magistrates' Court,Magistrates Court,63,Male,Black British,Medium,42948,WhiteCollar,Low,4,Yes,Rural,2563,172,1
+CASE_5111,UK,2023-07-15,England,Manchester Crown Court,Crown Court,41,Male,Asian British,Medium,51812,Fraud,High,0,Yes,Urban,19914,110,1
+CASE_5112,UK,2022-03-05,Wales,Cardiff Crown Court,Crown Court,59,Male,White British,Medium,50343,WhiteCollar,High,5,No,Rural,37092,122,0
+CASE_5113,UK,2022-12-06,England,Birmingham Magistrates' Court,Magistrates Court,43,Male,Black British,Low,17767,Fraud,Low,2,Yes,Rural,2713,103,1
+CASE_5114,UK,2023-10-22,England,Birmingham Magistrates' Court,Magistrates Court,68,Male,Other,Medium,53331,WhiteCollar,High,2,Yes,Urban,48119,12,0
+CASE_5115,UK,2022-01-30,England,Westminster Magistrates' Court,Magistrates Court,35,Male,Mixed,High,96960,WhiteCollar,High,3,Yes,Urban,19847,105,1
+CASE_5116,UK,2022-09-05,England,Manchester Crown Court,Crown Court,57,Female,Asian British,Medium,35616,Theft,Medium,5,Yes,Urban,7862,157,0
+CASE_5117,UK,2023-01-24,England,Westminster Magistrates' Court,Magistrates Court,70,Female,Mixed,Medium,23645,Assault,Medium,0,No,Rural,8306,35,1
+CASE_5118,UK,2023-10-15,England,Manchester Crown Court,Crown Court,38,Female,Black British,Low,16932,WhiteCollar,Low,1,Yes,Rural,2315,226,1
+CASE_5119,UK,2024-01-18,England,Manchester Crown Court,Crown Court,28,Male,Black British,Low,8430,Fraud,Low,1,Yes,Urban,533,247,1
+CASE_5120,UK,2023-04-17,Scotland,Glasgow Sheriff Court,Magistrates Court,47,Female,Other,High,135344,Theft,High,1,No,Rural,29791,30,0
+CASE_5121,UK,2022-10-11,England,Manchester Crown Court,Crown Court,62,Female,Asian British,Medium,29493,Theft,High,0,No,Rural,77666,90,1
+CASE_5122,UK,2022-06-04,England,Westminster Magistrates' Court,Magistrates Court,25,Female,Mixed,Low,12272,WhiteCollar,Medium,2,Yes,Urban,5200,26,1
+CASE_5123,UK,2023-10-13,England,Westminster Magistrates' Court,Magistrates Court,52,Male,White British,High,196279,Fraud,Low,2,Yes,Urban,1810,2,1
+CASE_5124,UK,2022-06-24,Scotland,Glasgow Sheriff Court,Magistrates Court,67,Male,Other,Low,13024,Theft,Low,4,Yes,Urban,1370,198,1
+CASE_5125,UK,2022-09-21,England,Manchester Crown Court,Crown Court,61,Female,Other,Medium,39959,WhiteCollar,Low,5,No,Urban,2076,130,1
+CASE_5126,UK,2023-08-13,Scotland,Glasgow Sheriff Court,Magistrates Court,67,Female,Black British,High,230705,Assault,High,2,No,Urban,54577,159,0
+CASE_5127,UK,2022-12-02,England,Birmingham Magistrates' Court,Magistrates Court,58,Female,Other,Low,10892,Fraud,High,2,No,Urban,72180,154,0
+CASE_5128,UK,2022-01-23,England,Westminster Magistrates' Court,Magistrates Court,19,Male,Mixed,High,250162,Assault,Medium,3,Yes,Urban,10110,128,1
+CASE_5129,UK,2023-04-13,Wales,Cardiff Crown Court,Crown Court,62,Female,Asian British,High,135374,Theft,Low,2,No,Rural,242,100,1
+CASE_5130,UK,2023-05-10,England,Manchester Crown Court,Crown Court,42,Female,Black British,High,106862,Theft,Medium,2,Yes,Urban,4007,162,1
+CASE_5131,UK,2022-06-21,England,Westminster Magistrates' Court,Magistrates Court,24,Female,Black British,High,68669,WhiteCollar,Low,5,No,Urban,2867,73,1
+CASE_5132,UK,2022-02-01,England,Manchester Crown Court,Crown Court,58,Female,Asian British,Low,11337,Fraud,High,2,No,Rural,85581,129,0
+CASE_5133,UK,2022-01-04,Scotland,Glasgow Sheriff Court,Magistrates Court,43,Male,Black British,High,177203,WhiteCollar,Medium,5,No,Urban,11649,128,1
+CASE_5134,UK,2023-10-29,England,Birmingham Magistrates' Court,Magistrates Court,68,Male,Mixed,Low,11583,Fraud,High,4,No,Urban,63423,129,0
+CASE_5135,UK,2023-11-27,England,Manchester Crown Court,Crown Court,26,Female,Black British,Low,11124,Fraud,Low,3,Yes,Rural,2699,154,1
+CASE_5136,UK,2022-07-06,Scotland,Glasgow Sheriff Court,Magistrates Court,67,Male,Other,Low,16477,Assault,Low,3,Yes,Rural,1624,234,1
+CASE_5137,UK,2022-12-18,England,Manchester Crown Court,Crown Court,25,Male,Asian British,High,164368,WhiteCollar,Medium,4,Yes,Rural,7661,120,1
+CASE_5138,UK,2023-08-13,Wales,Cardiff Crown Court,Crown Court,55,Male,Mixed,Medium,24392,Theft,High,4,Yes,Urban,16585,80,0
+CASE_5139,UK,2022-02-15,Scotland,Glasgow Sheriff Court,Magistrates Court,32,Female,Other,Medium,42903,Theft,High,4,No,Urban,15839,152,0
+CASE_5140,UK,2023-08-23,Wales,Cardiff Crown Court,Crown Court,42,Male,Asian British,Medium,33255,Fraud,High,3,Yes,Urban,77546,23,0
+CASE_5141,UK,2022-05-01,England,Manchester Crown Court,Crown Court,51,Male,Black British,Medium,46263,WhiteCollar,Medium,5,Yes,Rural,6605,173,0
+CASE_5142,UK,2023-07-24,England,Birmingham Magistrates' Court,Magistrates Court,65,Male,Mixed,High,201260,WhiteCollar,Medium,1,No,Rural,2725,73,1
+CASE_5143,UK,2024-01-25,England,Westminster Magistrates' Court,Magistrates Court,49,Male,Mixed,Low,18241,Fraud,High,1,No,Urban,61639,96,0
+CASE_5144,UK,2023-09-10,England,Manchester Crown Court,Crown Court,48,Male,Mixed,High,205109,Theft,Medium,4,No,Rural,5014,106,1
+CASE_5145,UK,2022-02-07,Scotland,Glasgow Sheriff Court,Magistrates Court,29,Female,Black British,High,59824,WhiteCollar,Low,2,No,Rural,369,77,1
+CASE_5146,UK,2022-12-20,England,Westminster Magistrates' Court,Magistrates Court,59,Male,White British,Low,16795,Fraud,Medium,3,No,Rural,10037,162,1
+CASE_5147,UK,2022-02-02,Scotland,Glasgow Sheriff Court,Magistrates Court,18,Male,Other,Medium,28315,Fraud,High,3,Yes,Urban,51822,109,0
+CASE_5148,UK,2022-04-08,England,Birmingham Magistrates' Court,Magistrates Court,35,Male,Black British,Low,10194,Theft,High,3,Yes,Urban,69300,159,0
+CASE_5149,UK,2023-02-24,England,Westminster Magistrates' Court,Magistrates Court,32,Female,White British,Medium,25915,Assault,Low,0,Yes,Rural,1647,49,1
+CASE_5150,UK,2024-02-15,Wales,Cardiff Crown Court,Crown Court,26,Female,Other,Medium,46928,Fraud,Low,0,No,Rural,1037,167,1
+CASE_5151,UK,2022-02-11,England,Birmingham Magistrates' Court,Magistrates Court,18,Male,Asian British,Medium,49330,Fraud,Low,1,No,Urban,2850,187,1
+CASE_5152,UK,2023-04-02,Scotland,Glasgow Sheriff Court,Magistrates Court,59,Male,Black British,High,169087,Assault,High,3,No,Rural,17521,186,0
+CASE_5153,UK,2022-02-27,England,Westminster Magistrates' Court,Magistrates Court,44,Male,Asian British,Medium,21754,Theft,Low,0,No,Urban,1912,223,1
+CASE_5154,UK,2024-03-07,Scotland,Glasgow Sheriff Court,Magistrates Court,48,Male,Asian British,High,134708,WhiteCollar,Medium,0,No,Rural,12079,135,1
+CASE_5155,UK,2022-01-16,Wales,Cardiff Crown Court,Crown Court,53,Female,Other,High,109147,Fraud,High,1,Yes,Urban,24512,120,1
+CASE_5156,UK,2023-03-17,England,Westminster Magistrates' Court,Magistrates Court,40,Male,Asian British,Low,9733,Fraud,Low,0,No,Urban,1395,267,1
+CASE_5157,UK,2023-06-18,Wales,Cardiff Crown Court,Crown Court,30,Male,Mixed,Low,19119,WhiteCollar,Medium,3,Yes,Rural,11252,96,0
+CASE_5158,UK,2023-07-02,England,Birmingham Magistrates' Court,Magistrates Court,35,Female,Other,Low,8664,WhiteCollar,High,0,Yes,Urban,31245,51,0
+CASE_5159,UK,2023-03-26,England,Westminster Magistrates' Court,Magistrates Court,60,Female,Black British,Medium,24528,Fraud,Medium,2,No,Rural,12020,92,1
+CASE_5160,UK,2022-12-15,Scotland,Glasgow Sheriff Court,Magistrates Court,64,Female,Mixed,Low,14844,WhiteCollar,Low,3,Yes,Urban,1654,96,1
+CASE_5161,UK,2024-01-29,Wales,Cardiff Crown Court,Crown Court,55,Female,Other,Medium,35902,Theft,High,5,No,Rural,60081,139,0
+CASE_5162,UK,2023-05-10,England,Manchester Crown Court,Crown Court,33,Male,Asian British,Medium,43802,Fraud,Medium,5,No,Rural,3080,134,0
+CASE_5163,UK,2023-03-29,England,Birmingham Magistrates' Court,Magistrates Court,62,Male,Other,High,142079,Assault,Medium,3,No,Rural,3865,76,0
+CASE_5164,UK,2023-01-20,England,Manchester Crown Court,Crown Court,64,Female,Mixed,Medium,32587,Assault,Low,2,Yes,Urban,275,58,1
+CASE_5165,UK,2023-06-06,Scotland,Glasgow Sheriff Court,Magistrates Court,61,Male,White British,Low,14647,Fraud,Medium,1,Yes,Rural,10538,255,1
+CASE_5166,UK,2022-06-27,Wales,Cardiff Crown Court,Crown Court,54,Female,Mixed,High,260227,WhiteCollar,High,0,Yes,Rural,39759,133,1
+CASE_5167,UK,2022-05-05,Wales,Cardiff Crown Court,Crown Court,63,Male,Mixed,Low,16678,Theft,High,0,No,Urban,34832,264,1
+CASE_5168,UK,2023-06-05,Scotland,Glasgow Sheriff Court,Magistrates Court,26,Female,Mixed,Medium,50787,WhiteCollar,High,0,No,Rural,29680,187,0
+CASE_5169,UK,2022-09-23,Scotland,Glasgow Sheriff Court,Magistrates Court,21,Male,Asian British,Low,12190,Theft,Medium,0,Yes,Urban,11048,164,1
+CASE_5170,UK,2023-06-16,Wales,Cardiff Crown Court,Crown Court,41,Female,Asian British,Low,16032,Theft,High,3,No,Rural,63303,205,1
+CASE_5171,UK,2022-01-22,Wales,Cardiff Crown Court,Crown Court,20,Female,Asian British,High,199761,Assault,High,2,No,Urban,81864,204,0
+CASE_5172,UK,2024-01-04,Wales,Cardiff Crown Court,Crown Court,44,Male,Mixed,Medium,46740,Fraud,Low,2,No,Rural,1421,203,1
+CASE_5173,UK,2023-04-29,England,Westminster Magistrates' Court,Magistrates Court,22,Female,Asian British,Medium,26440,Assault,Low,4,Yes,Urban,1831,93,1
+CASE_5174,UK,2022-02-13,England,Birmingham Magistrates' Court,Magistrates Court,19,Female,Other,High,243996,WhiteCollar,Medium,3,Yes,Urban,5263,101,1
+CASE_5175,UK,2022-05-23,England,Westminster Magistrates' Court,Magistrates Court,66,Female,White British,Low,19544,WhiteCollar,Medium,5,Yes,Rural,7986,216,1
+CASE_5176,UK,2022-01-29,England,Birmingham Magistrates' Court,Magistrates Court,50,Female,White British,Low,9568,Theft,High,2,No,Rural,17522,207,0
+CASE_5177,UK,2023-12-24,England,Manchester Crown Court,Crown Court,21,Female,Black British,High,176565,Fraud,Low,0,Yes,Urban,2152,147,1
+CASE_5178,UK,2023-06-15,Wales,Cardiff Crown Court,Crown Court,50,Male,Other,Medium,20656,Assault,Low,1,Yes,Rural,1807,111,1
+CASE_5179,UK,2023-01-28,Scotland,Glasgow Sheriff Court,Magistrates Court,45,Male,Other,Medium,49862,Theft,High,4,Yes,Urban,40385,86,0
+CASE_5180,UK,2024-01-20,England,Westminster Magistrates' Court,Magistrates Court,27,Male,Other,Low,10936,Theft,Medium,3,No,Urban,7627,64,1
+CASE_5181,UK,2024-02-26,England,Birmingham Magistrates' Court,Magistrates Court,28,Male,Black British,High,257807,Theft,Low,2,No,Urban,961,131,0
+CASE_5182,UK,2023-11-22,Scotland,Glasgow Sheriff Court,Magistrates Court,25,Female,Black British,High,242655,Theft,High,2,Yes,Rural,80300,148,0
+CASE_5183,UK,2023-01-12,England,Manchester Crown Court,Crown Court,25,Female,Mixed,Low,8502,Theft,High,1,No,Urban,63917,177,0
+CASE_5184,UK,2023-11-03,Scotland,Glasgow Sheriff Court,Magistrates Court,22,Female,Asian British,Low,17367,WhiteCollar,High,5,No,Rural,36002,192,0
+CASE_5185,UK,2023-03-17,England,Birmingham Magistrates' Court,Magistrates Court,52,Male,Other,High,148058,WhiteCollar,Medium,0,Yes,Urban,10553,17,1
+CASE_5186,UK,2022-11-22,Scotland,Glasgow Sheriff Court,Magistrates Court,39,Male,Black British,High,295634,Fraud,Low,0,No,Urban,2178,93,1
+CASE_5187,UK,2023-05-14,England,Birmingham Magistrates' Court,Magistrates Court,42,Female,Mixed,Low,19711,Assault,Low,1,Yes,Urban,311,58,1
+CASE_5188,UK,2022-02-12,Scotland,Glasgow Sheriff Court,Magistrates Court,21,Male,Asian British,Medium,21121,Theft,High,3,Yes,Urban,43964,52,0
+CASE_5189,UK,2024-03-09,England,Birmingham Magistrates' Court,Magistrates Court,53,Male,Mixed,High,279891,WhiteCollar,High,4,No,Urban,53435,66,0
+CASE_5190,UK,2022-08-26,England,Manchester Crown Court,Crown Court,54,Female,Asian British,High,166938,WhiteCollar,Low,5,No,Urban,460,88,1
+CASE_5191,UK,2022-05-08,England,Manchester Crown Court,Crown Court,22,Male,White British,High,257850,Fraud,Medium,0,No,Urban,9672,143,1
+CASE_5192,UK,2022-03-30,England,Manchester Crown Court,Crown Court,37,Male,Mixed,High,259620,Theft,Low,4,No,Urban,1743,70,1
+CASE_5193,UK,2022-12-16,England,Manchester Crown Court,Crown Court,38,Female,White British,Medium,48657,Fraud,High,0,Yes,Urban,18009,16,1
+CASE_5194,UK,2022-07-28,Scotland,Glasgow Sheriff Court,Magistrates Court,60,Male,Black British,Medium,21999,Theft,High,2,No,Rural,33679,131,0
+CASE_5195,UK,2023-09-16,Scotland,Glasgow Sheriff Court,Magistrates Court,21,Female,Other,High,184607,Theft,Medium,2,Yes,Urban,4479,85,1
+CASE_5196,UK,2023-03-25,England,Westminster Magistrates' Court,Magistrates Court,50,Female,Other,Medium,28255,Assault,Low,0,No,Rural,1395,141,1
+CASE_5197,UK,2024-01-21,England,Manchester Crown Court,Crown Court,54,Male,White British,Low,17498,WhiteCollar,Low,3,No,Rural,2108,211,0
+CASE_5198,UK,2023-01-15,Wales,Cardiff Crown Court,Crown Court,59,Female,Mixed,Medium,45651,Fraud,Low,3,Yes,Rural,2171,149,1
+CASE_5199,UK,2023-03-11,England,Manchester Crown Court,Crown Court,33,Male,Asian British,Low,17844,Assault,High,5,Yes,Urban,31441,157,0
+CASE_5200,UK,2022-03-03,England,Westminster Magistrates' Court,Magistrates Court,29,Female,Asian British,Medium,29764,Theft,High,3,No,Rural,89848,82,0
+CASE_5201,UK,2023-07-18,England,Manchester Crown Court,Crown Court,67,Female,Asian British,High,55593,Fraud,Low,2,No,Urban,729,147,1
+CASE_5202,UK,2023-10-08,Scotland,Glasgow Sheriff Court,Magistrates Court,26,Male,Black British,Medium,41967,Assault,Low,2,No,Urban,553,73,1
+CASE_5203,UK,2023-07-25,Scotland,Glasgow Sheriff Court,Magistrates Court,37,Male,Other,Medium,39022,Fraud,High,3,Yes,Urban,47869,25,0
+CASE_5204,UK,2023-10-02,Scotland,Glasgow Sheriff Court,Magistrates Court,37,Female,White British,High,160627,Theft,Medium,4,Yes,Urban,11113,122,1
+CASE_5205,UK,2022-03-23,Scotland,Glasgow Sheriff Court,Magistrates Court,55,Female,White British,Low,16520,WhiteCollar,High,5,Yes,Rural,71609,200,0
+CASE_5206,UK,2023-06-01,England,Birmingham Magistrates' Court,Magistrates Court,49,Female,Other,High,123445,Fraud,High,2,Yes,Rural,51897,167,1
+CASE_5207,UK,2024-01-04,Wales,Cardiff Crown Court,Crown Court,18,Male,Black British,High,255732,Fraud,Low,5,Yes,Rural,2526,80,1
+CASE_5208,UK,2022-07-20,England,Manchester Crown Court,Crown Court,51,Female,Mixed,High,93969,WhiteCollar,Medium,3,Yes,Rural,13413,76,1
+CASE_5209,UK,2022-01-26,England,Manchester Crown Court,Crown Court,22,Female,White British,High,183781,WhiteCollar,Medium,4,No,Rural,8725,58,0
+CASE_5210,UK,2022-06-18,England,Manchester Crown Court,Crown Court,30,Female,Black British,High,125905,Fraud,Low,0,No,Urban,2040,58,1
+CASE_5211,UK,2023-12-04,England,Westminster Magistrates' Court,Magistrates Court,54,Male,Mixed,High,253326,Fraud,Low,2,Yes,Rural,854,9,1
+CASE_5212,UK,2022-08-27,England,Birmingham Magistrates' Court,Magistrates Court,54,Female,Asian British,Low,19274,Theft,Low,0,No,Urban,1731,121,1
+CASE_5213,UK,2023-08-07,England,Birmingham Magistrates' Court,Magistrates Court,29,Male,White British,Medium,37819,Fraud,High,3,No,Urban,41754,97,0
+CASE_5214,UK,2023-06-23,Wales,Cardiff Crown Court,Crown Court,57,Female,White British,Low,18862,Theft,Low,2,No,Urban,1169,168,0
+CASE_5215,UK,2023-04-14,England,Birmingham Magistrates' Court,Magistrates Court,38,Female,White British,Medium,21298,WhiteCollar,High,5,No,Urban,47625,180,0
+CASE_5216,UK,2022-12-22,England,Westminster Magistrates' Court,Magistrates Court,34,Female,White British,Medium,35249,Assault,High,4,Yes,Rural,45010,177,0
+CASE_5217,UK,2024-02-27,Wales,Cardiff Crown Court,Crown Court,52,Male,Other,Medium,28269,WhiteCollar,Medium,2,Yes,Urban,8332,23,1
+CASE_5218,UK,2023-04-25,Scotland,Glasgow Sheriff Court,Magistrates Court,43,Male,Other,Medium,42323,Assault,Low,0,No,Rural,833,197,1
+CASE_5219,UK,2023-02-18,Scotland,Glasgow Sheriff Court,Magistrates Court,68,Female,Mixed,Low,13661,Theft,Low,1,Yes,Rural,808,254,1
+CASE_5220,UK,2022-11-04,England,Birmingham Magistrates' Court,Magistrates Court,33,Male,Asian British,Low,13099,WhiteCollar,Low,4,No,Urban,2507,281,1
+CASE_5221,UK,2023-07-05,Scotland,Glasgow Sheriff Court,Magistrates Court,40,Male,Mixed,Medium,26616,Theft,Medium,3,Yes,Urban,11594,12,1
+CASE_5222,UK,2022-10-13,Scotland,Glasgow Sheriff Court,Magistrates Court,61,Female,Other,Low,13543,WhiteCollar,High,1,Yes,Rural,20341,216,0
+CASE_5223,UK,2022-07-13,England,Manchester Crown Court,Crown Court,34,Male,Mixed,Medium,32529,Assault,Low,2,No,Urban,1778,77,1
+CASE_5224,UK,2022-12-18,Scotland,Glasgow Sheriff Court,Magistrates Court,70,Male,Mixed,Low,8662,WhiteCollar,High,5,Yes,Rural,56481,161,0
+CASE_5225,UK,2023-06-19,Scotland,Glasgow Sheriff Court,Magistrates Court,47,Female,Asian British,Medium,36569,Fraud,Medium,5,No,Rural,3457,201,0
+CASE_5226,UK,2022-10-30,England,Birmingham Magistrates' Court,Magistrates Court,38,Female,White British,High,208883,Assault,Medium,2,Yes,Urban,14789,171,1
+CASE_5227,UK,2022-12-02,England,Manchester Crown Court,Crown Court,24,Female,Mixed,Medium,31333,Assault,Medium,3,Yes,Urban,4695,18,1
+CASE_5228,UK,2023-04-11,England,Westminster Magistrates' Court,Magistrates Court,65,Male,White British,Low,18537,Theft,High,2,Yes,Rural,69821,144,1
+CASE_5229,UK,2023-07-18,England,Birmingham Magistrates' Court,Magistrates Court,66,Male,Black British,Medium,24497,Fraud,Low,4,No,Urban,715,97,0
+CASE_5230,UK,2022-05-23,England,Manchester Crown Court,Crown Court,58,Female,Mixed,Medium,22975,Assault,Low,2,No,Rural,755,90,1
+CASE_5231,UK,2022-07-21,Wales,Cardiff Crown Court,Crown Court,69,Male,Black British,High,131322,Theft,Medium,0,No,Urban,4088,73,1
+CASE_5232,UK,2022-01-20,England,Westminster Magistrates' Court,Magistrates Court,30,Female,Black British,Low,18565,Assault,Low,2,Yes,Urban,1212,170,1
+CASE_5233,UK,2022-10-07,England,Birmingham Magistrates' Court,Magistrates Court,39,Male,Other,Low,10745,Assault,High,3,Yes,Urban,30010,131,1
+CASE_5234,UK,2024-01-02,England,Manchester Crown Court,Crown Court,38,Female,White British,Medium,24654,Theft,Low,2,No,Rural,2146,66,1
+CASE_5235,UK,2022-02-18,Scotland,Glasgow Sheriff Court,Magistrates Court,22,Female,Other,Low,10736,Theft,High,2,No,Urban,24613,95,0
+CASE_5236,UK,2022-03-09,Wales,Cardiff Crown Court,Crown Court,31,Male,Asian British,Medium,23994,Fraud,Low,0,Yes,Rural,274,83,1
+CASE_5237,UK,2024-01-03,Scotland,Glasgow Sheriff Court,Magistrates Court,27,Female,Mixed,High,201913,Theft,High,2,No,Rural,68618,91,0
+CASE_5238,UK,2022-06-03,Scotland,Glasgow Sheriff Court,Magistrates Court,29,Female,Other,High,140029,Theft,Medium,3,Yes,Urban,4097,65,1
+CASE_5239,UK,2022-05-27,England,Manchester Crown Court,Crown Court,59,Female,Other,High,282701,WhiteCollar,Low,1,Yes,Urban,1162,17,1
+CASE_5240,UK,2023-07-16,England,Manchester Crown Court,Crown Court,28,Male,Black British,Medium,41973,WhiteCollar,High,1,No,Urban,74833,159,0
+CASE_5241,UK,2023-07-01,England,Manchester Crown Court,Crown Court,49,Female,White British,High,200869,Assault,High,1,No,Urban,49785,114,0
+CASE_5242,UK,2022-04-29,England,Westminster Magistrates' Court,Magistrates Court,37,Male,White British,High,296732,WhiteCollar,Low,1,Yes,Urban,2372,127,1
+CASE_5243,UK,2022-08-12,Scotland,Glasgow Sheriff Court,Magistrates Court,21,Male,Black British,High,239388,Theft,High,1,Yes,Rural,80951,35,0
+CASE_5244,UK,2022-03-29,Scotland,Glasgow Sheriff Court,Magistrates Court,55,Female,Mixed,Low,17973,WhiteCollar,Low,2,Yes,Rural,1327,111,1
+CASE_5245,UK,2023-09-08,England,Birmingham Magistrates' Court,Magistrates Court,33,Male,Other,Medium,46754,Assault,Low,3,Yes,Urban,1539,113,1
+CASE_5246,UK,2022-01-22,England,Manchester Crown Court,Crown Court,28,Female,Other,Low,9304,Fraud,Low,3,Yes,Urban,2245,222,1
+CASE_5247,UK,2023-04-21,Scotland,Glasgow Sheriff Court,Magistrates Court,39,Male,White British,Low,12958,Assault,High,0,No,Urban,20565,262,1
+CASE_5248,UK,2023-10-31,England,Birmingham Magistrates' Court,Magistrates Court,19,Male,Other,High,223853,Fraud,High,1,No,Rural,34111,21,0
+CASE_5249,UK,2023-06-09,Wales,Cardiff Crown Court,Crown Court,69,Female,Other,Low,19504,Assault,Low,5,No,Urban,747,126,0
+CASE_5250,UK,2022-06-05,England,Birmingham Magistrates' Court,Magistrates Court,54,Female,White British,High,111160,WhiteCollar,Low,3,No,Rural,2131,190,1
+CASE_5251,UK,2022-01-15,England,Birmingham Magistrates' Court,Magistrates Court,48,Female,Other,High,221312,Fraud,High,1,No,Rural,57941,34,0
+CASE_5252,UK,2022-08-15,England,Birmingham Magistrates' Court,Magistrates Court,21,Female,Black British,Medium,43711,WhiteCollar,Medium,1,Yes,Rural,8101,71,1
+CASE_5253,UK,2022-09-25,Wales,Cardiff Crown Court,Crown Court,40,Male,Asian British,Medium,41589,Assault,Medium,3,Yes,Urban,8000,167,1
+CASE_5254,UK,2022-04-23,Wales,Cardiff Crown Court,Crown Court,56,Female,Asian British,Low,17692,Assault,Medium,2,Yes,Rural,6223,88,1
+CASE_5255,UK,2023-08-11,England,Manchester Crown Court,Crown Court,45,Male,Other,Medium,29177,WhiteCollar,Low,0,Yes,Rural,559,49,1
+CASE_5256,UK,2022-02-21,England,Westminster Magistrates' Court,Magistrates Court,67,Male,Mixed,Low,12662,WhiteCollar,Medium,5,No,Urban,12013,118,0
+CASE_5257,UK,2023-07-26,England,Birmingham Magistrates' Court,Magistrates Court,31,Female,White British,Low,19911,WhiteCollar,Low,3,Yes,Rural,823,32,1
+CASE_5258,UK,2022-05-11,Wales,Cardiff Crown Court,Crown Court,68,Female,Black British,Low,16836,WhiteCollar,Low,4,Yes,Urban,2059,188,1
+CASE_5259,UK,2022-06-05,England,Westminster Magistrates' Court,Magistrates Court,64,Female,Asian British,High,153221,WhiteCollar,Medium,5,Yes,Urban,5906,54,0
+CASE_5260,UK,2022-03-07,England,Birmingham Magistrates' Court,Magistrates Court,37,Female,Black British,Medium,41932,Assault,High,3,Yes,Rural,74810,85,0
+CASE_5261,UK,2023-11-03,England,Birmingham Magistrates' Court,Magistrates Court,25,Male,Black British,Medium,36102,WhiteCollar,High,4,Yes,Rural,44498,71,0
+CASE_5262,UK,2023-10-04,Scotland,Glasgow Sheriff Court,Magistrates Court,51,Male,Mixed,Medium,24663,WhiteCollar,Low,1,Yes,Rural,1228,147,1
+CASE_5263,UK,2022-09-13,England,Manchester Crown Court,Crown Court,21,Male,Asian British,High,242122,Fraud,Medium,2,Yes,Rural,6125,43,0
+CASE_5264,UK,2022-02-19,Wales,Cardiff Crown Court,Crown Court,44,Male,Other,Low,16141,Fraud,High,2,No,Urban,42745,62,0
+CASE_5265,UK,2022-12-29,Wales,Cardiff Crown Court,Crown Court,50,Male,White British,Medium,43724,Assault,Medium,5,No,Rural,8719,175,1
+CASE_5266,UK,2022-01-23,England,Manchester Crown Court,Crown Court,27,Male,Mixed,Medium,25759,WhiteCollar,Low,0,No,Rural,1509,154,1
+CASE_5267,UK,2022-05-07,Wales,Cardiff Crown Court,Crown Court,44,Male,White British,High,237083,Fraud,High,0,Yes,Rural,18428,34,1
+CASE_5268,UK,2023-05-28,England,Manchester Crown Court,Crown Court,57,Male,Asian British,Low,16456,Assault,High,3,Yes,Rural,39278,266,0
+CASE_5269,UK,2023-08-14,England,Westminster Magistrates' Court,Magistrates Court,48,Female,Asian British,Low,12920,Theft,High,5,No,Urban,50286,134,0
+CASE_5270,UK,2022-04-29,Wales,Cardiff Crown Court,Crown Court,21,Male,Other,Low,17977,Fraud,Low,0,Yes,Urban,2212,40,1
+CASE_5271,UK,2023-05-01,England,Birmingham Magistrates' Court,Magistrates Court,39,Female,Other,High,211159,Theft,Medium,5,Yes,Urban,6208,36,1
+CASE_5272,UK,2023-03-18,England,Birmingham Magistrates' Court,Magistrates Court,64,Male,Black British,Low,15156,Theft,Low,1,Yes,Urban,455,126,1
+CASE_5273,UK,2023-09-24,England,Birmingham Magistrates' Court,Magistrates Court,58,Male,Other,Medium,22991,Theft,Low,0,No,Rural,1638,163,1
+CASE_5274,UK,2023-09-02,England,Westminster Magistrates' Court,Magistrates Court,32,Male,White British,Low,15667,WhiteCollar,Medium,0,No,Urban,2624,280,0
+CASE_5275,UK,2022-12-11,England,Birmingham Magistrates' Court,Magistrates Court,58,Male,Asian British,Low,9481,Assault,High,5,Yes,Urban,78911,228,0
+CASE_5276,UK,2023-01-28,England,Westminster Magistrates' Court,Magistrates Court,68,Female,Black British,High,196889,Assault,Medium,2,No,Rural,4305,154,0
+CASE_5277,UK,2022-01-21,England,Manchester Crown Court,Crown Court,26,Male,White British,Medium,24074,WhiteCollar,Medium,3,Yes,Rural,13118,32,1
+CASE_5278,UK,2023-01-25,Wales,Cardiff Crown Court,Crown Court,52,Female,Asian British,High,176919,WhiteCollar,High,5,No,Rural,68085,153,0
+CASE_5279,UK,2023-07-08,England,Birmingham Magistrates' Court,Magistrates Court,28,Male,Asian British,Medium,41733,WhiteCollar,High,2,No,Urban,66857,173,0
+CASE_5280,UK,2023-10-21,Wales,Cardiff Crown Court,Crown Court,33,Female,Black British,Low,17992,Fraud,High,2,No,Rural,76085,90,0
+CASE_5281,UK,2023-10-21,England,Manchester Crown Court,Crown Court,21,Male,Mixed,Medium,26987,Theft,Low,2,Yes,Urban,388,96,1
+CASE_5282,UK,2023-03-27,England,Birmingham Magistrates' Court,Magistrates Court,21,Male,Black British,High,199200,Theft,Medium,4,No,Rural,12518,74,1
+CASE_5283,UK,2023-09-01,Scotland,Glasgow Sheriff Court,Magistrates Court,48,Female,Black British,High,132738,Fraud,High,4,Yes,Rural,31640,142,0
+CASE_5284,UK,2022-06-28,England,Birmingham Magistrates' Court,Magistrates Court,51,Female,Other,Low,15573,Theft,Medium,1,Yes,Urban,5730,181,1
+CASE_5285,UK,2023-04-22,England,Birmingham Magistrates' Court,Magistrates Court,21,Female,Asian British,High,241673,Assault,Medium,3,No,Rural,12696,135,1
+CASE_5286,UK,2022-12-05,Scotland,Glasgow Sheriff Court,Magistrates Court,69,Male,Other,Low,14444,Fraud,High,2,Yes,Rural,49360,119,0
+CASE_5287,UK,2024-01-16,Wales,Cardiff Crown Court,Crown Court,65,Male,Black British,Low,9111,Theft,Medium,2,No,Urban,10509,181,1
+CASE_5288,UK,2022-08-31,Scotland,Glasgow Sheriff Court,Magistrates Court,62,Female,Other,Low,10206,Fraud,Low,5,No,Rural,1826,72,1
+CASE_5289,UK,2022-08-31,England,Manchester Crown Court,Crown Court,48,Female,White British,High,212308,Fraud,Medium,0,No,Rural,4730,36,1
+CASE_5290,UK,2023-11-03,England,Birmingham Magistrates' Court,Magistrates Court,68,Female,White British,Medium,31848,Assault,Low,4,Yes,Rural,2033,178,1
+CASE_5291,UK,2023-02-11,Scotland,Glasgow Sheriff Court,Magistrates Court,67,Male,Mixed,High,127209,Fraud,Medium,5,Yes,Rural,7430,84,0
+CASE_5292,UK,2022-08-23,Scotland,Glasgow Sheriff Court,Magistrates Court,61,Female,Other,Low,14379,Assault,Medium,1,Yes,Urban,12403,137,1
+CASE_5293,UK,2022-11-08,Wales,Cardiff Crown Court,Crown Court,30,Male,Other,Low,11291,Fraud,High,3,No,Urban,65757,194,0
+CASE_5294,UK,2022-12-09,England,Birmingham Magistrates' Court,Magistrates Court,29,Male,Mixed,Low,18233,Theft,Medium,4,No,Urban,4210,222,0
+CASE_5295,UK,2022-09-27,Scotland,Glasgow Sheriff Court,Magistrates Court,27,Male,Other,Low,8477,Theft,Medium,0,No,Rural,14335,124,1
+CASE_5296,UK,2022-03-28,Scotland,Glasgow Sheriff Court,Magistrates Court,36,Female,Asian British,High,207842,Theft,Medium,4,Yes,Urban,13538,164,0
+CASE_5297,UK,2023-12-27,Scotland,Glasgow Sheriff Court,Magistrates Court,65,Male,Other,Medium,42925,Theft,Medium,2,Yes,Rural,9209,64,1
+CASE_5298,UK,2023-03-27,England,Westminster Magistrates' Court,Magistrates Court,44,Male,White British,Low,17272,WhiteCollar,Low,5,No,Rural,1772,188,0
+CASE_5299,UK,2022-08-08,England,Manchester Crown Court,Crown Court,68,Female,Asian British,Low,9544,Fraud,Low,5,Yes,Rural,469,212,1
+CASE_5300,UK,2022-11-12,Scotland,Glasgow Sheriff Court,Magistrates Court,55,Male,Asian British,Low,8141,Fraud,High,3,No,Urban,48541,238,0
+CASE_5301,UK,2022-10-08,Scotland,Glasgow Sheriff Court,Magistrates Court,35,Female,White British,High,217778,Fraud,High,5,No,Rural,72634,196,0
+CASE_5302,UK,2022-12-24,Scotland,Glasgow Sheriff Court,Magistrates Court,63,Male,Other,Medium,54406,WhiteCollar,Low,0,Yes,Rural,486,142,1
+CASE_5303,UK,2024-03-08,Wales,Cardiff Crown Court,Crown Court,49,Male,Black British,Medium,23044,Assault,Medium,2,Yes,Urban,11300,44,1
+CASE_5304,UK,2023-01-04,England,Westminster Magistrates' Court,Magistrates Court,64,Female,Other,Medium,35526,Fraud,High,5,Yes,Urban,38829,161,0
+CASE_5305,UK,2022-07-22,Scotland,Glasgow Sheriff Court,Magistrates Court,31,Male,White British,Medium,20440,Theft,Medium,4,No,Rural,14001,181,0
+CASE_5306,UK,2023-02-28,England,Westminster Magistrates' Court,Magistrates Court,65,Female,Mixed,Medium,49436,Theft,Low,3,Yes,Rural,1064,118,1
+CASE_5307,UK,2023-04-18,England,Birmingham Magistrates' Court,Magistrates Court,56,Male,White British,Medium,20573,Fraud,Low,3,Yes,Urban,1726,51,1
+CASE_5308,UK,2023-06-08,Scotland,Glasgow Sheriff Court,Magistrates Court,35,Male,Mixed,High,192064,Fraud,Low,3,No,Urban,247,97,1
+CASE_5309,UK,2023-06-27,Scotland,Glasgow Sheriff Court,Magistrates Court,35,Male,Black British,High,139665,Fraud,High,1,Yes,Rural,83343,123,0
+CASE_5310,UK,2022-12-14,Scotland,Glasgow Sheriff Court,Magistrates Court,40,Male,Mixed,Low,15236,Fraud,High,1,Yes,Rural,62041,112,1
+CASE_5311,UK,2024-02-29,England,Birmingham Magistrates' Court,Magistrates Court,36,Female,Black British,Medium,22213,Fraud,Medium,5,Yes,Urban,5364,133,0
+CASE_5312,UK,2024-01-16,Scotland,Glasgow Sheriff Court,Magistrates Court,61,Male,Asian British,High,82408,Theft,High,0,Yes,Urban,41372,44,1
+CASE_5313,UK,2022-04-14,England,Birmingham Magistrates' Court,Magistrates Court,34,Female,Other,Low,9208,WhiteCollar,Low,3,Yes,Urban,1182,102,1
+CASE_5314,UK,2022-04-28,Wales,Cardiff Crown Court,Crown Court,44,Female,White British,Medium,34170,Assault,High,5,No,Urban,55660,27,0
+CASE_5315,UK,2023-07-04,England,Westminster Magistrates' Court,Magistrates Court,21,Male,White British,Low,15990,Fraud,High,0,Yes,Rural,66516,116,0
+CASE_5316,UK,2023-02-05,Scotland,Glasgow Sheriff Court,Magistrates Court,24,Female,White British,Low,9690,Fraud,High,0,Yes,Rural,49330,76,1
+CASE_5317,UK,2022-05-13,Scotland,Glasgow Sheriff Court,Magistrates Court,56,Male,Black British,High,167322,Fraud,Medium,0,Yes,Urban,13448,185,1
+CASE_5318,UK,2023-12-21,England,Westminster Magistrates' Court,Magistrates Court,58,Female,Mixed,Medium,48385,Fraud,Low,4,Yes,Rural,1303,20,1
+CASE_5319,UK,2024-01-28,England,Birmingham Magistrates' Court,Magistrates Court,25,Female,Asian British,Medium,21185,WhiteCollar,Medium,2,No,Rural,7595,183,0
+CASE_5320,UK,2023-07-16,England,Birmingham Magistrates' Court,Magistrates Court,25,Female,Mixed,Low,8233,WhiteCollar,Medium,0,Yes,Urban,5693,143,1
+CASE_5321,UK,2022-11-09,Scotland,Glasgow Sheriff Court,Magistrates Court,19,Male,Mixed,High,156524,Fraud,Low,1,Yes,Urban,456,95,1
+CASE_5322,UK,2023-12-03,Scotland,Glasgow Sheriff Court,Magistrates Court,68,Male,Mixed,Low,14687,WhiteCollar,Low,3,Yes,Urban,2049,240,1
+CASE_5323,UK,2023-01-18,Wales,Cardiff Crown Court,Crown Court,37,Female,Mixed,Medium,28445,Fraud,Low,5,No,Rural,757,56,0
+CASE_5324,UK,2022-04-04,England,Manchester Crown Court,Crown Court,56,Female,Other,Medium,27949,Fraud,Low,1,Yes,Rural,2118,105,1
+CASE_5325,UK,2024-01-04,Wales,Cardiff Crown Court,Crown Court,56,Female,Mixed,Medium,54684,WhiteCollar,Medium,1,No,Urban,9945,139,1
+CASE_5326,UK,2023-09-19,England,Manchester Crown Court,Crown Court,36,Female,Other,Low,13093,Theft,High,2,Yes,Rural,31018,93,0
+CASE_5327,UK,2023-12-26,England,Birmingham Magistrates' Court,Magistrates Court,58,Male,Asian British,Low,10934,Theft,Low,1,Yes,Urban,2023,187,1
+CASE_5328,UK,2023-11-09,Wales,Cardiff Crown Court,Crown Court,22,Female,Asian British,Low,16946,WhiteCollar,Medium,0,No,Rural,15842,208,1
+CASE_5329,UK,2023-08-11,England,Westminster Magistrates' Court,Magistrates Court,31,Female,Other,High,276339,WhiteCollar,High,2,Yes,Urban,72593,79,0
+CASE_5330,UK,2023-10-13,England,Manchester Crown Court,Crown Court,23,Female,Other,Low,19135,Assault,Low,4,No,Rural,1162,148,1
+CASE_5331,UK,2022-12-20,Scotland,Glasgow Sheriff Court,Magistrates Court,33,Female,White British,High,159080,Fraud,Low,0,Yes,Urban,2285,145,1
+CASE_5332,UK,2022-09-30,Scotland,Glasgow Sheriff Court,Magistrates Court,57,Male,Mixed,Low,12911,Theft,Medium,3,Yes,Rural,14829,197,1
+CASE_5333,UK,2022-02-27,England,Birmingham Magistrates' Court,Magistrates Court,46,Male,Other,Low,15251,WhiteCollar,Medium,1,Yes,Urban,4171,133,1
+CASE_5334,UK,2024-03-03,Wales,Cardiff Crown Court,Crown Court,64,Male,Other,High,292965,Assault,Low,4,No,Urban,1782,83,1
+CASE_5335,UK,2023-06-28,England,Birmingham Magistrates' Court,Magistrates Court,40,Female,White British,Medium,44910,WhiteCollar,Medium,2,Yes,Urban,10955,143,1
+CASE_5336,UK,2024-01-03,England,Birmingham Magistrates' Court,Magistrates Court,41,Female,Asian British,Low,14608,Fraud,High,4,No,Rural,45632,170,0
+CASE_5337,UK,2022-04-29,England,Birmingham Magistrates' Court,Magistrates Court,21,Female,Black British,High,186808,Theft,Medium,0,No,Rural,5354,84,1
+CASE_5338,UK,2023-06-07,Wales,Cardiff Crown Court,Crown Court,20,Female,Asian British,High,153127,Assault,Medium,4,Yes,Urban,11537,98,1
+CASE_5339,UK,2022-08-12,England,Birmingham Magistrates' Court,Magistrates Court,46,Female,White British,High,91483,Fraud,Low,1,No,Urban,684,130,1
+CASE_5340,UK,2022-08-31,England,Manchester Crown Court,Crown Court,53,Male,Black British,Medium,21996,Theft,High,0,Yes,Urban,21137,41,0
+CASE_5341,UK,2023-01-16,England,Birmingham Magistrates' Court,Magistrates Court,19,Female,Black British,Medium,21842,Fraud,High,0,No,Urban,49985,226,1
+CASE_5342,UK,2024-01-09,Scotland,Glasgow Sheriff Court,Magistrates Court,54,Female,Mixed,Medium,52686,WhiteCollar,Medium,4,Yes,Urban,13572,133,1
+CASE_5343,UK,2022-04-25,Scotland,Glasgow Sheriff Court,Magistrates Court,66,Male,Asian British,Low,15916,Fraud,Low,1,No,Urban,2574,303,1
+CASE_5344,UK,2023-05-22,Scotland,Glasgow Sheriff Court,Magistrates Court,69,Female,Mixed,High,189694,WhiteCollar,Low,2,Yes,Rural,357,129,1
+CASE_5345,UK,2023-12-12,England,Manchester Crown Court,Crown Court,25,Female,Other,High,152984,Theft,Medium,3,No,Rural,5019,181,1
+CASE_5346,UK,2023-07-08,Scotland,Glasgow Sheriff Court,Magistrates Court,57,Male,White British,Low,17523,Fraud,Low,3,No,Urban,1220,71,1
+CASE_5347,UK,2023-11-28,England,Westminster Magistrates' Court,Magistrates Court,59,Male,Other,Medium,46837,Fraud,Medium,4,No,Rural,6893,95,1
+CASE_5348,UK,2022-02-08,England,Manchester Crown Court,Crown Court,63,Male,Mixed,Medium,50236,Assault,Medium,0,Yes,Urban,7812,3,1
+CASE_5349,UK,2023-05-07,Scotland,Glasgow Sheriff Court,Magistrates Court,18,Male,Other,High,238930,WhiteCollar,Low,1,Yes,Rural,657,6,1
+CASE_5350,UK,2022-10-24,Scotland,Glasgow Sheriff Court,Magistrates Court,41,Male,Other,Medium,50203,Fraud,Medium,3,No,Rural,14102,59,1
+CASE_5351,UK,2024-02-04,Wales,Cardiff Crown Court,Crown Court,67,Female,Mixed,Medium,35083,Fraud,High,2,No,Rural,46545,61,0
+CASE_5352,UK,2024-03-05,England,Westminster Magistrates' Court,Magistrates Court,34,Male,White British,Medium,47915,WhiteCollar,High,0,Yes,Rural,24712,67,0
+CASE_5353,UK,2022-10-12,Wales,Cardiff Crown Court,Crown Court,66,Male,Black British,High,201877,Fraud,Low,3,Yes,Rural,920,13,0
+CASE_5354,UK,2022-05-04,England,Westminster Magistrates' Court,Magistrates Court,53,Male,Asian British,Low,9557,WhiteCollar,High,1,Yes,Rural,56385,235,0
+CASE_5355,UK,2023-02-13,England,Manchester Crown Court,Crown Court,40,Female,Other,Low,17665,Theft,Medium,3,No,Urban,4672,162,0
+CASE_5356,UK,2022-12-07,Scotland,Glasgow Sheriff Court,Magistrates Court,28,Male,Black British,High,62172,Theft,High,1,No,Rural,73766,73,1
+CASE_5357,UK,2022-08-30,England,Westminster Magistrates' Court,Magistrates Court,43,Female,Black British,Medium,50669,Theft,Medium,1,Yes,Rural,6245,136,1
+CASE_5358,UK,2024-02-26,Wales,Cardiff Crown Court,Crown Court,53,Male,Black British,Medium,32227,WhiteCollar,Low,2,Yes,Rural,1131,82,1
+CASE_5359,UK,2022-11-10,Wales,Cardiff Crown Court,Crown Court,22,Male,Black British,High,279328,Fraud,Low,2,Yes,Rural,2403,130,1
+CASE_5360,UK,2022-10-17,England,Birmingham Magistrates' Court,Magistrates Court,49,Female,Black British,Medium,25062,Assault,High,2,Yes,Urban,63612,47,0
+CASE_5361,UK,2022-04-11,England,Manchester Crown Court,Crown Court,30,Female,Other,Low,10593,Fraud,High,3,No,Rural,17626,107,0
+CASE_5362,UK,2023-04-06,Wales,Cardiff Crown Court,Crown Court,33,Female,Other,Medium,31811,Fraud,Medium,0,No,Rural,11700,53,1
+CASE_5363,UK,2023-09-21,England,Birmingham Magistrates' Court,Magistrates Court,32,Male,Other,High,57800,WhiteCollar,Medium,4,Yes,Rural,9366,55,1
+CASE_5364,UK,2023-02-18,Scotland,Glasgow Sheriff Court,Magistrates Court,22,Male,Other,High,175993,Theft,Low,2,No,Rural,1087,97,1
+CASE_5365,UK,2023-10-08,Scotland,Glasgow Sheriff Court,Magistrates Court,29,Female,Other,High,170195,Fraud,Low,2,Yes,Urban,2323,65,1
+CASE_5366,UK,2023-03-25,England,Manchester Crown Court,Crown Court,41,Female,Mixed,High,271603,Fraud,Low,1,No,Rural,1701,185,1
+CASE_5367,UK,2022-01-10,England,Manchester Crown Court,Crown Court,30,Male,Other,High,229093,Assault,Low,3,Yes,Urban,663,10,1
+CASE_5368,UK,2023-10-12,Scotland,Glasgow Sheriff Court,Magistrates Court,37,Male,White British,Low,13024,WhiteCollar,Low,0,Yes,Rural,1697,227,1
+CASE_5369,UK,2023-06-21,Scotland,Glasgow Sheriff Court,Magistrates Court,35,Male,Asian British,Medium,22558,Theft,Medium,0,No,Urban,9011,122,1
+CASE_5370,UK,2024-01-29,Scotland,Glasgow Sheriff Court,Magistrates Court,53,Female,White British,Medium,30150,Fraud,Medium,3,No,Urban,13446,52,1
+CASE_5371,UK,2022-01-30,England,Westminster Magistrates' Court,Magistrates Court,46,Male,Mixed,High,59562,Fraud,Medium,5,Yes,Urban,9680,65,0
+CASE_5372,UK,2023-11-16,England,Westminster Magistrates' Court,Magistrates Court,28,Male,White British,High,245989,WhiteCollar,Low,3,No,Rural,554,169,1
+CASE_5373,UK,2022-11-24,England,Manchester Crown Court,Crown Court,25,Male,White British,Low,16838,Assault,Medium,0,Yes,Rural,8798,201,1
+CASE_5374,UK,2024-02-22,England,Birmingham Magistrates' Court,Magistrates Court,55,Male,Mixed,Medium,54772,Assault,High,4,No,Urban,23299,161,0
+CASE_5375,UK,2023-09-08,England,Birmingham Magistrates' Court,Magistrates Court,57,Male,Other,Low,17171,Assault,High,3,No,Rural,17609,249,0
+CASE_5376,UK,2022-08-28,Scotland,Glasgow Sheriff Court,Magistrates Court,60,Male,Other,Medium,54241,Assault,High,5,No,Urban,67924,122,0
+CASE_5377,UK,2023-01-26,Scotland,Glasgow Sheriff Court,Magistrates Court,26,Female,White British,Low,10557,WhiteCollar,Low,3,Yes,Urban,442,111,1
+CASE_5378,UK,2022-01-04,England,Manchester Crown Court,Crown Court,58,Male,Asian British,High,115585,WhiteCollar,Low,5,Yes,Rural,2280,190,0
+CASE_5379,UK,2022-08-14,England,Westminster Magistrates' Court,Magistrates Court,18,Female,White British,Low,14929,Assault,Low,0,No,Urban,1102,218,1
+CASE_5380,UK,2022-10-11,Wales,Cardiff Crown Court,Crown Court,63,Female,Mixed,Medium,23093,Theft,Low,1,No,Rural,2386,202,1
+CASE_5381,UK,2023-05-22,Wales,Cardiff Crown Court,Crown Court,37,Male,Other,High,144288,Assault,High,4,No,Urban,54793,146,0
+CASE_5382,UK,2024-02-10,Scotland,Glasgow Sheriff Court,Magistrates Court,53,Male,Other,Medium,52419,Fraud,High,2,Yes,Rural,39683,99,0
+CASE_5383,UK,2023-06-27,England,Birmingham Magistrates' Court,Magistrates Court,34,Female,Mixed,Low,13328,Theft,High,1,No,Urban,21487,253,0
+CASE_5384,UK,2022-04-10,England,Manchester Crown Court,Crown Court,66,Male,Asian British,Medium,52823,Theft,Low,4,Yes,Urban,657,172,1
+CASE_5385,UK,2023-07-10,England,Birmingham Magistrates' Court,Magistrates Court,42,Male,Black British,High,262009,Assault,Low,3,Yes,Rural,892,105,1
+CASE_5386,UK,2022-09-20,England,Birmingham Magistrates' Court,Magistrates Court,34,Male,Other,Medium,37677,Theft,High,4,No,Urban,58845,117,0
+CASE_5387,UK,2022-04-25,England,Birmingham Magistrates' Court,Magistrates Court,26,Female,Asian British,Medium,47327,WhiteCollar,Medium,4,Yes,Rural,3661,173,1
+CASE_5388,UK,2023-11-29,Wales,Cardiff Crown Court,Crown Court,31,Female,Asian British,High,85124,WhiteCollar,High,1,Yes,Urban,28095,119,1
+CASE_5389,UK,2023-09-15,England,Manchester Crown Court,Crown Court,65,Female,Asian British,Low,8247,Theft,Low,3,Yes,Rural,1907,192,1
+CASE_5390,UK,2023-10-25,England,Manchester Crown Court,Crown Court,24,Female,White British,Medium,20631,WhiteCollar,Low,2,No,Rural,1224,27,0
+CASE_5391,UK,2022-09-20,England,Birmingham Magistrates' Court,Magistrates Court,20,Male,Asian British,Low,15986,Assault,High,1,No,Rural,80914,124,0
+CASE_5392,UK,2022-01-23,England,Westminster Magistrates' Court,Magistrates Court,69,Female,White British,High,145834,Theft,Low,1,No,Urban,842,132,1
+CASE_5393,UK,2024-01-01,England,Westminster Magistrates' Court,Magistrates Court,33,Female,Asian British,Medium,32742,WhiteCollar,Low,5,No,Urban,680,107,0
+CASE_5394,UK,2022-01-12,England,Birmingham Magistrates' Court,Magistrates Court,66,Male,Black British,Low,12582,Assault,Medium,1,Yes,Urban,12611,150,0
+CASE_5395,UK,2022-06-28,England,Birmingham Magistrates' Court,Magistrates Court,39,Male,Other,High,77497,Fraud,High,5,Yes,Urban,24418,90,0
+CASE_5396,UK,2023-04-22,England,Birmingham Magistrates' Court,Magistrates Court,63,Female,Other,High,131867,WhiteCollar,High,1,Yes,Urban,18928,179,0
+CASE_5397,UK,2022-01-04,Wales,Cardiff Crown Court,Crown Court,70,Male,Asian British,Medium,29040,WhiteCollar,Medium,1,Yes,Urban,8340,174,1
+CASE_5398,UK,2022-04-12,Scotland,Glasgow Sheriff Court,Magistrates Court,41,Female,Black British,Low,18992,Assault,Low,1,No,Urban,2752,125,1
+CASE_5399,UK,2022-07-10,Wales,Cardiff Crown Court,Crown Court,23,Male,Mixed,Low,9127,Theft,Medium,4,No,Urban,4167,163,0
+CASE_5400,UK,2023-10-03,England,Manchester Crown Court,Crown Court,45,Female,Black British,High,141243,Theft,Medium,3,No,Urban,13552,200,0
+CASE_5401,UK,2022-01-25,England,Westminster Magistrates' Court,Magistrates Court,54,Male,Asian British,Medium,22503,WhiteCollar,Medium,0,Yes,Urban,11214,120,1
+CASE_5402,UK,2022-04-13,England,Birmingham Magistrates' Court,Magistrates Court,26,Male,Mixed,Medium,42878,Fraud,Low,1,No,Urban,1243,67,1
+CASE_5403,UK,2022-06-07,Scotland,Glasgow Sheriff Court,Magistrates Court,22,Female,White British,Medium,52227,Fraud,High,4,No,Rural,65305,165,0
+CASE_5404,UK,2023-01-29,England,Birmingham Magistrates' Court,Magistrates Court,26,Male,Other,Medium,43294,WhiteCollar,Medium,2,Yes,Rural,8646,21,0
+CASE_5405,UK,2023-09-20,Wales,Cardiff Crown Court,Crown Court,53,Female,Black British,Low,8505,WhiteCollar,Medium,0,Yes,Urban,8580,143,1
+CASE_5406,UK,2022-08-24,England,Birmingham Magistrates' Court,Magistrates Court,55,Male,Black British,High,255687,WhiteCollar,Low,2,Yes,Rural,238,154,1
+CASE_5407,UK,2023-05-23,England,Westminster Magistrates' Court,Magistrates Court,45,Female,Other,High,258467,WhiteCollar,Medium,0,No,Rural,6212,34,0
+CASE_5408,UK,2023-06-27,England,Westminster Magistrates' Court,Magistrates Court,64,Male,Asian British,Low,9464,Assault,Low,2,Yes,Rural,2078,191,1
+CASE_5409,UK,2022-08-06,England,Manchester Crown Court,Crown Court,55,Male,Mixed,High,74729,Fraud,High,4,No,Urban,68783,70,0
+CASE_5410,UK,2023-05-22,England,Manchester Crown Court,Crown Court,21,Female,Mixed,Medium,33539,Fraud,Low,2,Yes,Rural,1517,28,1
+CASE_5411,UK,2022-03-12,Scotland,Glasgow Sheriff Court,Magistrates Court,49,Male,Other,High,56316,Assault,Low,0,Yes,Rural,736,153,1
+CASE_5412,UK,2023-07-02,England,Manchester Crown Court,Crown Court,30,Female,White British,Low,16631,Fraud,Low,1,No,Urban,2017,171,1
+CASE_5413,UK,2022-09-18,Wales,Cardiff Crown Court,Crown Court,39,Female,Asian British,Medium,31035,Fraud,Low,2,No,Rural,2381,119,1
+CASE_5414,UK,2024-01-30,Scotland,Glasgow Sheriff Court,Magistrates Court,21,Male,White British,Low,16193,Theft,Low,3,No,Rural,1430,81,1
+CASE_5415,UK,2023-02-12,England,Manchester Crown Court,Crown Court,30,Male,Other,Medium,30856,WhiteCollar,High,5,Yes,Rural,39725,85,0
+CASE_5416,UK,2023-06-27,Wales,Cardiff Crown Court,Crown Court,25,Female,Black British,High,240386,Theft,Medium,5,Yes,Urban,3683,167,0
+CASE_5417,UK,2023-08-18,England,Birmingham Magistrates' Court,Magistrates Court,61,Female,Black British,High,206182,Assault,Medium,2,Yes,Rural,5964,181,1
+CASE_5418,UK,2023-04-05,England,Westminster Magistrates' Court,Magistrates Court,70,Male,Asian British,Low,13046,Assault,Low,0,Yes,Rural,343,182,1
+CASE_5419,UK,2023-06-06,Wales,Cardiff Crown Court,Crown Court,19,Female,Asian British,Low,16078,Fraud,High,2,Yes,Rural,60671,148,0
+CASE_5420,UK,2022-12-10,Wales,Cardiff Crown Court,Crown Court,36,Male,White British,Low,8392,Theft,Medium,3,Yes,Rural,12085,52,0
+CASE_5421,UK,2022-04-06,England,Westminster Magistrates' Court,Magistrates Court,33,Female,White British,Medium,29284,WhiteCollar,Low,0,No,Urban,1266,90,1
+CASE_5422,UK,2023-01-15,England,Manchester Crown Court,Crown Court,27,Male,White British,High,155834,Fraud,Medium,5,No,Rural,7631,151,0
+CASE_5423,UK,2023-11-19,Wales,Cardiff Crown Court,Crown Court,63,Female,White British,Medium,27337,Assault,Low,3,Yes,Rural,962,58,1
+CASE_5424,UK,2022-10-21,Wales,Cardiff Crown Court,Crown Court,43,Male,Mixed,Low,8379,WhiteCollar,Low,0,No,Urban,1098,106,1
+CASE_5425,UK,2023-09-18,Scotland,Glasgow Sheriff Court,Magistrates Court,29,Female,Mixed,Medium,24533,Fraud,High,3,No,Urban,42372,195,0
+CASE_5426,UK,2022-12-11,England,Birmingham Magistrates' Court,Magistrates Court,62,Male,Mixed,Medium,49073,Assault,Low,5,No,Urban,854,190,0
+CASE_5427,UK,2023-10-12,Scotland,Glasgow Sheriff Court,Magistrates Court,38,Male,Other,High,228954,Fraud,High,3,No,Rural,71232,24,0
+CASE_5428,UK,2023-04-18,England,Birmingham Magistrates' Court,Magistrates Court,45,Male,White British,Medium,36820,WhiteCollar,Low,5,No,Rural,2376,180,0
+CASE_5429,UK,2023-09-17,Scotland,Glasgow Sheriff Court,Magistrates Court,66,Female,Mixed,Medium,45673,WhiteCollar,Medium,0,Yes,Rural,11562,31,1
+CASE_5430,UK,2023-01-23,England,Birmingham Magistrates' Court,Magistrates Court,54,Female,White British,Medium,52568,Fraud,Medium,2,No,Rural,12246,136,0
+CASE_5431,UK,2022-01-30,England,Westminster Magistrates' Court,Magistrates Court,20,Male,Asian British,Medium,26237,Theft,Medium,4,Yes,Urban,7355,134,0
+CASE_5432,UK,2022-02-16,England,Birmingham Magistrates' Court,Magistrates Court,29,Male,Asian British,High,141661,Assault,Medium,0,Yes,Urban,5125,154,1
+CASE_5433,UK,2022-10-29,Wales,Cardiff Crown Court,Crown Court,44,Male,Asian British,Medium,32478,WhiteCollar,High,1,No,Rural,73027,64,0
+CASE_5434,UK,2022-06-30,Wales,Cardiff Crown Court,Crown Court,50,Male,White British,High,102109,Fraud,Low,5,Yes,Urban,1474,121,1
+CASE_5435,UK,2023-08-06,Wales,Cardiff Crown Court,Crown Court,30,Female,White British,Medium,21253,Theft,Low,3,Yes,Rural,502,60,1
+CASE_5436,UK,2024-01-26,Scotland,Glasgow Sheriff Court,Magistrates Court,28,Female,Black British,Low,8619,Fraud,Medium,1,Yes,Rural,14757,104,1
+CASE_5437,UK,2024-02-28,Wales,Cardiff Crown Court,Crown Court,70,Male,Black British,High,123295,Theft,High,0,No,Urban,49289,101,1
+CASE_5438,UK,2023-03-15,England,Manchester Crown Court,Crown Court,47,Female,Mixed,Low,16724,Assault,Medium,0,No,Rural,4723,148,1
+CASE_5439,UK,2023-06-20,England,Westminster Magistrates' Court,Magistrates Court,39,Male,Other,Medium,30302,Theft,High,3,Yes,Urban,47862,108,0
+CASE_5440,UK,2022-10-28,England,Westminster Magistrates' Court,Magistrates Court,33,Male,Black British,Low,13342,Fraud,High,2,Yes,Urban,67541,216,0
+CASE_5441,UK,2023-12-23,England,Manchester Crown Court,Crown Court,30,Female,White British,Low,12968,WhiteCollar,High,5,No,Rural,29213,177,0
+CASE_5442,UK,2022-06-26,Wales,Cardiff Crown Court,Crown Court,58,Male,White British,Medium,50835,Theft,Low,4,Yes,Rural,595,175,1
+CASE_5443,UK,2022-12-19,Wales,Cardiff Crown Court,Crown Court,26,Male,Asian British,High,268646,Fraud,Medium,2,No,Urban,7698,175,1
+CASE_5444,UK,2022-10-02,England,Birmingham Magistrates' Court,Magistrates Court,35,Male,Mixed,Low,11937,Theft,High,1,No,Rural,15052,63,0
+CASE_5445,UK,2024-03-04,England,Birmingham Magistrates' Court,Magistrates Court,22,Male,Black British,Medium,49128,Theft,Low,3,Yes,Rural,1000,171,1
+CASE_5446,UK,2023-07-07,England,Westminster Magistrates' Court,Magistrates Court,36,Male,Other,Low,14516,Theft,High,4,Yes,Rural,29660,130,0
+CASE_5447,UK,2023-12-02,Scotland,Glasgow Sheriff Court,Magistrates Court,60,Male,Mixed,High,93421,WhiteCollar,High,5,Yes,Rural,30496,54,0
+CASE_5448,UK,2022-10-01,England,Manchester Crown Court,Crown Court,27,Male,White British,Medium,41014,Fraud,Medium,4,Yes,Rural,8628,35,0
+CASE_5449,UK,2022-08-21,England,Manchester Crown Court,Crown Court,57,Male,Asian British,Medium,39122,Assault,Low,2,Yes,Urban,682,147,1
+CASE_5450,UK,2022-03-21,England,Westminster Magistrates' Court,Magistrates Court,43,Female,Black British,Medium,36228,WhiteCollar,Medium,5,No,Rural,4174,98,0
+CASE_5451,UK,2023-08-16,England,Westminster Magistrates' Court,Magistrates Court,40,Male,White British,High,259412,Theft,Medium,1,No,Urban,11556,128,1
+CASE_5452,UK,2023-02-16,England,Westminster Magistrates' Court,Magistrates Court,62,Female,Mixed,Low,12833,WhiteCollar,Low,1,Yes,Urban,1370,192,1
+CASE_5453,UK,2022-04-01,England,Birmingham Magistrates' Court,Magistrates Court,21,Female,Mixed,High,209338,WhiteCollar,High,4,Yes,Rural,45664,10,0
+CASE_5454,UK,2023-01-15,Scotland,Glasgow Sheriff Court,Magistrates Court,47,Female,Asian British,Medium,26655,Assault,High,0,No,Rural,65466,190,1
+CASE_5455,UK,2022-01-28,England,Manchester Crown Court,Crown Court,35,Male,Mixed,High,182605,Theft,Medium,0,Yes,Urban,9350,152,1
+CASE_5456,UK,2022-10-01,England,Birmingham Magistrates' Court,Magistrates Court,32,Female,White British,Medium,26828,WhiteCollar,Medium,0,No,Urban,11978,193,0
+CASE_5457,UK,2022-09-11,England,Birmingham Magistrates' Court,Magistrates Court,38,Male,Asian British,Medium,32842,Assault,Medium,4,Yes,Urban,10931,165,1
+CASE_5458,UK,2023-05-05,England,Manchester Crown Court,Crown Court,30,Female,Asian British,High,171080,Assault,Medium,4,No,Rural,17225,199,0
+CASE_5459,UK,2022-03-06,Wales,Cardiff Crown Court,Crown Court,68,Female,Asian British,Medium,34456,WhiteCollar,Low,3,No,Rural,588,80,0
+CASE_5460,UK,2022-12-30,England,Manchester Crown Court,Crown Court,33,Female,Other,Medium,30667,WhiteCollar,High,4,Yes,Rural,33737,106,0
+CASE_5461,UK,2023-08-16,England,Birmingham Magistrates' Court,Magistrates Court,19,Female,Other,High,74658,Theft,High,2,No,Rural,47999,140,0
+CASE_5462,UK,2022-03-08,England,Birmingham Magistrates' Court,Magistrates Court,25,Female,Other,Low,9293,Assault,High,4,Yes,Urban,48420,225,0
+CASE_5463,UK,2022-03-04,Wales,Cardiff Crown Court,Crown Court,38,Female,Other,High,251132,Assault,High,2,Yes,Urban,24623,60,0
+CASE_5464,UK,2023-05-21,England,Birmingham Magistrates' Court,Magistrates Court,21,Female,Asian British,Medium,27383,Fraud,Low,2,Yes,Rural,2909,95,1
+CASE_5465,UK,2023-03-09,England,Westminster Magistrates' Court,Magistrates Court,60,Female,Other,High,120063,WhiteCollar,High,3,Yes,Urban,49714,9,0
+CASE_5466,UK,2023-05-24,England,Birmingham Magistrates' Court,Magistrates Court,46,Male,White British,Low,18569,Theft,Medium,0,Yes,Urban,3917,125,1
+CASE_5467,UK,2022-03-12,Scotland,Glasgow Sheriff Court,Magistrates Court,69,Female,Asian British,Medium,42862,Assault,Low,0,No,Urban,2460,183,1
+CASE_5468,UK,2023-03-09,Scotland,Glasgow Sheriff Court,Magistrates Court,40,Female,Black British,High,149774,Fraud,Low,5,Yes,Urban,619,181,0
+CASE_5469,UK,2023-08-14,England,Birmingham Magistrates' Court,Magistrates Court,53,Male,White British,Low,16286,WhiteCollar,Medium,4,No,Urban,4113,90,0
+CASE_5470,UK,2022-07-08,England,Birmingham Magistrates' Court,Magistrates Court,38,Female,Mixed,Medium,31513,Assault,High,1,No,Urban,62536,152,0
+CASE_5471,UK,2023-12-08,Scotland,Glasgow Sheriff Court,Magistrates Court,34,Female,White British,High,184550,Assault,Low,2,Yes,Urban,928,146,1
+CASE_5472,UK,2022-11-02,Scotland,Glasgow Sheriff Court,Magistrates Court,37,Male,Black British,Medium,45649,Theft,Medium,3,Yes,Rural,4529,161,0
+CASE_5473,UK,2023-10-27,Scotland,Glasgow Sheriff Court,Magistrates Court,39,Male,Black British,Medium,20604,Assault,Low,1,No,Rural,1263,99,1
+CASE_5474,UK,2023-06-06,England,Birmingham Magistrates' Court,Magistrates Court,36,Female,Mixed,Medium,28668,Assault,Medium,4,Yes,Urban,10594,138,1
+CASE_5475,UK,2023-11-24,Wales,Cardiff Crown Court,Crown Court,59,Male,Mixed,High,244321,WhiteCollar,Medium,5,Yes,Urban,11487,178,1
+CASE_5476,UK,2022-04-23,Scotland,Glasgow Sheriff Court,Magistrates Court,58,Male,Black British,Low,14328,Fraud,Low,4,No,Rural,288,147,1
+CASE_5477,UK,2022-02-02,England,Westminster Magistrates' Court,Magistrates Court,45,Male,Mixed,High,130379,WhiteCollar,High,5,Yes,Urban,38347,35,1
+CASE_5478,UK,2022-11-24,England,Birmingham Magistrates' Court,Magistrates Court,64,Female,Mixed,High,90182,WhiteCollar,Low,4,No,Urban,770,190,1
+CASE_5479,UK,2024-02-07,Scotland,Glasgow Sheriff Court,Magistrates Court,36,Female,Other,High,129676,Assault,Medium,5,No,Rural,6258,14,0
+CASE_5480,UK,2022-12-11,England,Birmingham Magistrates' Court,Magistrates Court,26,Female,Other,Low,19464,Fraud,High,2,Yes,Rural,66837,81,0
+CASE_5481,UK,2022-03-07,England,Westminster Magistrates' Court,Magistrates Court,60,Female,Mixed,High,222126,Assault,Low,4,Yes,Rural,2056,168,0
+CASE_5482,UK,2022-08-20,England,Birmingham Magistrates' Court,Magistrates Court,59,Female,White British,Low,16889,Fraud,Low,5,Yes,Rural,631,99,1
+CASE_5483,UK,2023-10-04,England,Birmingham Magistrates' Court,Magistrates Court,70,Male,White British,High,281613,Assault,Low,3,No,Rural,2431,72,1
+CASE_5484,UK,2024-03-06,England,Manchester Crown Court,Crown Court,29,Male,Other,Low,18332,Theft,High,5,Yes,Rural,73132,174,1
+CASE_5485,UK,2022-10-08,England,Westminster Magistrates' Court,Magistrates Court,57,Female,Other,Medium,53628,Theft,Medium,5,Yes,Urban,6825,143,1
+CASE_5486,UK,2024-01-23,England,Manchester Crown Court,Crown Court,25,Female,Asian British,Medium,46851,Theft,High,1,Yes,Rural,68656,119,0
+CASE_5487,UK,2022-08-23,England,Birmingham Magistrates' Court,Magistrates Court,30,Female,Other,Medium,23803,Assault,Medium,3,Yes,Rural,11730,118,0
+CASE_5488,UK,2022-06-01,Scotland,Glasgow Sheriff Court,Magistrates Court,55,Female,Mixed,Low,15413,WhiteCollar,Medium,2,Yes,Urban,7862,230,1
+CASE_5489,UK,2022-07-31,England,Westminster Magistrates' Court,Magistrates Court,66,Female,White British,High,141564,WhiteCollar,High,4,Yes,Urban,55970,67,0
+CASE_5490,UK,2024-02-06,Wales,Cardiff Crown Court,Crown Court,55,Male,White British,Low,18642,WhiteCollar,Medium,1,No,Rural,7051,129,0
+CASE_5491,UK,2023-06-23,England,Manchester Crown Court,Crown Court,57,Male,Other,High,124503,Fraud,Medium,2,Yes,Urban,9321,81,1
+CASE_5492,UK,2023-01-28,Scotland,Glasgow Sheriff Court,Magistrates Court,24,Male,Asian British,High,262424,WhiteCollar,Low,5,No,Urban,2420,170,1
+CASE_5493,UK,2022-05-29,England,Manchester Crown Court,Crown Court,30,Female,Black British,Medium,29632,Assault,Medium,2,No,Urban,10469,205,1
+CASE_5494,UK,2022-09-27,Wales,Cardiff Crown Court,Crown Court,54,Female,White British,High,245365,Theft,Medium,5,No,Rural,9939,14,0
+CASE_5495,UK,2022-09-19,England,Manchester Crown Court,Crown Court,24,Male,Black British,Medium,24954,Fraud,Low,5,No,Urban,820,161,0
+CASE_5496,UK,2022-09-10,Wales,Cardiff Crown Court,Crown Court,38,Male,Other,High,229659,Assault,High,2,No,Urban,66594,126,0
+CASE_5497,UK,2023-08-31,England,Manchester Crown Court,Crown Court,36,Female,White British,Medium,52863,Fraud,Medium,2,No,Rural,3164,96,0
+CASE_5498,UK,2024-01-06,England,Manchester Crown Court,Crown Court,56,Male,Other,High,236387,Fraud,Low,3,No,Urban,1108,49,1
+CASE_5499,UK,2022-06-19,England,Westminster Magistrates' Court,Magistrates Court,52,Female,Mixed,Medium,20036,Fraud,Low,1,Yes,Urban,2375,76,1
+CASE_5500,UK,2024-03-08,England,Westminster Magistrates' Court,Magistrates Court,58,Male,Other,High,122320,Assault,Low,3,Yes,Urban,2083,51,1
+CASE_5501,UK,2023-05-24,Wales,Cardiff Crown Court,Crown Court,28,Male,Mixed,Medium,20679,Assault,High,5,No,Rural,39471,199,0
+CASE_5502,UK,2023-06-21,Scotland,Glasgow Sheriff Court,Magistrates Court,22,Male,White British,Medium,52015,WhiteCollar,High,3,Yes,Urban,40060,147,0
+CASE_5503,UK,2022-08-07,Wales,Cardiff Crown Court,Crown Court,54,Male,Other,Medium,47475,WhiteCollar,Medium,1,No,Rural,5368,192,1
+CASE_5504,UK,2022-09-25,Scotland,Glasgow Sheriff Court,Magistrates Court,23,Male,White British,Medium,46188,Theft,Low,4,Yes,Urban,843,82,1
+CASE_5505,UK,2023-04-24,Wales,Cardiff Crown Court,Crown Court,41,Male,Asian British,Medium,38539,Assault,Medium,3,No,Rural,8784,158,1
+CASE_5506,UK,2023-04-05,England,Birmingham Magistrates' Court,Magistrates Court,50,Male,Asian British,High,289111,Assault,Low,2,Yes,Rural,2353,170,1
+CASE_5507,UK,2024-02-20,Wales,Cardiff Crown Court,Crown Court,63,Male,Asian British,Medium,21643,Assault,Low,5,No,Urban,613,218,1
+CASE_5508,UK,2023-10-31,England,Birmingham Magistrates' Court,Magistrates Court,42,Male,Asian British,High,151457,WhiteCollar,Medium,3,No,Rural,11995,148,0
+CASE_5509,UK,2022-09-03,Scotland,Glasgow Sheriff Court,Magistrates Court,67,Male,Asian British,Medium,33312,WhiteCollar,Low,1,No,Rural,1201,57,1
+CASE_5510,UK,2024-03-07,England,Birmingham Magistrates' Court,Magistrates Court,21,Female,Black British,Low,10793,WhiteCollar,Medium,1,Yes,Urban,4838,145,1
+CASE_5511,UK,2023-12-28,England,Westminster Magistrates' Court,Magistrates Court,47,Female,White British,Medium,50509,Assault,Low,1,No,Rural,2325,39,1
+CASE_5512,UK,2023-04-09,Scotland,Glasgow Sheriff Court,Magistrates Court,35,Male,Mixed,High,93061,Assault,High,3,No,Rural,20943,173,0
+CASE_5513,UK,2024-02-15,England,Westminster Magistrates' Court,Magistrates Court,34,Female,Other,Low,18058,Theft,Medium,0,No,Rural,7435,194,1
+CASE_5514,UK,2022-04-27,Wales,Cardiff Crown Court,Crown Court,49,Female,Black British,Medium,51439,Theft,Medium,1,Yes,Rural,4934,91,0
+CASE_5515,UK,2023-10-02,England,Westminster Magistrates' Court,Magistrates Court,39,Female,White British,Medium,38532,Assault,High,2,Yes,Urban,63193,111,0
+CASE_5516,UK,2024-02-13,England,Manchester Crown Court,Crown Court,55,Male,Black British,Low,9332,Assault,Medium,1,No,Urban,15768,207,0
+CASE_5517,UK,2023-03-16,England,Birmingham Magistrates' Court,Magistrates Court,34,Female,Black British,Medium,42994,Theft,High,1,No,Rural,64902,183,0
+CASE_5518,UK,2023-06-14,Scotland,Glasgow Sheriff Court,Magistrates Court,19,Male,Mixed,Low,11624,Assault,Low,1,Yes,Rural,1978,54,1
+CASE_5519,UK,2022-12-21,Wales,Cardiff Crown Court,Crown Court,32,Male,Other,Low,16277,Assault,High,2,No,Urban,65755,88,0
+CASE_5520,UK,2022-05-04,Scotland,Glasgow Sheriff Court,Magistrates Court,67,Male,Asian British,Medium,29598,WhiteCollar,Low,2,No,Rural,1134,166,1
+CASE_5521,UK,2022-09-19,Wales,Cardiff Crown Court,Crown Court,45,Male,Other,Low,12661,Assault,Low,2,Yes,Urban,1595,199,1
+CASE_5522,UK,2024-03-10,England,Birmingham Magistrates' Court,Magistrates Court,40,Female,Other,Medium,35146,Theft,Medium,3,No,Urban,5333,196,1
+CASE_5523,UK,2022-11-14,England,Birmingham Magistrates' Court,Magistrates Court,52,Female,Other,Medium,40861,Theft,Medium,5,Yes,Urban,10212,136,1
+CASE_5524,UK,2023-03-27,Wales,Cardiff Crown Court,Crown Court,34,Female,Other,Medium,26553,WhiteCollar,High,2,Yes,Urban,72678,33,0
+CASE_5525,UK,2023-05-08,Scotland,Glasgow Sheriff Court,Magistrates Court,27,Female,Asian British,High,164299,Theft,Medium,5,Yes,Urban,10806,137,0
+CASE_5526,UK,2023-08-15,Wales,Cardiff Crown Court,Crown Court,58,Female,White British,High,160700,Fraud,High,0,Yes,Rural,18122,46,1
+CASE_5527,UK,2022-01-27,England,Birmingham Magistrates' Court,Magistrates Court,47,Female,Black British,Low,8082,Assault,Medium,3,No,Rural,3386,199,0
+CASE_5528,UK,2023-05-01,Scotland,Glasgow Sheriff Court,Magistrates Court,44,Female,White British,High,87675,Fraud,Low,2,No,Rural,799,185,1
+CASE_5529,UK,2022-08-02,England,Westminster Magistrates' Court,Magistrates Court,61,Male,Asian British,Medium,21505,Theft,High,0,Yes,Rural,33907,191,1
+CASE_5530,UK,2022-03-15,England,Westminster Magistrates' Court,Magistrates Court,19,Female,Mixed,Medium,27540,Fraud,Medium,2,No,Rural,13103,87,0
+CASE_5531,UK,2023-11-14,Scotland,Glasgow Sheriff Court,Magistrates Court,31,Male,Asian British,Low,11382,Theft,Low,2,Yes,Urban,414,122,0
+CASE_5532,UK,2022-04-07,England,Manchester Crown Court,Crown Court,62,Male,Mixed,Low,10391,Fraud,Low,5,Yes,Urban,2412,148,0
+CASE_5533,UK,2022-08-14,England,Manchester Crown Court,Crown Court,64,Male,Asian British,High,75912,Theft,Low,4,No,Urban,2864,133,1
+CASE_5534,UK,2024-02-04,England,Westminster Magistrates' Court,Magistrates Court,53,Female,White British,Medium,27736,Theft,High,5,Yes,Urban,38533,2,0
+CASE_5535,UK,2023-09-12,England,Westminster Magistrates' Court,Magistrates Court,57,Male,Mixed,Low,12455,Assault,Low,4,Yes,Rural,637,108,0
+CASE_5536,UK,2022-10-29,England,Birmingham Magistrates' Court,Magistrates Court,53,Female,Mixed,Medium,35710,Theft,High,0,No,Rural,50725,115,0
+CASE_5537,UK,2023-06-14,Scotland,Glasgow Sheriff Court,Magistrates Court,65,Male,White British,Medium,51310,Theft,Medium,3,No,Urban,6501,159,1
+CASE_5538,UK,2022-10-03,Scotland,Glasgow Sheriff Court,Magistrates Court,51,Male,Asian British,Low,11370,WhiteCollar,Medium,5,Yes,Urban,8987,114,0
+CASE_5539,UK,2022-11-18,England,Manchester Crown Court,Crown Court,64,Female,Mixed,High,190843,WhiteCollar,Medium,4,Yes,Urban,13624,97,0
+CASE_5540,UK,2023-07-16,Scotland,Glasgow Sheriff Court,Magistrates Court,33,Male,Asian British,Medium,32187,Fraud,Medium,0,Yes,Rural,4472,61,1
+CASE_5541,UK,2023-03-25,England,Birmingham Magistrates' Court,Magistrates Court,55,Male,Asian British,High,108473,Assault,Medium,0,No,Rural,4588,153,1
+CASE_5542,UK,2023-09-03,England,Manchester Crown Court,Crown Court,35,Male,Black British,High,232953,Assault,Medium,0,No,Urban,10072,210,1
+CASE_5543,UK,2022-11-14,England,Manchester Crown Court,Crown Court,56,Male,Other,Medium,45049,WhiteCollar,Medium,0,No,Rural,13159,41,1
+CASE_5544,UK,2022-09-16,England,Birmingham Magistrates' Court,Magistrates Court,44,Male,Mixed,Medium,46539,WhiteCollar,Low,5,Yes,Urban,2473,149,0
+CASE_5545,UK,2022-01-21,England,Birmingham Magistrates' Court,Magistrates Court,27,Female,Asian British,Low,8649,Assault,Low,2,Yes,Urban,466,160,1
+CASE_5546,UK,2023-07-02,England,Birmingham Magistrates' Court,Magistrates Court,70,Female,White British,Low,17919,Assault,Low,3,Yes,Rural,1131,65,1
+CASE_5547,UK,2024-01-16,England,Westminster Magistrates' Court,Magistrates Court,67,Male,Mixed,Low,16338,WhiteCollar,High,2,No,Rural,67482,157,1
+CASE_5548,UK,2023-07-27,Wales,Cardiff Crown Court,Crown Court,26,Female,White British,Medium,38101,Fraud,Low,4,Yes,Rural,2141,153,1
+CASE_5549,UK,2022-03-12,England,Birmingham Magistrates' Court,Magistrates Court,25,Male,Asian British,High,99891,WhiteCollar,Low,2,No,Rural,401,132,1
+CASE_5550,UK,2023-04-15,Scotland,Glasgow Sheriff Court,Magistrates Court,40,Female,Other,High,66471,Fraud,Low,1,No,Urban,2040,48,1
+CASE_5551,UK,2023-04-28,England,Birmingham Magistrates' Court,Magistrates Court,69,Male,Asian British,Medium,44268,Fraud,High,5,No,Urban,73169,61,0
+CASE_5552,UK,2023-10-17,England,Westminster Magistrates' Court,Magistrates Court,39,Female,Asian British,High,88699,Theft,High,4,Yes,Urban,50515,109,0
+CASE_5553,UK,2023-01-13,Wales,Cardiff Crown Court,Crown Court,24,Male,Black British,Low,14550,Fraud,Low,2,Yes,Rural,2765,104,1
+CASE_5554,UK,2023-10-09,Wales,Cardiff Crown Court,Crown Court,26,Female,Asian British,High,157237,WhiteCollar,High,5,Yes,Urban,38245,153,0
+CASE_5555,UK,2023-02-01,England,Manchester Crown Court,Crown Court,67,Male,Black British,Medium,21794,WhiteCollar,Low,2,Yes,Rural,860,51,1
+CASE_5556,UK,2023-04-28,England,Manchester Crown Court,Crown Court,22,Male,White British,High,280797,Fraud,High,4,Yes,Urban,20189,75,0
+CASE_5557,UK,2024-02-01,Wales,Cardiff Crown Court,Crown Court,54,Male,Black British,Medium,44971,Fraud,Medium,2,Yes,Rural,14630,189,0
+CASE_5558,UK,2022-12-16,England,Manchester Crown Court,Crown Court,69,Female,Black British,High,112683,Assault,Low,5,No,Urban,2522,147,1
+CASE_5559,UK,2023-11-04,England,Manchester Crown Court,Crown Court,66,Female,White British,High,80171,Theft,High,3,Yes,Rural,20582,10,0
+CASE_5560,UK,2024-02-29,England,Manchester Crown Court,Crown Court,57,Female,White British,High,257588,Assault,High,0,No,Rural,42716,33,1
+CASE_5561,UK,2024-02-28,England,Manchester Crown Court,Crown Court,42,Male,White British,Medium,38759,WhiteCollar,High,4,Yes,Urban,37779,116,0
+CASE_5562,UK,2022-09-27,Wales,Cardiff Crown Court,Crown Court,36,Female,Asian British,High,282229,Fraud,Low,5,No,Urban,1651,111,1
+CASE_5563,UK,2023-10-14,England,Westminster Magistrates' Court,Magistrates Court,21,Female,Mixed,High,223355,WhiteCollar,Low,0,No,Urban,1299,83,1
+CASE_5564,UK,2022-07-07,England,Manchester Crown Court,Crown Court,70,Male,Mixed,High,64808,Fraud,Low,5,No,Rural,509,57,1
+CASE_5565,UK,2022-04-19,England,Westminster Magistrates' Court,Magistrates Court,58,Female,White British,Low,10613,Assault,Medium,5,No,Urban,3653,124,0
+CASE_5566,UK,2022-04-27,England,Manchester Crown Court,Crown Court,28,Male,White British,Low,15689,WhiteCollar,Low,0,No,Rural,314,83,1
+CASE_5567,UK,2022-06-03,England,Westminster Magistrates' Court,Magistrates Court,52,Male,Mixed,Medium,35511,Assault,Low,1,No,Rural,1297,108,1
+CASE_5568,UK,2022-01-16,Scotland,Glasgow Sheriff Court,Magistrates Court,60,Female,White British,Low,19596,WhiteCollar,Low,2,No,Urban,2125,69,0
+CASE_5569,UK,2023-01-13,Scotland,Glasgow Sheriff Court,Magistrates Court,56,Male,Mixed,Medium,47473,Fraud,Low,0,Yes,Rural,1833,155,1
+CASE_5570,UK,2023-03-05,England,Manchester Crown Court,Crown Court,39,Female,Mixed,Low,15569,Fraud,Low,2,Yes,Urban,1364,145,0
+CASE_5571,UK,2023-02-06,England,Manchester Crown Court,Crown Court,50,Male,Other,Medium,41302,Theft,High,5,Yes,Rural,63759,20,0
+CASE_5572,UK,2022-01-27,England,Birmingham Magistrates' Court,Magistrates Court,56,Female,Black British,Medium,52351,Fraud,High,3,Yes,Rural,23390,133,0
+CASE_5573,UK,2023-04-04,England,Birmingham Magistrates' Court,Magistrates Court,41,Female,Black British,High,230395,Fraud,Low,4,Yes,Urban,919,122,0
+CASE_5574,UK,2023-10-09,England,Manchester Crown Court,Crown Court,55,Male,Other,Medium,48134,Theft,Medium,5,Yes,Rural,13435,120,0
+CASE_5575,UK,2022-02-21,Scotland,Glasgow Sheriff Court,Magistrates Court,63,Male,Mixed,High,292590,WhiteCollar,High,1,No,Rural,68209,40,0
+CASE_5576,UK,2022-06-23,England,Westminster Magistrates' Court,Magistrates Court,61,Female,Mixed,Low,18135,Fraud,High,4,No,Rural,19245,114,0
+CASE_5577,UK,2022-10-25,England,Westminster Magistrates' Court,Magistrates Court,38,Male,Other,Medium,27099,Assault,Low,2,No,Urban,2009,67,1
+CASE_5578,UK,2023-04-05,England,Westminster Magistrates' Court,Magistrates Court,31,Male,Black British,High,74483,Assault,Low,0,No,Urban,925,194,1
+CASE_5579,UK,2023-04-09,England,Westminster Magistrates' Court,Magistrates Court,23,Female,Mixed,Medium,52678,Assault,High,0,No,Rural,74281,177,1
+CASE_5580,UK,2023-08-09,Scotland,Glasgow Sheriff Court,Magistrates Court,19,Female,Asian British,Medium,24603,Theft,Low,2,Yes,Urban,616,73,1
+CASE_5581,UK,2023-08-13,England,Manchester Crown Court,Crown Court,36,Female,Black British,Low,11656,Assault,Low,0,No,Rural,254,234,1
+CASE_5582,UK,2023-03-14,Scotland,Glasgow Sheriff Court,Magistrates Court,53,Female,Black British,Low,9852,WhiteCollar,High,2,Yes,Urban,72748,270,0
+CASE_5583,UK,2022-08-26,England,Manchester Crown Court,Crown Court,41,Male,Black British,Low,8898,Theft,Medium,1,Yes,Rural,9601,125,1
+CASE_5584,UK,2023-02-25,England,Manchester Crown Court,Crown Court,56,Female,Asian British,Medium,48809,WhiteCollar,Low,4,Yes,Rural,2349,167,1
+CASE_5585,UK,2023-02-16,Wales,Cardiff Crown Court,Crown Court,35,Male,Other,Low,15974,WhiteCollar,Low,5,Yes,Rural,1362,197,1
+CASE_5586,UK,2023-09-27,Wales,Cardiff Crown Court,Crown Court,35,Female,Black British,Low,12513,Theft,High,5,Yes,Urban,26481,151,0
+CASE_5587,UK,2022-12-18,England,Birmingham Magistrates' Court,Magistrates Court,51,Male,Other,Medium,35828,WhiteCollar,Low,5,Yes,Rural,2044,162,1
+CASE_5588,UK,2023-01-10,England,Birmingham Magistrates' Court,Magistrates Court,29,Female,Mixed,Low,9211,Fraud,Low,4,No,Rural,1946,189,1
+CASE_5589,UK,2022-01-25,England,Westminster Magistrates' Court,Magistrates Court,49,Female,Other,Low,17847,Assault,High,4,Yes,Rural,32928,47,0
+CASE_5590,UK,2022-12-19,England,Birmingham Magistrates' Court,Magistrates Court,57,Female,Black British,Low,11030,Fraud,Low,2,No,Rural,809,264,1
+CASE_5591,UK,2023-07-23,England,Manchester Crown Court,Crown Court,53,Male,Asian British,Low,19729,WhiteCollar,Low,3,No,Urban,831,118,1
+CASE_5592,UK,2022-05-12,Wales,Cardiff Crown Court,Crown Court,62,Female,White British,High,231773,Assault,Medium,5,No,Urban,13467,160,0
+CASE_5593,UK,2022-03-28,Scotland,Glasgow Sheriff Court,Magistrates Court,47,Male,White British,Low,17325,WhiteCollar,Low,1,No,Rural,2300,144,1
+CASE_5594,UK,2023-07-25,Scotland,Glasgow Sheriff Court,Magistrates Court,51,Female,Black British,Low,12589,Assault,Medium,5,No,Urban,11492,224,0
+CASE_5595,UK,2022-05-13,England,Manchester Crown Court,Crown Court,58,Female,Other,Low,8222,Assault,High,1,Yes,Urban,54056,164,1
+CASE_5596,UK,2023-08-21,England,Manchester Crown Court,Crown Court,25,Male,Black British,Low,8852,Assault,High,0,Yes,Rural,87183,190,0
+CASE_5597,UK,2024-02-23,England,Westminster Magistrates' Court,Magistrates Court,52,Female,Black British,Low,12271,Assault,Medium,4,No,Urban,5213,40,0
+CASE_5598,UK,2022-02-06,Wales,Cardiff Crown Court,Crown Court,31,Male,Mixed,Medium,41836,Theft,Medium,5,No,Urban,9408,55,0
+CASE_5599,UK,2022-08-22,England,Manchester Crown Court,Crown Court,22,Female,Mixed,Low,13140,Fraud,High,1,Yes,Urban,41874,105,1
+CASE_5600,UK,2023-03-29,England,Manchester Crown Court,Crown Court,23,Female,Asian British,Low,11398,WhiteCollar,Low,5,Yes,Urban,2680,212,1
+CASE_5601,UK,2023-10-18,Wales,Cardiff Crown Court,Crown Court,34,Female,Other,High,272761,Fraud,High,1,No,Urban,62741,60,0
+CASE_5602,UK,2023-04-26,England,Westminster Magistrates' Court,Magistrates Court,51,Female,Asian British,High,247875,WhiteCollar,Medium,4,No,Urban,13761,221,0
+CASE_5603,UK,2022-08-31,England,Birmingham Magistrates' Court,Magistrates Court,23,Male,Mixed,Medium,48168,Assault,Low,3,No,Rural,1739,85,1
+CASE_5604,UK,2023-08-16,England,Westminster Magistrates' Court,Magistrates Court,58,Female,White British,High,206088,Fraud,Low,5,No,Rural,580,112,1
+CASE_5605,UK,2023-03-06,England,Manchester Crown Court,Crown Court,37,Male,Other,Medium,33445,Fraud,Low,1,Yes,Urban,1142,138,1
+CASE_5606,UK,2022-01-18,England,Manchester Crown Court,Crown Court,41,Male,Other,Medium,52080,WhiteCollar,Low,4,No,Urban,2295,172,0
+CASE_5607,UK,2022-08-31,Scotland,Glasgow Sheriff Court,Magistrates Court,50,Female,White British,High,79826,Assault,Medium,5,No,Rural,9775,195,0
+CASE_5608,UK,2022-06-16,Wales,Cardiff Crown Court,Crown Court,34,Female,Mixed,High,266622,WhiteCollar,High,4,Yes,Rural,30893,70,0
+CASE_5609,UK,2022-12-14,Scotland,Glasgow Sheriff Court,Magistrates Court,57,Male,Mixed,Low,10046,Theft,High,3,Yes,Urban,61774,190,0
+CASE_5610,UK,2023-10-01,England,Birmingham Magistrates' Court,Magistrates Court,34,Female,Black British,Medium,52988,Theft,Medium,1,Yes,Rural,4559,28,0
+CASE_5611,UK,2023-12-27,Scotland,Glasgow Sheriff Court,Magistrates Court,51,Male,Asian British,Medium,48165,WhiteCollar,High,4,Yes,Urban,80949,83,0
+CASE_5612,UK,2023-04-20,Wales,Cardiff Crown Court,Crown Court,19,Male,Mixed,Medium,27131,Theft,Low,4,Yes,Urban,2269,12,1
+CASE_5613,UK,2022-10-24,England,Manchester Crown Court,Crown Court,39,Male,Black British,High,254536,Fraud,Low,2,No,Rural,971,88,1
+CASE_5614,UK,2022-05-01,England,Manchester Crown Court,Crown Court,34,Male,Asian British,High,242371,Fraud,High,1,Yes,Rural,52994,50,0
+CASE_5615,UK,2022-07-12,Wales,Cardiff Crown Court,Crown Court,58,Male,Other,Medium,43318,Assault,Medium,5,No,Rural,8286,147,0
+CASE_5616,UK,2023-12-16,Scotland,Glasgow Sheriff Court,Magistrates Court,55,Male,Mixed,High,72549,Theft,Low,2,No,Rural,1105,210,1
+CASE_5617,UK,2024-02-11,England,Westminster Magistrates' Court,Magistrates Court,40,Male,Black British,High,217481,Theft,High,3,Yes,Urban,42456,78,0
+CASE_5618,UK,2023-09-06,Wales,Cardiff Crown Court,Crown Court,42,Male,Mixed,Low,17415,Fraud,High,2,No,Rural,68528,177,0
+CASE_5619,UK,2022-09-04,England,Manchester Crown Court,Crown Court,52,Female,White British,Low,9788,WhiteCollar,Low,2,Yes,Urban,1424,95,1
+CASE_5620,UK,2023-12-03,England,Westminster Magistrates' Court,Magistrates Court,46,Male,Asian British,High,197193,Theft,Low,4,No,Rural,2240,124,0
+CASE_5621,UK,2022-11-29,Wales,Cardiff Crown Court,Crown Court,22,Male,Black British,Medium,33798,Assault,High,4,Yes,Rural,25360,195,0
+CASE_5622,UK,2022-01-16,England,Birmingham Magistrates' Court,Magistrates Court,27,Male,Other,Low,8416,Assault,High,2,No,Urban,63336,191,0
+CASE_5623,UK,2023-03-26,England,Birmingham Magistrates' Court,Magistrates Court,32,Female,Black British,High,184665,Assault,Medium,0,No,Urban,9275,84,1
+CASE_5624,UK,2023-12-28,Wales,Cardiff Crown Court,Crown Court,33,Female,Asian British,High,158098,WhiteCollar,Medium,4,Yes,Urban,15573,131,0
+CASE_5625,UK,2022-01-21,England,Birmingham Magistrates' Court,Magistrates Court,54,Female,Mixed,Low,17853,WhiteCollar,Medium,3,Yes,Rural,14962,43,1
+CASE_5626,UK,2022-05-21,England,Birmingham Magistrates' Court,Magistrates Court,47,Male,Asian British,Medium,28945,Assault,High,4,No,Urban,63607,170,0
+CASE_5627,UK,2022-08-29,Wales,Cardiff Crown Court,Crown Court,24,Female,Asian British,High,172812,Assault,High,0,Yes,Rural,82254,158,1
+CASE_5628,UK,2022-07-24,England,Birmingham Magistrates' Court,Magistrates Court,52,Female,Other,High,155365,Fraud,High,4,No,Rural,25583,59,0
+CASE_5629,UK,2023-02-24,England,Manchester Crown Court,Crown Court,41,Male,Asian British,Medium,44727,WhiteCollar,Low,4,No,Rural,637,120,0
+CASE_5630,UK,2023-10-30,England,Birmingham Magistrates' Court,Magistrates Court,37,Male,Asian British,High,181207,Fraud,High,1,No,Rural,80623,207,0
+CASE_5631,UK,2023-03-09,England,Westminster Magistrates' Court,Magistrates Court,24,Male,Mixed,Medium,48969,Theft,Low,1,Yes,Urban,1602,122,1
+CASE_5632,UK,2024-01-13,Wales,Cardiff Crown Court,Crown Court,20,Female,Asian British,High,141276,Theft,Medium,2,No,Rural,12392,123,1
+CASE_5633,UK,2023-02-25,Wales,Cardiff Crown Court,Crown Court,66,Male,Asian British,High,144770,Assault,Low,3,Yes,Rural,2610,68,1
+CASE_5634,UK,2022-07-29,Scotland,Glasgow Sheriff Court,Magistrates Court,45,Female,Mixed,High,289336,Assault,Low,5,Yes,Rural,1348,57,1
+CASE_5635,UK,2023-05-16,England,Manchester Crown Court,Crown Court,48,Female,Other,High,102437,Fraud,Low,4,No,Urban,564,159,1
+CASE_5636,UK,2022-11-25,Wales,Cardiff Crown Court,Crown Court,40,Male,White British,Low,13163,Assault,Medium,4,Yes,Rural,7295,116,0
+CASE_5637,UK,2022-04-14,England,Birmingham Magistrates' Court,Magistrates Court,30,Female,Other,High,117713,Fraud,Medium,4,Yes,Urban,10522,111,0
+CASE_5638,UK,2022-04-12,England,Manchester Crown Court,Crown Court,58,Male,Other,Low,13986,Fraud,Low,2,Yes,Rural,1307,143,1
+CASE_5639,UK,2023-07-03,England,Manchester Crown Court,Crown Court,37,Female,White British,High,146804,Fraud,Low,5,Yes,Urban,1386,5,1
+CASE_5640,UK,2022-12-31,Scotland,Glasgow Sheriff Court,Magistrates Court,60,Male,Asian British,Low,13777,Assault,Low,3,Yes,Urban,471,113,1
+CASE_5641,UK,2023-11-11,Wales,Cardiff Crown Court,Crown Court,46,Female,Asian British,Low,12683,WhiteCollar,Low,5,Yes,Urban,1259,244,0
+CASE_5642,UK,2022-07-05,England,Westminster Magistrates' Court,Magistrates Court,41,Female,Black British,High,299997,Theft,Medium,5,Yes,Urban,14559,37,0
+CASE_5643,UK,2022-01-17,England,Birmingham Magistrates' Court,Magistrates Court,21,Male,Black British,Medium,50873,Theft,Medium,1,Yes,Urban,9064,115,1
+CASE_5644,UK,2024-01-27,Scotland,Glasgow Sheriff Court,Magistrates Court,23,Female,White British,Medium,47629,Assault,Low,3,Yes,Urban,2401,58,1
+CASE_5645,UK,2022-03-11,Wales,Cardiff Crown Court,Crown Court,33,Male,White British,Medium,24808,Theft,High,4,No,Rural,56717,173,0
+CASE_5646,UK,2023-10-25,Wales,Cardiff Crown Court,Crown Court,18,Female,Asian British,Medium,53888,Assault,Medium,5,Yes,Rural,7629,126,1
+CASE_5647,UK,2022-07-28,England,Manchester Crown Court,Crown Court,30,Male,Mixed,Medium,23713,Assault,Medium,4,No,Rural,13501,60,0
+CASE_5648,UK,2024-01-15,Wales,Cardiff Crown Court,Crown Court,69,Female,Asian British,Low,12277,Fraud,Medium,1,Yes,Rural,14283,133,1
+CASE_5649,UK,2022-10-12,England,Westminster Magistrates' Court,Magistrates Court,25,Male,Mixed,Medium,47830,WhiteCollar,Medium,0,No,Urban,12816,21,1
+CASE_5650,UK,2022-12-20,England,Manchester Crown Court,Crown Court,31,Female,Mixed,Medium,34402,Theft,High,3,Yes,Rural,22644,74,0
+CASE_5651,UK,2024-01-11,England,Manchester Crown Court,Crown Court,31,Male,Black British,High,249874,Theft,Low,5,Yes,Rural,1395,172,1
+CASE_5652,UK,2022-06-13,England,Westminster Magistrates' Court,Magistrates Court,68,Female,Other,High,259296,Theft,Medium,1,No,Rural,14097,61,1
+CASE_5653,UK,2024-01-05,England,Birmingham Magistrates' Court,Magistrates Court,21,Female,White British,High,118535,WhiteCollar,Medium,0,Yes,Urban,7045,179,1
+CASE_5654,UK,2023-06-26,England,Birmingham Magistrates' Court,Magistrates Court,28,Male,Mixed,Medium,38142,Assault,High,1,No,Rural,45884,42,0
+CASE_5655,UK,2023-08-31,Wales,Cardiff Crown Court,Crown Court,58,Male,Other,High,292024,Assault,High,3,Yes,Rural,73672,22,1
+CASE_5656,UK,2024-01-24,England,Westminster Magistrates' Court,Magistrates Court,70,Female,White British,High,212747,WhiteCollar,Medium,2,No,Rural,10498,148,0
+CASE_5657,UK,2022-01-04,England,Westminster Magistrates' Court,Magistrates Court,31,Female,Other,Low,12809,WhiteCollar,Medium,1,Yes,Urban,8389,175,0
+CASE_5658,UK,2022-05-16,Scotland,Glasgow Sheriff Court,Magistrates Court,60,Male,Asian British,Low,9488,Assault,Medium,3,No,Urban,14662,265,0
+CASE_5659,UK,2024-01-08,England,Westminster Magistrates' Court,Magistrates Court,70,Female,White British,Low,17561,Fraud,Low,4,Yes,Rural,1747,194,1
+CASE_5660,UK,2023-10-12,Scotland,Glasgow Sheriff Court,Magistrates Court,21,Female,White British,Medium,41785,WhiteCollar,High,2,Yes,Rural,69391,48,1
+CASE_5661,UK,2022-06-04,Wales,Cardiff Crown Court,Crown Court,58,Female,White British,High,135589,Assault,Low,4,No,Urban,1651,49,0
+CASE_5662,UK,2023-10-08,England,Birmingham Magistrates' Court,Magistrates Court,22,Male,Other,Medium,35213,Assault,Medium,2,No,Urban,13490,79,1
+CASE_5663,UK,2023-05-15,England,Manchester Crown Court,Crown Court,53,Male,Other,Low,15136,Assault,Medium,3,No,Urban,6803,102,1
+CASE_5664,UK,2022-04-01,Scotland,Glasgow Sheriff Court,Magistrates Court,70,Female,White British,High,164485,Theft,Low,0,Yes,Urban,865,14,1
+CASE_5665,UK,2023-09-06,Wales,Cardiff Crown Court,Crown Court,49,Female,Black British,Medium,28892,Fraud,Low,4,Yes,Rural,371,108,0
+CASE_5666,UK,2023-01-19,Scotland,Glasgow Sheriff Court,Magistrates Court,46,Female,Mixed,Medium,32144,WhiteCollar,High,5,No,Rural,45414,90,0
+CASE_5667,UK,2022-05-14,Scotland,Glasgow Sheriff Court,Magistrates Court,59,Male,Asian British,Low,16578,Theft,Medium,3,No,Rural,6120,42,1
+CASE_5668,UK,2022-09-26,Scotland,Glasgow Sheriff Court,Magistrates Court,25,Male,White British,High,135365,Theft,Low,1,Yes,Rural,1397,74,1
+CASE_5669,UK,2022-09-26,Wales,Cardiff Crown Court,Crown Court,53,Female,Asian British,Low,16197,Assault,Medium,3,No,Rural,4381,225,0
+CASE_5670,UK,2022-08-14,England,Westminster Magistrates' Court,Magistrates Court,50,Female,Asian British,Medium,24912,WhiteCollar,Medium,5,No,Urban,13436,74,1
+CASE_5671,UK,2022-10-09,England,Birmingham Magistrates' Court,Magistrates Court,65,Female,Black British,Medium,27019,Assault,Medium,3,Yes,Urban,7366,111,1
+CASE_5672,UK,2023-06-11,Scotland,Glasgow Sheriff Court,Magistrates Court,18,Female,Asian British,High,126535,Fraud,Medium,3,No,Urban,12737,58,1
+CASE_5673,UK,2024-02-12,England,Westminster Magistrates' Court,Magistrates Court,19,Male,White British,Medium,40743,Assault,Medium,5,Yes,Urban,4495,109,0
+CASE_5674,UK,2022-03-13,England,Birmingham Magistrates' Court,Magistrates Court,60,Male,White British,Low,13810,WhiteCollar,Low,4,No,Rural,2104,129,1
+CASE_5675,UK,2022-01-14,England,Manchester Crown Court,Crown Court,41,Male,Black British,High,93066,Fraud,High,1,Yes,Urban,66981,98,0
+CASE_5676,UK,2022-11-18,Scotland,Glasgow Sheriff Court,Magistrates Court,66,Male,White British,Medium,40518,Theft,Low,1,No,Rural,1159,103,1
+CASE_5677,UK,2024-01-11,England,Birmingham Magistrates' Court,Magistrates Court,57,Female,Black British,High,87680,Theft,Medium,5,Yes,Urban,18019,132,0
+CASE_5678,UK,2023-04-10,England,Manchester Crown Court,Crown Court,24,Female,White British,Low,16476,Assault,Low,1,Yes,Urban,1663,227,1
+CASE_5679,UK,2023-03-14,England,Westminster Magistrates' Court,Magistrates Court,53,Male,Asian British,Medium,47899,Theft,Low,3,No,Urban,2726,82,1
+CASE_5680,UK,2022-03-16,Wales,Cardiff Crown Court,Crown Court,58,Male,Mixed,High,126421,Theft,High,5,Yes,Rural,41562,91,0
+CASE_5681,UK,2022-01-26,Scotland,Glasgow Sheriff Court,Magistrates Court,43,Male,White British,Low,12609,Fraud,Low,0,No,Urban,577,204,1
+CASE_5682,UK,2022-06-23,England,Manchester Crown Court,Crown Court,43,Male,White British,High,148583,Theft,Low,2,Yes,Rural,1484,146,1
+CASE_5683,UK,2022-11-03,England,Westminster Magistrates' Court,Magistrates Court,56,Male,Black British,Medium,41619,Fraud,Low,4,Yes,Rural,1402,71,1
+CASE_5684,UK,2023-03-21,England,Westminster Magistrates' Court,Magistrates Court,35,Male,Black British,Low,14185,WhiteCollar,Medium,2,Yes,Urban,8136,171,0
+CASE_5685,UK,2023-05-11,England,Manchester Crown Court,Crown Court,59,Male,Asian British,Medium,44799,WhiteCollar,Medium,4,No,Urban,16282,214,0
+CASE_5686,UK,2023-08-08,England,Westminster Magistrates' Court,Magistrates Court,29,Male,White British,High,201967,Theft,Medium,2,No,Urban,7607,50,1
+CASE_5687,UK,2023-11-16,England,Manchester Crown Court,Crown Court,68,Male,Asian British,High,202531,Theft,Medium,2,No,Urban,6309,178,1
+CASE_5688,UK,2023-02-02,Scotland,Glasgow Sheriff Court,Magistrates Court,60,Male,Asian British,High,166948,Theft,Medium,3,Yes,Rural,7924,107,1
+CASE_5689,UK,2022-07-21,Wales,Cardiff Crown Court,Crown Court,44,Female,Other,Medium,28723,Assault,Medium,5,Yes,Rural,10194,126,0
+CASE_5690,UK,2023-03-17,England,Manchester Crown Court,Crown Court,51,Female,Mixed,High,291478,Fraud,Low,0,No,Rural,1434,199,1
+CASE_5691,UK,2024-02-15,England,Westminster Magistrates' Court,Magistrates Court,26,Male,Other,High,292767,Assault,High,5,No,Rural,15107,119,0
+CASE_5692,UK,2023-04-28,England,Birmingham Magistrates' Court,Magistrates Court,50,Female,Other,High,227490,Theft,Low,0,No,Rural,1036,92,1
+CASE_5693,UK,2023-03-26,England,Birmingham Magistrates' Court,Magistrates Court,60,Male,Mixed,High,178988,Theft,Medium,2,Yes,Urban,13781,49,1
+CASE_5694,UK,2022-03-25,England,Birmingham Magistrates' Court,Magistrates Court,33,Female,Other,Low,16127,Assault,Low,1,No,Rural,1332,163,1
+CASE_5695,UK,2023-10-06,Scotland,Glasgow Sheriff Court,Magistrates Court,64,Female,Mixed,High,294769,WhiteCollar,Low,3,Yes,Urban,438,42,1
+CASE_5696,UK,2022-04-27,England,Manchester Crown Court,Crown Court,46,Male,Mixed,Medium,36924,WhiteCollar,Medium,5,Yes,Urban,13713,174,0
+CASE_5697,UK,2023-12-26,Scotland,Glasgow Sheriff Court,Magistrates Court,24,Female,White British,High,125410,Assault,High,5,No,Rural,48156,162,0
+CASE_5698,UK,2022-03-06,England,Westminster Magistrates' Court,Magistrates Court,57,Male,Black British,High,163705,WhiteCollar,Medium,0,Yes,Urban,15612,88,1
+CASE_5699,UK,2022-05-06,England,Westminster Magistrates' Court,Magistrates Court,55,Male,Other,High,266926,Assault,Low,0,Yes,Urban,567,84,1
+CASE_5700,UK,2024-02-24,England,Westminster Magistrates' Court,Magistrates Court,32,Female,Mixed,Medium,31949,Theft,Low,2,Yes,Rural,2033,144,1
+CASE_5701,UK,2022-03-30,England,Birmingham Magistrates' Court,Magistrates Court,19,Female,Black British,Low,16899,WhiteCollar,Low,4,No,Rural,508,186,1
+CASE_5702,UK,2022-04-12,England,Westminster Magistrates' Court,Magistrates Court,23,Female,Black British,High,275392,Fraud,Medium,5,Yes,Urban,14094,113,1
+CASE_5703,UK,2024-01-20,Wales,Cardiff Crown Court,Crown Court,20,Female,White British,Low,13691,Theft,Medium,4,Yes,Urban,12023,200,0
+CASE_5704,UK,2023-12-20,England,Manchester Crown Court,Crown Court,58,Male,Other,Medium,32720,WhiteCollar,High,1,No,Rural,63535,154,0
+CASE_5705,UK,2023-01-19,Wales,Cardiff Crown Court,Crown Court,29,Male,Black British,Low,18001,Fraud,Low,5,No,Rural,866,149,0
+CASE_5706,UK,2022-02-22,England,Birmingham Magistrates' Court,Magistrates Court,19,Female,Asian British,High,286426,WhiteCollar,High,0,Yes,Rural,57562,180,1
+CASE_5707,UK,2023-01-21,Wales,Cardiff Crown Court,Crown Court,69,Male,Asian British,Low,9759,Assault,High,5,No,Rural,60292,190,0
+CASE_5708,UK,2023-01-12,England,Westminster Magistrates' Court,Magistrates Court,56,Female,Mixed,High,182413,WhiteCollar,High,1,Yes,Urban,45285,44,0
+CASE_5709,UK,2022-11-21,England,Birmingham Magistrates' Court,Magistrates Court,46,Female,White British,Low,15307,Assault,High,0,No,Urban,57223,97,0
+CASE_5710,UK,2023-12-04,England,Manchester Crown Court,Crown Court,55,Male,Asian British,Medium,34260,Fraud,High,2,Yes,Rural,82287,158,0
+CASE_5711,UK,2022-01-07,England,Manchester Crown Court,Crown Court,20,Female,White British,Low,8878,Fraud,Medium,4,No,Urban,13150,200,0
+CASE_5712,UK,2023-02-16,England,Birmingham Magistrates' Court,Magistrates Court,31,Female,White British,High,61242,Theft,High,3,Yes,Urban,26673,126,0
+CASE_5713,UK,2022-12-31,England,Westminster Magistrates' Court,Magistrates Court,41,Female,White British,Low,9647,Fraud,Medium,2,Yes,Urban,12397,135,0
+CASE_5714,UK,2023-04-16,England,Manchester Crown Court,Crown Court,62,Male,Other,Medium,47555,Assault,Medium,3,Yes,Urban,3242,114,1
+CASE_5715,UK,2022-04-10,England,Birmingham Magistrates' Court,Magistrates Court,44,Female,Black British,Low,9755,Assault,Medium,0,Yes,Rural,6120,85,1
+CASE_5716,UK,2023-08-20,Scotland,Glasgow Sheriff Court,Magistrates Court,60,Male,Black British,Low,19713,Fraud,Low,4,No,Rural,1455,140,1
+CASE_5717,UK,2022-03-19,England,Manchester Crown Court,Crown Court,31,Male,Other,Low,17891,Fraud,Medium,4,No,Rural,8648,161,1
+CASE_5718,UK,2022-12-25,England,Manchester Crown Court,Crown Court,65,Female,Other,Medium,25723,Assault,Medium,2,No,Rural,5084,47,0
+CASE_5719,UK,2023-12-06,Wales,Cardiff Crown Court,Crown Court,39,Female,Mixed,Low,11828,Assault,High,0,Yes,Urban,19933,196,1
+CASE_5720,UK,2023-11-17,Scotland,Glasgow Sheriff Court,Magistrates Court,60,Male,Black British,High,291708,Fraud,High,2,Yes,Urban,18900,68,0
+CASE_5721,UK,2023-07-03,England,Manchester Crown Court,Crown Court,30,Female,Asian British,Medium,27991,Assault,High,0,Yes,Urban,41344,64,1
+CASE_5722,UK,2023-05-04,England,Westminster Magistrates' Court,Magistrates Court,19,Female,White British,Low,12685,Theft,Low,3,No,Urban,1770,234,0
+CASE_5723,UK,2023-03-05,England,Birmingham Magistrates' Court,Magistrates Court,27,Female,Asian British,Low,17515,Fraud,Low,2,No,Rural,2873,185,1
+CASE_5724,UK,2023-11-26,England,Birmingham Magistrates' Court,Magistrates Court,35,Male,White British,Medium,31903,Theft,High,1,No,Rural,23562,58,1
+CASE_5725,UK,2023-02-06,Scotland,Glasgow Sheriff Court,Magistrates Court,28,Male,Black British,Low,8703,Fraud,Low,5,No,Rural,671,184,0
+CASE_5726,UK,2022-01-14,Wales,Cardiff Crown Court,Crown Court,49,Male,Mixed,High,191908,WhiteCollar,Medium,3,Yes,Rural,8535,156,1
+CASE_5727,UK,2024-03-05,England,Manchester Crown Court,Crown Court,52,Male,White British,Medium,53484,Fraud,High,3,No,Urban,66959,193,0
+CASE_5728,UK,2023-06-15,England,Westminster Magistrates' Court,Magistrates Court,24,Male,Black British,High,83906,Theft,Low,5,Yes,Urban,2940,119,1
+CASE_5729,UK,2023-06-18,Scotland,Glasgow Sheriff Court,Magistrates Court,43,Male,Mixed,High,248015,WhiteCollar,Low,2,No,Rural,2415,173,1
+CASE_5730,UK,2022-02-19,Wales,Cardiff Crown Court,Crown Court,18,Female,Other,High,222357,WhiteCollar,Low,0,No,Urban,1871,127,1
+CASE_5731,UK,2023-04-28,Scotland,Glasgow Sheriff Court,Magistrates Court,56,Female,Asian British,Low,12597,Theft,Low,1,Yes,Urban,460,220,1
+CASE_5732,UK,2023-05-04,Wales,Cardiff Crown Court,Crown Court,39,Male,Other,Medium,50900,Assault,Medium,5,Yes,Rural,12145,79,1
+CASE_5733,UK,2023-06-06,Scotland,Glasgow Sheriff Court,Magistrates Court,67,Male,Other,High,88573,Assault,High,1,Yes,Urban,65381,138,0
+CASE_5734,UK,2022-10-18,England,Birmingham Magistrates' Court,Magistrates Court,56,Male,White British,Low,9295,Theft,High,4,No,Urban,20695,127,0
+CASE_5735,UK,2023-05-06,Wales,Cardiff Crown Court,Crown Court,51,Female,Other,Low,9242,Fraud,High,0,No,Rural,33386,193,1
+CASE_5736,UK,2023-09-09,Scotland,Glasgow Sheriff Court,Magistrates Court,47,Male,Asian British,Low,14336,Theft,Medium,0,No,Rural,9822,141,1
+CASE_5737,UK,2022-01-22,Wales,Cardiff Crown Court,Crown Court,39,Female,White British,Low,9467,Theft,Low,3,Yes,Urban,2435,74,1
+CASE_5738,UK,2023-12-08,Scotland,Glasgow Sheriff Court,Magistrates Court,52,Female,White British,Low,18134,Theft,Medium,1,No,Urban,2713,194,1
+CASE_5739,UK,2023-07-27,England,Westminster Magistrates' Court,Magistrates Court,50,Female,Mixed,High,169039,Theft,High,0,No,Rural,23400,47,0
+CASE_5740,UK,2022-10-05,Wales,Cardiff Crown Court,Crown Court,58,Male,Mixed,Low,16781,Theft,High,3,No,Urban,49766,212,0
+CASE_5741,UK,2022-01-16,England,Birmingham Magistrates' Court,Magistrates Court,52,Female,Asian British,High,210139,Fraud,Medium,1,Yes,Rural,18032,107,1
+CASE_5742,UK,2023-07-26,Wales,Cardiff Crown Court,Crown Court,44,Female,Asian British,Medium,29117,Assault,Low,2,No,Urban,972,110,1
+CASE_5743,UK,2023-06-24,Scotland,Glasgow Sheriff Court,Magistrates Court,66,Male,Mixed,High,287032,Fraud,Low,5,No,Urban,2220,58,1
+CASE_5744,UK,2022-01-24,Wales,Cardiff Crown Court,Crown Court,65,Female,White British,Low,14664,Theft,High,4,No,Urban,26120,182,0
+CASE_5745,UK,2022-06-15,England,Birmingham Magistrates' Court,Magistrates Court,24,Male,Asian British,High,293535,WhiteCollar,Medium,0,Yes,Urban,14363,95,1
+CASE_5746,UK,2023-01-05,England,Manchester Crown Court,Crown Court,53,Female,Asian British,High,289549,WhiteCollar,Low,2,No,Rural,2191,206,1
+CASE_5747,UK,2023-04-19,England,Westminster Magistrates' Court,Magistrates Court,26,Female,Mixed,Low,11942,Fraud,High,2,No,Urban,39671,149,0
+CASE_5748,UK,2022-01-25,Wales,Cardiff Crown Court,Crown Court,57,Male,White British,Medium,36825,Fraud,Medium,4,No,Urban,10630,196,0
+CASE_5749,UK,2022-12-15,Wales,Cardiff Crown Court,Crown Court,34,Female,Black British,Medium,45713,Fraud,High,0,No,Urban,56523,211,1
+CASE_5750,UK,2023-09-17,England,Westminster Magistrates' Court,Magistrates Court,51,Female,Asian British,Low,12116,Assault,Low,4,No,Urban,2134,158,1
+CASE_5751,UK,2023-07-21,Wales,Cardiff Crown Court,Crown Court,63,Female,Asian British,Medium,43831,Assault,Medium,3,Yes,Urban,7618,191,1
+CASE_5752,UK,2022-01-23,England,Manchester Crown Court,Crown Court,35,Female,Mixed,Low,14998,Fraud,Medium,0,No,Urban,7493,247,1
+CASE_5753,UK,2022-12-19,Wales,Cardiff Crown Court,Crown Court,53,Male,Other,Low,11669,Assault,High,2,No,Rural,60536,191,1
+CASE_5754,UK,2022-09-01,England,Westminster Magistrates' Court,Magistrates Court,40,Female,Mixed,Medium,21370,Assault,High,1,Yes,Urban,73289,153,0
+CASE_5755,UK,2023-12-20,England,Birmingham Magistrates' Court,Magistrates Court,44,Female,Mixed,High,136096,WhiteCollar,High,4,Yes,Rural,52352,142,0
+CASE_5756,UK,2023-06-07,Scotland,Glasgow Sheriff Court,Magistrates Court,43,Male,Mixed,High,173102,Assault,Medium,0,No,Urban,14923,72,0
+CASE_5757,UK,2022-09-11,Scotland,Glasgow Sheriff Court,Magistrates Court,48,Male,White British,High,205853,WhiteCollar,Low,1,No,Rural,1136,113,1
+CASE_5758,UK,2022-10-18,England,Birmingham Magistrates' Court,Magistrates Court,34,Male,Asian British,Low,10538,Theft,Medium,4,No,Rural,14367,197,0
+CASE_5759,UK,2023-05-12,Scotland,Glasgow Sheriff Court,Magistrates Court,54,Male,Asian British,Low,8939,WhiteCollar,Low,0,No,Rural,2061,250,1
+CASE_5760,UK,2023-09-15,England,Westminster Magistrates' Court,Magistrates Court,45,Male,White British,Low,10016,WhiteCollar,Low,3,Yes,Urban,612,73,1
+CASE_5761,UK,2022-08-31,England,Manchester Crown Court,Crown Court,36,Female,Mixed,High,195047,Fraud,Medium,3,No,Rural,11418,180,0
+CASE_5762,UK,2023-09-23,England,Westminster Magistrates' Court,Magistrates Court,50,Female,White British,Low,16406,Assault,Low,3,Yes,Urban,1370,224,0
+CASE_5763,UK,2023-03-15,Scotland,Glasgow Sheriff Court,Magistrates Court,33,Female,Other,High,267255,WhiteCollar,High,4,No,Urban,35129,48,0
+CASE_5764,UK,2023-10-04,Scotland,Glasgow Sheriff Court,Magistrates Court,61,Male,White British,Medium,39163,WhiteCollar,High,3,Yes,Urban,66407,12,0
+CASE_5765,UK,2023-05-28,Scotland,Glasgow Sheriff Court,Magistrates Court,51,Male,White British,High,216238,Fraud,High,1,No,Rural,57206,129,0
+CASE_5766,UK,2023-04-19,England,Westminster Magistrates' Court,Magistrates Court,33,Female,White British,Low,12524,WhiteCollar,High,2,Yes,Rural,68437,184,0
+CASE_5767,UK,2023-06-26,Wales,Cardiff Crown Court,Crown Court,41,Female,White British,High,298373,Assault,High,5,Yes,Urban,40135,65,0
+CASE_5768,UK,2022-07-16,England,Birmingham Magistrates' Court,Magistrates Court,33,Male,Asian British,Medium,21659,Assault,Medium,2,No,Rural,10955,199,1
+CASE_5769,UK,2023-05-01,England,Birmingham Magistrates' Court,Magistrates Court,67,Male,White British,Medium,51480,WhiteCollar,High,4,Yes,Urban,50275,99,0
+CASE_5770,UK,2022-08-04,England,Manchester Crown Court,Crown Court,33,Female,White British,Low,13176,Fraud,Medium,4,No,Urban,5920,225,0
+CASE_5771,UK,2022-03-28,England,Westminster Magistrates' Court,Magistrates Court,38,Male,Asian British,High,136569,Theft,Medium,5,No,Rural,4234,64,0
+CASE_5772,UK,2023-03-28,England,Birmingham Magistrates' Court,Magistrates Court,37,Male,Asian British,Medium,42346,Fraud,Medium,3,No,Rural,13007,186,0
+CASE_5773,UK,2022-02-09,Wales,Cardiff Crown Court,Crown Court,44,Male,Black British,Low,11339,Assault,High,0,No,Urban,77945,96,1
+CASE_5774,UK,2022-10-02,Scotland,Glasgow Sheriff Court,Magistrates Court,69,Male,Black British,High,86587,Theft,High,5,No,Urban,25456,141,0
+CASE_5775,UK,2023-04-02,England,Westminster Magistrates' Court,Magistrates Court,59,Male,White British,High,249643,Assault,High,3,Yes,Urban,46073,172,0
+CASE_5776,UK,2023-07-31,England,Birmingham Magistrates' Court,Magistrates Court,46,Female,Asian British,High,189797,Theft,Medium,4,No,Rural,8927,124,0
+CASE_5777,UK,2022-09-07,Wales,Cardiff Crown Court,Crown Court,58,Female,Other,High,82989,Theft,High,5,Yes,Urban,60410,123,0
+CASE_5778,UK,2022-06-18,England,Birmingham Magistrates' Court,Magistrates Court,46,Male,Black British,High,274918,Fraud,Low,2,No,Urban,1158,134,1
+CASE_5779,UK,2024-01-23,England,Manchester Crown Court,Crown Court,67,Female,White British,Low,19412,Fraud,Medium,4,No,Urban,3792,299,0
+CASE_5780,UK,2023-01-08,Scotland,Glasgow Sheriff Court,Magistrates Court,32,Male,White British,Medium,54167,Assault,Low,1,Yes,Urban,769,74,1
+CASE_5781,UK,2022-02-20,Scotland,Glasgow Sheriff Court,Magistrates Court,60,Male,White British,Low,12479,Fraud,Medium,1,Yes,Urban,11218,170,0
+CASE_5782,UK,2023-01-04,England,Manchester Crown Court,Crown Court,67,Male,Other,High,183632,Assault,Medium,2,Yes,Urban,8463,3,1
+CASE_5783,UK,2022-09-19,England,Manchester Crown Court,Crown Court,40,Female,Mixed,Low,8113,WhiteCollar,Medium,5,Yes,Rural,11117,239,1
+CASE_5784,UK,2022-08-01,Wales,Cardiff Crown Court,Crown Court,48,Male,Black British,High,250605,Fraud,High,5,Yes,Rural,19287,118,0
+CASE_5785,UK,2023-12-04,England,Birmingham Magistrates' Court,Magistrates Court,67,Female,White British,Low,8483,Theft,Medium,4,Yes,Urban,3747,212,0
+CASE_5786,UK,2022-08-16,England,Westminster Magistrates' Court,Magistrates Court,21,Male,Black British,Medium,30820,Fraud,Medium,0,No,Urban,13836,137,1
+CASE_5787,UK,2022-11-01,England,Westminster Magistrates' Court,Magistrates Court,56,Male,Mixed,High,99525,Fraud,Low,1,Yes,Urban,1011,123,1
+CASE_5788,UK,2022-10-22,Scotland,Glasgow Sheriff Court,Magistrates Court,46,Male,Mixed,High,177155,Fraud,Medium,2,Yes,Urban,9873,152,1
+CASE_5789,UK,2023-11-08,England,Birmingham Magistrates' Court,Magistrates Court,31,Female,Mixed,High,191183,WhiteCollar,Low,4,Yes,Rural,930,43,1
+CASE_5790,UK,2022-03-22,Wales,Cardiff Crown Court,Crown Court,19,Female,Asian British,Medium,41325,Fraud,High,1,No,Urban,55388,171,0
+CASE_5791,UK,2022-03-24,England,Westminster Magistrates' Court,Magistrates Court,47,Male,White British,Medium,34649,Assault,High,1,Yes,Rural,61174,165,0
+CASE_5792,UK,2023-06-04,England,Birmingham Magistrates' Court,Magistrates Court,32,Female,Black British,High,211000,Fraud,High,4,No,Rural,38578,106,0
+CASE_5793,UK,2022-02-03,England,Birmingham Magistrates' Court,Magistrates Court,28,Male,Asian British,Medium,29300,Theft,Low,4,Yes,Urban,1476,89,0
+CASE_5794,UK,2023-06-25,England,Westminster Magistrates' Court,Magistrates Court,52,Female,Black British,High,153396,Assault,High,1,Yes,Rural,84859,102,0
+CASE_5795,UK,2023-11-11,England,Birmingham Magistrates' Court,Magistrates Court,60,Male,Other,Low,10316,Fraud,High,4,No,Urban,69369,235,0
+CASE_5796,UK,2023-01-04,Scotland,Glasgow Sheriff Court,Magistrates Court,64,Female,Mixed,Low,11109,Theft,High,1,Yes,Urban,60654,97,1
+CASE_5797,UK,2024-02-04,Wales,Cardiff Crown Court,Crown Court,58,Female,Other,High,251632,Fraud,Low,3,No,Urban,1403,51,1
+CASE_5798,UK,2022-05-05,England,Birmingham Magistrates' Court,Magistrates Court,25,Male,Mixed,High,239154,Fraud,Low,0,Yes,Urban,2466,169,1
+CASE_5799,UK,2022-03-02,England,Manchester Crown Court,Crown Court,33,Female,Black British,Medium,30757,WhiteCollar,High,0,Yes,Urban,32114,14,0
+CASE_5800,UK,2024-02-04,Scotland,Glasgow Sheriff Court,Magistrates Court,45,Male,White British,Medium,24229,Assault,High,2,Yes,Rural,49726,147,0
+CASE_5801,UK,2022-09-11,England,Manchester Crown Court,Crown Court,37,Male,Asian British,High,125909,Fraud,Low,2,No,Urban,2652,116,1
+CASE_5802,UK,2023-02-26,Scotland,Glasgow Sheriff Court,Magistrates Court,35,Male,White British,Low,15722,Fraud,Low,5,No,Urban,2232,191,0
+CASE_5803,UK,2022-09-01,Wales,Cardiff Crown Court,Crown Court,59,Male,Mixed,Medium,38606,Theft,High,4,Yes,Urban,22267,63,0
+CASE_5804,UK,2023-10-25,England,Birmingham Magistrates' Court,Magistrates Court,24,Female,Asian British,Medium,23491,Assault,High,4,No,Rural,91467,194,0
+CASE_5805,UK,2023-04-09,Wales,Cardiff Crown Court,Crown Court,24,Male,Asian British,High,222399,Fraud,High,3,Yes,Rural,36985,172,1
+CASE_5806,UK,2023-12-31,England,Birmingham Magistrates' Court,Magistrates Court,50,Female,Mixed,Medium,51445,Assault,Medium,2,No,Urban,13809,160,1
+CASE_5807,UK,2023-05-29,Scotland,Glasgow Sheriff Court,Magistrates Court,21,Male,Black British,Medium,30683,Assault,Medium,4,Yes,Rural,17432,89,0
+CASE_5808,UK,2022-06-28,England,Birmingham Magistrates' Court,Magistrates Court,35,Female,Black British,Low,16694,Assault,Medium,4,No,Rural,6323,200,0
+CASE_5809,UK,2024-01-03,England,Birmingham Magistrates' Court,Magistrates Court,67,Female,Asian British,Medium,48247,WhiteCollar,Medium,5,No,Urban,13874,85,0
+CASE_5810,UK,2022-09-03,England,Birmingham Magistrates' Court,Magistrates Court,52,Male,Asian British,High,253646,WhiteCollar,High,2,No,Urban,45662,145,0
+CASE_5811,UK,2022-02-26,England,Manchester Crown Court,Crown Court,56,Male,Other,High,269211,Assault,Medium,3,No,Urban,12797,51,1
+CASE_5812,UK,2023-06-16,Wales,Cardiff Crown Court,Crown Court,22,Female,Other,High,207043,Assault,Low,0,No,Urban,850,62,1
+CASE_5813,UK,2022-05-04,England,Westminster Magistrates' Court,Magistrates Court,30,Male,Other,Medium,36023,Theft,High,2,No,Rural,66852,178,0
+CASE_5814,UK,2022-09-25,England,Birmingham Magistrates' Court,Magistrates Court,22,Male,Other,High,196935,Theft,Low,0,Yes,Urban,782,116,1
+CASE_5815,UK,2022-04-15,England,Manchester Crown Court,Crown Court,52,Female,Other,Low,18981,Fraud,Low,2,Yes,Urban,985,83,1
+CASE_5816,UK,2023-04-03,Wales,Cardiff Crown Court,Crown Court,45,Female,Black British,Medium,20664,Assault,Medium,3,Yes,Urban,10976,180,1
+CASE_5817,UK,2023-01-18,England,Manchester Crown Court,Crown Court,59,Female,Asian British,Medium,26165,Fraud,High,5,No,Urban,89313,94,0
+CASE_5818,UK,2022-06-01,England,Manchester Crown Court,Crown Court,54,Male,Other,Medium,35853,Assault,High,2,No,Rural,32532,100,0
+CASE_5819,UK,2023-04-25,Scotland,Glasgow Sheriff Court,Magistrates Court,28,Female,Mixed,High,182810,Theft,Medium,0,No,Urban,12458,41,1
+CASE_5820,UK,2024-01-16,England,Westminster Magistrates' Court,Magistrates Court,29,Male,Mixed,Medium,44903,Fraud,High,0,Yes,Urban,55949,30,0
+CASE_5821,UK,2022-11-15,England,Manchester Crown Court,Crown Court,49,Male,Mixed,High,160645,WhiteCollar,Medium,5,No,Rural,13313,41,0
+CASE_5822,UK,2023-09-14,England,Westminster Magistrates' Court,Magistrates Court,36,Female,Black British,Low,16542,WhiteCollar,High,2,Yes,Rural,65146,155,0
+CASE_5823,UK,2024-01-21,Wales,Cardiff Crown Court,Crown Court,49,Male,White British,Medium,29136,WhiteCollar,Medium,3,Yes,Rural,7161,33,1
+CASE_5824,UK,2023-06-20,England,Birmingham Magistrates' Court,Magistrates Court,64,Female,Asian British,Medium,48827,Theft,Low,4,Yes,Rural,363,190,1
+CASE_5825,UK,2024-03-03,England,Birmingham Magistrates' Court,Magistrates Court,37,Female,Asian British,High,71349,Assault,Low,1,Yes,Urban,1269,189,1
+CASE_5826,UK,2023-05-21,Scotland,Glasgow Sheriff Court,Magistrates Court,59,Male,Asian British,High,151653,Fraud,High,2,Yes,Urban,66025,82,0
+CASE_5827,UK,2023-05-26,England,Westminster Magistrates' Court,Magistrates Court,62,Female,White British,Medium,40721,Fraud,Medium,0,Yes,Rural,13234,29,1
+CASE_5828,UK,2022-07-25,Scotland,Glasgow Sheriff Court,Magistrates Court,59,Female,Asian British,Low,17381,WhiteCollar,High,2,Yes,Urban,42119,199,0
+CASE_5829,UK,2022-07-02,England,Birmingham Magistrates' Court,Magistrates Court,65,Female,Asian British,High,249750,WhiteCollar,High,5,Yes,Rural,29188,91,0
+CASE_5830,UK,2022-05-12,Scotland,Glasgow Sheriff Court,Magistrates Court,46,Female,White British,Medium,29819,Fraud,Medium,3,Yes,Rural,10565,52,0
+CASE_5831,UK,2023-11-05,England,Birmingham Magistrates' Court,Magistrates Court,63,Male,Mixed,High,160298,Fraud,High,5,No,Urban,33670,60,0
+CASE_5832,UK,2022-06-30,England,Manchester Crown Court,Crown Court,45,Female,Other,High,147737,Assault,Medium,3,Yes,Urban,14958,65,1
+CASE_5833,UK,2024-02-24,Wales,Cardiff Crown Court,Crown Court,36,Female,Asian British,Low,16623,Theft,Medium,4,Yes,Rural,13160,114,1
+CASE_5834,UK,2023-10-24,England,Westminster Magistrates' Court,Magistrates Court,55,Male,Asian British,Medium,32644,WhiteCollar,Medium,5,No,Urban,13316,126,0
+CASE_5835,UK,2022-04-01,England,Westminster Magistrates' Court,Magistrates Court,25,Female,Other,Low,16411,WhiteCollar,Low,1,No,Urban,232,83,1
+CASE_5836,UK,2024-01-06,Wales,Cardiff Crown Court,Crown Court,30,Female,Asian British,Low,12707,Theft,Medium,5,Yes,Urban,6128,205,0
+CASE_5837,UK,2022-08-21,Wales,Cardiff Crown Court,Crown Court,51,Female,Asian British,Medium,42025,Fraud,Low,0,No,Rural,1622,202,1
+CASE_5838,UK,2022-09-09,Scotland,Glasgow Sheriff Court,Magistrates Court,30,Male,Mixed,High,280974,Assault,Medium,3,Yes,Urban,4393,52,1
+CASE_5839,UK,2023-01-02,Scotland,Glasgow Sheriff Court,Magistrates Court,42,Male,Other,Low,19072,Fraud,High,0,Yes,Rural,65074,218,0
+CASE_5840,UK,2022-02-16,England,Birmingham Magistrates' Court,Magistrates Court,56,Male,White British,Medium,34544,Assault,Low,5,Yes,Rural,2346,105,0
+CASE_5841,UK,2023-11-18,England,Birmingham Magistrates' Court,Magistrates Court,42,Female,Asian British,High,156924,WhiteCollar,Medium,0,Yes,Urban,7333,34,1
+CASE_5842,UK,2024-02-11,Wales,Cardiff Crown Court,Crown Court,55,Female,White British,Medium,22013,WhiteCollar,Low,3,Yes,Urban,661,139,1
+CASE_5843,UK,2022-05-03,England,Manchester Crown Court,Crown Court,59,Female,Mixed,Low,18008,Fraud,Medium,3,Yes,Rural,6606,78,0
+CASE_5844,UK,2022-05-29,England,Manchester Crown Court,Crown Court,20,Male,Other,Medium,32521,Fraud,High,4,Yes,Urban,64070,5,0
+CASE_5845,UK,2023-02-20,Scotland,Glasgow Sheriff Court,Magistrates Court,61,Male,White British,High,259885,Fraud,Low,5,No,Rural,1535,215,1
+CASE_5846,UK,2022-01-17,Wales,Cardiff Crown Court,Crown Court,53,Female,Asian British,Medium,44180,Assault,High,0,Yes,Urban,47109,130,1
+CASE_5847,UK,2023-10-13,England,Manchester Crown Court,Crown Court,64,Male,Other,Medium,33629,Assault,High,4,Yes,Urban,60119,174,0
+CASE_5848,UK,2023-06-04,Scotland,Glasgow Sheriff Court,Magistrates Court,24,Female,Mixed,Low,16011,WhiteCollar,Medium,2,No,Urban,2852,169,1
+CASE_5849,UK,2022-03-22,Wales,Cardiff Crown Court,Crown Court,35,Female,White British,Low,11488,Assault,High,5,No,Urban,15842,204,0
+CASE_5850,UK,2022-05-07,Wales,Cardiff Crown Court,Crown Court,21,Male,White British,Low,19165,WhiteCollar,Medium,0,Yes,Rural,9898,59,1
+CASE_5851,UK,2022-09-11,England,Westminster Magistrates' Court,Magistrates Court,31,Female,Black British,High,289423,Fraud,Low,2,No,Rural,1331,193,1
+CASE_5852,UK,2023-06-28,England,Westminster Magistrates' Court,Magistrates Court,42,Female,White British,Low,16825,Theft,Low,2,No,Rural,991,190,1
+CASE_5853,UK,2022-08-29,England,Birmingham Magistrates' Court,Magistrates Court,52,Female,Black British,High,101153,Fraud,High,0,Yes,Rural,32005,128,1
+CASE_5854,UK,2022-11-19,Wales,Cardiff Crown Court,Crown Court,60,Male,Asian British,Medium,52590,WhiteCollar,High,5,No,Rural,55585,155,0
+CASE_5855,UK,2022-08-25,England,Birmingham Magistrates' Court,Magistrates Court,53,Female,Asian British,Medium,25071,Assault,High,5,No,Rural,76736,116,0
+CASE_5856,UK,2022-05-29,England,Westminster Magistrates' Court,Magistrates Court,31,Male,Asian British,Low,12660,Theft,Low,5,No,Rural,989,179,0
+CASE_5857,UK,2022-06-07,England,Manchester Crown Court,Crown Court,65,Female,Other,Low,12687,Assault,Medium,2,No,Urban,12866,146,0
+CASE_5858,UK,2022-09-06,England,Manchester Crown Court,Crown Court,37,Male,Mixed,High,170281,WhiteCollar,High,1,Yes,Rural,57328,82,1
+CASE_5859,UK,2022-06-28,Wales,Cardiff Crown Court,Crown Court,63,Male,Mixed,Low,13984,WhiteCollar,Medium,1,No,Rural,13461,93,1
+CASE_5860,UK,2022-07-29,England,Westminster Magistrates' Court,Magistrates Court,43,Female,Asian British,High,294556,Theft,Medium,0,No,Rural,4589,117,1
+CASE_5861,UK,2022-11-27,England,Birmingham Magistrates' Court,Magistrates Court,29,Female,Black British,High,284120,WhiteCollar,High,5,Yes,Urban,51847,30,0
+CASE_5862,UK,2023-03-29,England,Manchester Crown Court,Crown Court,60,Female,Other,Low,17236,Assault,Medium,0,No,Urban,13042,148,0
+CASE_5863,UK,2022-06-20,Scotland,Glasgow Sheriff Court,Magistrates Court,33,Female,White British,Medium,21965,Theft,Low,4,Yes,Rural,2058,114,1
+CASE_5864,UK,2023-05-26,Wales,Cardiff Crown Court,Crown Court,29,Male,Black British,Low,13050,Fraud,Medium,2,No,Urban,16395,163,0
+CASE_5865,UK,2022-02-23,Scotland,Glasgow Sheriff Court,Magistrates Court,33,Male,Black British,Low,13184,WhiteCollar,High,5,Yes,Urban,40267,137,0
+CASE_5866,UK,2023-07-25,Wales,Cardiff Crown Court,Crown Court,38,Female,White British,Medium,38691,Fraud,Medium,1,No,Urban,3417,52,0
+CASE_5867,UK,2022-06-25,England,Manchester Crown Court,Crown Court,62,Male,Other,High,66324,Theft,Low,2,No,Rural,1317,59,1
+CASE_5868,UK,2023-12-19,England,Manchester Crown Court,Crown Court,35,Male,Mixed,Medium,31558,Assault,Medium,3,Yes,Rural,2827,142,1
+CASE_5869,UK,2024-01-30,Scotland,Glasgow Sheriff Court,Magistrates Court,66,Female,White British,High,149713,Fraud,Low,4,No,Rural,1028,156,1
+CASE_5870,UK,2024-01-13,Scotland,Glasgow Sheriff Court,Magistrates Court,24,Male,Mixed,High,165936,WhiteCollar,Low,1,No,Rural,1566,81,1
+CASE_5871,UK,2023-11-30,England,Birmingham Magistrates' Court,Magistrates Court,68,Female,Mixed,Low,19798,WhiteCollar,High,1,No,Rural,53821,177,1
+CASE_5872,UK,2022-09-06,Wales,Cardiff Crown Court,Crown Court,47,Female,Black British,Low,13276,Assault,High,4,Yes,Rural,80419,100,0
+CASE_5873,UK,2022-02-05,England,Birmingham Magistrates' Court,Magistrates Court,37,Female,Other,Low,13507,WhiteCollar,Medium,1,Yes,Urban,5501,125,1
+CASE_5874,UK,2024-02-26,England,Birmingham Magistrates' Court,Magistrates Court,53,Female,White British,Medium,49885,WhiteCollar,Medium,1,Yes,Urban,14980,85,0
+CASE_5875,UK,2022-12-20,England,Manchester Crown Court,Crown Court,40,Female,Other,High,151379,Assault,Medium,3,No,Rural,12479,168,0
+CASE_5876,UK,2022-08-07,England,Manchester Crown Court,Crown Court,58,Male,Black British,Low,15240,Theft,Low,1,No,Rural,2535,119,1
+CASE_5877,UK,2023-12-19,England,Birmingham Magistrates' Court,Magistrates Court,48,Male,Black British,Medium,35263,Fraud,Low,3,Yes,Urban,2274,165,1
+CASE_5878,UK,2023-05-02,England,Manchester Crown Court,Crown Court,33,Male,Mixed,Medium,33997,WhiteCollar,Medium,2,Yes,Urban,13353,156,0
+CASE_5879,UK,2022-07-13,England,Manchester Crown Court,Crown Court,45,Male,Asian British,High,232342,WhiteCollar,Medium,1,Yes,Rural,16594,57,1
+CASE_5880,UK,2022-05-21,England,Manchester Crown Court,Crown Court,62,Female,Other,Low,8913,WhiteCollar,High,0,No,Rural,17554,75,1
+CASE_5881,UK,2023-05-05,England,Westminster Magistrates' Court,Magistrates Court,29,Male,White British,Low,15731,Theft,Low,3,No,Urban,894,127,0
+CASE_5882,UK,2023-08-22,England,Westminster Magistrates' Court,Magistrates Court,62,Male,Other,High,293303,WhiteCollar,Low,2,No,Urban,218,104,1
+CASE_5883,UK,2024-01-09,Wales,Cardiff Crown Court,Crown Court,30,Male,Other,Medium,23708,Fraud,Low,1,No,Rural,1359,147,1
+CASE_5884,UK,2024-03-11,Wales,Cardiff Crown Court,Crown Court,45,Male,Other,High,88918,Theft,Medium,0,Yes,Urban,11194,152,1
+CASE_5885,UK,2022-07-14,Scotland,Glasgow Sheriff Court,Magistrates Court,32,Female,White British,Low,17652,Fraud,High,3,Yes,Urban,71617,190,1
+CASE_5886,UK,2023-04-29,England,Birmingham Magistrates' Court,Magistrates Court,64,Male,Other,Low,15459,Assault,Medium,4,Yes,Urban,10193,119,0
+CASE_5887,UK,2023-07-14,Wales,Cardiff Crown Court,Crown Court,62,Male,Other,High,175393,Assault,Medium,1,Yes,Urban,4537,152,0
+CASE_5888,UK,2023-04-04,England,Birmingham Magistrates' Court,Magistrates Court,35,Female,Black British,High,79848,Assault,Low,2,No,Rural,2247,133,1
+CASE_5889,UK,2022-02-13,Scotland,Glasgow Sheriff Court,Magistrates Court,57,Female,White British,Medium,33596,Theft,Low,4,No,Urban,1649,162,0
+CASE_5890,UK,2023-10-24,England,Manchester Crown Court,Crown Court,38,Male,Other,Medium,21745,WhiteCollar,Medium,1,Yes,Rural,7621,136,1
+CASE_5891,UK,2023-01-12,Scotland,Glasgow Sheriff Court,Magistrates Court,65,Female,Mixed,High,121254,Fraud,Medium,1,No,Rural,8568,163,1
+CASE_5892,UK,2022-03-22,Scotland,Glasgow Sheriff Court,Magistrates Court,18,Male,White British,Low,11780,WhiteCollar,Low,0,Yes,Urban,2093,169,1
+CASE_5893,UK,2022-09-26,England,Birmingham Magistrates' Court,Magistrates Court,68,Female,Other,Low,16897,Fraud,Medium,3,Yes,Rural,14216,225,0
+CASE_5894,UK,2023-04-28,Wales,Cardiff Crown Court,Crown Court,26,Male,White British,Medium,46125,WhiteCollar,Medium,5,Yes,Urban,4622,56,0
+CASE_5895,UK,2023-07-22,England,Birmingham Magistrates' Court,Magistrates Court,34,Male,White British,Low,15054,Assault,High,4,Yes,Urban,23440,130,0
+CASE_5896,UK,2023-10-10,England,Birmingham Magistrates' Court,Magistrates Court,49,Female,Black British,Medium,47695,WhiteCollar,Low,0,Yes,Rural,1700,81,1
+CASE_5897,UK,2022-06-26,Wales,Cardiff Crown Court,Crown Court,25,Female,Other,Low,14219,WhiteCollar,High,5,Yes,Rural,65438,220,0
+CASE_5898,UK,2023-12-24,England,Manchester Crown Court,Crown Court,65,Female,Mixed,Low,14259,Fraud,Medium,4,No,Urban,4823,118,0
+CASE_5899,UK,2023-10-10,Scotland,Glasgow Sheriff Court,Magistrates Court,67,Male,Asian British,Low,15286,Assault,Low,2,Yes,Urban,1383,135,1
+CASE_5900,UK,2023-04-02,England,Manchester Crown Court,Crown Court,29,Female,Mixed,Medium,50797,Fraud,Low,0,No,Urban,495,202,1
+CASE_5901,UK,2023-06-30,England,Westminster Magistrates' Court,Magistrates Court,52,Female,Black British,High,58343,WhiteCollar,Low,5,No,Urban,1070,106,1
+CASE_5902,UK,2023-12-28,Wales,Cardiff Crown Court,Crown Court,58,Female,Asian British,High,205067,WhiteCollar,Low,2,No,Urban,2748,173,1
+CASE_5903,UK,2022-05-31,England,Manchester Crown Court,Crown Court,65,Male,Asian British,High,80720,WhiteCollar,Medium,5,No,Urban,11118,155,0
+CASE_5904,UK,2023-04-04,England,Westminster Magistrates' Court,Magistrates Court,44,Female,White British,Medium,38055,Assault,Medium,2,Yes,Rural,5501,24,1
+CASE_5905,UK,2022-04-08,England,Birmingham Magistrates' Court,Magistrates Court,48,Male,Asian British,Medium,42391,Fraud,High,5,Yes,Urban,54996,107,0
+CASE_5906,UK,2022-10-17,Wales,Cardiff Crown Court,Crown Court,23,Male,Black British,Low,16731,Assault,Medium,4,Yes,Urban,13914,145,0
+CASE_5907,UK,2023-07-28,England,Birmingham Magistrates' Court,Magistrates Court,37,Male,Mixed,Low,16224,Fraud,High,0,No,Rural,69294,206,1
+CASE_5908,UK,2022-12-17,England,Manchester Crown Court,Crown Court,37,Male,Other,High,110429,Assault,High,5,Yes,Urban,66012,97,0
+CASE_5909,UK,2022-12-07,Scotland,Glasgow Sheriff Court,Magistrates Court,51,Male,White British,Low,9453,Assault,Low,0,Yes,Urban,1182,146,1
+CASE_5910,UK,2024-02-07,Wales,Cardiff Crown Court,Crown Court,64,Female,Asian British,High,262282,Fraud,Medium,0,No,Rural,10385,44,1
+CASE_5911,UK,2023-03-09,Scotland,Glasgow Sheriff Court,Magistrates Court,37,Female,Black British,Low,17839,WhiteCollar,Low,2,Yes,Urban,397,75,1
+CASE_5912,UK,2022-02-13,Scotland,Glasgow Sheriff Court,Magistrates Court,69,Male,White British,Low,11854,Assault,Medium,5,Yes,Rural,5590,51,0
+CASE_5913,UK,2024-02-02,Scotland,Glasgow Sheriff Court,Magistrates Court,38,Female,Other,Low,17992,Theft,High,1,No,Rural,27758,95,0
+CASE_5914,UK,2023-12-04,Scotland,Glasgow Sheriff Court,Magistrates Court,36,Female,Mixed,High,210651,Assault,Medium,2,Yes,Rural,6323,74,1
+CASE_5915,UK,2023-03-31,Scotland,Glasgow Sheriff Court,Magistrates Court,69,Male,White British,High,196356,Theft,High,3,Yes,Urban,22979,97,0
+CASE_5916,UK,2023-10-21,England,Manchester Crown Court,Crown Court,23,Female,Black British,Low,12902,WhiteCollar,Medium,4,Yes,Rural,10267,103,1
+CASE_5917,UK,2022-08-22,England,Birmingham Magistrates' Court,Magistrates Court,41,Female,Mixed,High,271263,Assault,Low,0,No,Urban,475,50,1
+CASE_5918,UK,2022-06-17,England,Birmingham Magistrates' Court,Magistrates Court,40,Male,Mixed,High,60554,WhiteCollar,Medium,5,No,Urban,4243,212,0
+CASE_5919,UK,2024-02-22,Wales,Cardiff Crown Court,Crown Court,64,Female,White British,High,122807,Fraud,Low,5,Yes,Rural,2114,32,0
+CASE_5920,UK,2023-10-19,England,Birmingham Magistrates' Court,Magistrates Court,24,Male,Asian British,Medium,50166,Fraud,High,5,Yes,Rural,59143,73,0
+CASE_5921,UK,2022-01-09,Scotland,Glasgow Sheriff Court,Magistrates Court,60,Male,Mixed,Medium,30313,Fraud,Low,4,No,Rural,1948,133,0
+CASE_5922,UK,2023-05-22,England,Birmingham Magistrates' Court,Magistrates Court,59,Female,Asian British,High,267081,Assault,Low,3,No,Urban,2094,103,1
+CASE_5923,UK,2023-07-19,England,Manchester Crown Court,Crown Court,35,Male,Mixed,High,62438,Theft,Low,5,No,Urban,240,128,0
+CASE_5924,UK,2023-04-28,England,Westminster Magistrates' Court,Magistrates Court,23,Male,Other,Low,16650,Fraud,Medium,4,Yes,Urban,14598,154,1
+CASE_5925,UK,2023-03-22,England,Manchester Crown Court,Crown Court,65,Male,White British,High,63505,Assault,Medium,1,Yes,Rural,10677,113,0
+CASE_5926,UK,2023-03-17,England,Westminster Magistrates' Court,Magistrates Court,34,Female,Black British,Low,13198,Fraud,High,2,Yes,Urban,44810,208,0
+CASE_5927,UK,2022-07-15,England,Manchester Crown Court,Crown Court,23,Female,Other,High,121224,Fraud,High,4,Yes,Rural,72271,57,0
+CASE_5928,UK,2022-12-05,Wales,Cardiff Crown Court,Crown Court,26,Female,Black British,High,160197,Assault,Medium,5,No,Rural,5549,183,0
+CASE_5929,UK,2022-03-14,England,Manchester Crown Court,Crown Court,19,Female,Black British,Low,16968,WhiteCollar,Low,2,Yes,Urban,2365,129,1
+CASE_5930,UK,2022-11-06,Wales,Cardiff Crown Court,Crown Court,36,Female,Black British,High,86445,Theft,Medium,3,No,Rural,13677,59,1
+CASE_5931,UK,2023-03-27,England,Manchester Crown Court,Crown Court,42,Female,Other,Low,12800,Theft,Low,2,No,Urban,1910,147,1
+CASE_5932,UK,2023-01-26,Wales,Cardiff Crown Court,Crown Court,29,Female,Asian British,Medium,26997,Assault,Low,5,Yes,Rural,904,145,0
+CASE_5933,UK,2022-02-08,England,Birmingham Magistrates' Court,Magistrates Court,25,Female,Black British,Medium,27289,Theft,Low,2,No,Urban,1583,161,1
+CASE_5934,UK,2023-05-12,Scotland,Glasgow Sheriff Court,Magistrates Court,66,Male,Black British,High,274179,Theft,High,3,Yes,Rural,71191,40,0
+CASE_5935,UK,2024-01-06,England,Manchester Crown Court,Crown Court,30,Female,Other,Medium,51045,WhiteCollar,Low,0,No,Urban,1706,89,1
+CASE_5936,UK,2023-04-16,England,Birmingham Magistrates' Court,Magistrates Court,46,Female,Asian British,Medium,20969,Fraud,Low,2,No,Urban,2275,21,1
+CASE_5937,UK,2022-04-19,Wales,Cardiff Crown Court,Crown Court,42,Female,Asian British,Medium,49256,Assault,Low,3,Yes,Urban,2305,157,1
+CASE_5938,UK,2022-11-06,England,Birmingham Magistrates' Court,Magistrates Court,18,Female,Other,High,209536,Fraud,Low,3,Yes,Urban,1143,142,1
+CASE_5939,UK,2022-11-01,Scotland,Glasgow Sheriff Court,Magistrates Court,27,Female,White British,High,78262,Theft,High,5,No,Urban,67015,114,0
+CASE_5940,UK,2022-03-28,England,Birmingham Magistrates' Court,Magistrates Court,36,Male,Mixed,Medium,51298,Assault,High,3,Yes,Urban,32457,44,0
+CASE_5941,UK,2022-03-17,England,Manchester Crown Court,Crown Court,51,Male,Black British,High,125865,Fraud,High,1,Yes,Rural,29155,186,1
+CASE_5942,UK,2023-02-26,England,Manchester Crown Court,Crown Court,51,Male,Black British,Low,18053,Assault,High,3,No,Urban,78581,242,0
+CASE_5943,UK,2022-11-10,England,Westminster Magistrates' Court,Magistrates Court,26,Female,Asian British,Low,8667,WhiteCollar,Medium,4,Yes,Urban,14164,115,0
+CASE_5944,UK,2022-03-27,England,Manchester Crown Court,Crown Court,56,Male,Black British,Low,19437,WhiteCollar,High,1,Yes,Urban,60655,197,0
+CASE_5945,UK,2023-07-25,Wales,Cardiff Crown Court,Crown Court,29,Male,Asian British,Medium,38500,Assault,Low,0,No,Urban,2642,83,1
+CASE_5946,UK,2023-09-16,England,Manchester Crown Court,Crown Court,38,Female,Black British,Low,18263,WhiteCollar,Low,4,Yes,Rural,2930,162,0
+CASE_5947,UK,2022-09-24,England,Westminster Magistrates' Court,Magistrates Court,20,Female,White British,Medium,37205,WhiteCollar,Low,5,No,Urban,2403,103,0
+CASE_5948,UK,2022-09-30,England,Westminster Magistrates' Court,Magistrates Court,24,Male,White British,Medium,21314,WhiteCollar,Low,0,Yes,Rural,438,22,1
+CASE_5949,UK,2024-02-04,England,Westminster Magistrates' Court,Magistrates Court,51,Male,Asian British,Low,9653,Assault,Low,4,No,Rural,1695,187,1
+CASE_5950,UK,2023-04-27,Wales,Cardiff Crown Court,Crown Court,70,Male,Mixed,Low,11336,Theft,Medium,2,No,Urban,5510,133,1
+CASE_5951,UK,2022-04-03,England,Westminster Magistrates' Court,Magistrates Court,29,Male,Black British,Medium,26429,Theft,Low,3,No,Urban,2237,110,1
+CASE_5952,UK,2024-03-07,Wales,Cardiff Crown Court,Crown Court,43,Male,Other,Medium,52727,Assault,Medium,1,Yes,Rural,14296,115,1
+CASE_5953,UK,2022-08-23,Wales,Cardiff Crown Court,Crown Court,32,Female,Black British,High,228257,Assault,Medium,4,Yes,Rural,12262,200,0
+CASE_5954,UK,2022-02-25,England,Manchester Crown Court,Crown Court,50,Female,White British,Medium,36686,Theft,Low,0,No,Urban,205,33,1
+CASE_5955,UK,2022-02-27,England,Manchester Crown Court,Crown Court,59,Male,Black British,Medium,32678,Fraud,Medium,2,No,Rural,3294,118,0
+CASE_5956,UK,2022-02-16,England,Manchester Crown Court,Crown Court,54,Male,White British,High,108397,Theft,High,2,Yes,Rural,26246,175,0
+CASE_5957,UK,2022-09-01,England,Birmingham Magistrates' Court,Magistrates Court,50,Male,Mixed,Medium,22739,WhiteCollar,Low,4,Yes,Urban,2197,160,0
+CASE_5958,UK,2023-07-23,England,Manchester Crown Court,Crown Court,35,Male,White British,Low,8128,WhiteCollar,High,3,No,Urban,22933,117,0
+CASE_5959,UK,2023-04-25,Wales,Cardiff Crown Court,Crown Court,41,Female,Asian British,High,216515,Fraud,High,4,Yes,Rural,54600,37,0
+CASE_5960,UK,2022-06-30,England,Manchester Crown Court,Crown Court,38,Female,Mixed,High,214908,Theft,High,1,No,Urban,24372,119,0
+CASE_5961,UK,2023-05-26,England,Birmingham Magistrates' Court,Magistrates Court,19,Male,Asian British,Low,8346,WhiteCollar,High,1,No,Rural,64469,112,0
+CASE_5962,UK,2022-01-29,Wales,Cardiff Crown Court,Crown Court,66,Male,Black British,Medium,36180,Fraud,Low,3,Yes,Rural,2006,156,1
+CASE_5963,UK,2023-09-16,England,Birmingham Magistrates' Court,Magistrates Court,26,Female,Other,Medium,46991,Fraud,High,3,No,Urban,44407,178,0
+CASE_5964,UK,2023-05-13,England,Manchester Crown Court,Crown Court,23,Female,Other,Medium,51360,Assault,Medium,3,No,Urban,11490,67,0
+CASE_5965,UK,2022-01-08,England,Manchester Crown Court,Crown Court,67,Male,White British,Low,18090,Fraud,Low,2,No,Urban,612,148,1
+CASE_5966,UK,2023-10-11,England,Westminster Magistrates' Court,Magistrates Court,21,Female,Mixed,Low,13991,WhiteCollar,Low,2,Yes,Urban,1436,89,1
+CASE_5967,UK,2024-02-04,England,Birmingham Magistrates' Court,Magistrates Court,20,Female,Mixed,High,218901,Fraud,High,2,No,Urban,37762,154,0
+CASE_5968,UK,2023-05-17,England,Westminster Magistrates' Court,Magistrates Court,62,Male,Mixed,High,292658,Assault,Medium,5,No,Urban,10806,24,0
+CASE_5969,UK,2023-07-17,Scotland,Glasgow Sheriff Court,Magistrates Court,41,Male,Black British,Medium,27027,WhiteCollar,High,1,Yes,Rural,59850,27,0
+CASE_5970,UK,2023-03-23,Wales,Cardiff Crown Court,Crown Court,22,Male,Mixed,High,56626,Fraud,Medium,2,No,Urban,8728,62,1
+CASE_5971,UK,2024-01-12,England,Westminster Magistrates' Court,Magistrates Court,69,Male,Black British,High,173226,Theft,Low,1,No,Rural,2563,139,1
+CASE_5972,UK,2023-04-22,England,Manchester Crown Court,Crown Court,22,Female,White British,High,82014,Theft,High,3,Yes,Urban,51183,39,0
+CASE_5973,UK,2022-09-06,England,Westminster Magistrates' Court,Magistrates Court,31,Male,Asian British,Low,9074,Fraud,Low,3,Yes,Rural,1356,93,1
+CASE_5974,UK,2022-04-18,England,Manchester Crown Court,Crown Court,64,Female,Black British,High,126149,Assault,High,3,Yes,Rural,83587,95,0
+CASE_5975,UK,2022-11-22,England,Westminster Magistrates' Court,Magistrates Court,45,Female,Other,Medium,29078,Fraud,High,1,Yes,Rural,47643,145,0
+CASE_5976,UK,2022-03-14,England,Manchester Crown Court,Crown Court,53,Female,White British,High,228706,WhiteCollar,High,2,Yes,Rural,73889,115,0
+CASE_5977,UK,2023-08-04,Wales,Cardiff Crown Court,Crown Court,35,Female,Black British,Medium,21725,Theft,High,1,No,Rural,70782,201,1
+CASE_5978,UK,2023-06-01,England,Westminster Magistrates' Court,Magistrates Court,35,Male,Black British,High,175453,Assault,High,0,No,Urban,31573,156,1
+CASE_5979,UK,2023-11-26,England,Westminster Magistrates' Court,Magistrates Court,66,Male,White British,High,266655,Fraud,Low,0,No,Urban,481,126,1
+CASE_5980,UK,2022-09-24,Scotland,Glasgow Sheriff Court,Magistrates Court,57,Male,White British,Low,15442,Fraud,Low,5,No,Rural,571,220,0
+CASE_5981,UK,2023-04-27,England,Birmingham Magistrates' Court,Magistrates Court,61,Female,Asian British,Medium,48529,Theft,Low,0,No,Rural,2976,127,1
+CASE_5982,UK,2023-05-25,Scotland,Glasgow Sheriff Court,Magistrates Court,47,Female,Mixed,Low,10496,Fraud,High,0,No,Urban,42862,139,0
+CASE_5983,UK,2022-02-21,England,Birmingham Magistrates' Court,Magistrates Court,54,Male,White British,Medium,24157,WhiteCollar,High,1,No,Urban,25443,124,0
+CASE_5984,UK,2022-08-21,England,Manchester Crown Court,Crown Court,45,Female,Asian British,Low,15481,WhiteCollar,Low,0,Yes,Urban,2673,106,1
+CASE_5985,UK,2022-08-22,England,Westminster Magistrates' Court,Magistrates Court,33,Male,White British,Low,8188,Theft,Low,1,Yes,Rural,2016,31,1
+CASE_5986,UK,2022-09-23,Wales,Cardiff Crown Court,Crown Court,29,Female,Mixed,High,70993,Assault,Low,3,Yes,Rural,779,33,1
+CASE_5987,UK,2022-02-16,Wales,Cardiff Crown Court,Crown Court,59,Female,Asian British,Low,13431,Assault,Medium,5,No,Rural,7344,198,0
+CASE_5988,UK,2022-08-18,Wales,Cardiff Crown Court,Crown Court,45,Female,Asian British,Medium,27381,Theft,Medium,3,No,Rural,18114,194,0
+CASE_5989,UK,2023-08-11,England,Manchester Crown Court,Crown Court,30,Male,Other,Low,18639,Assault,Medium,0,No,Rural,12760,97,1
+CASE_5990,UK,2022-01-25,England,Birmingham Magistrates' Court,Magistrates Court,49,Female,White British,Low,13110,Assault,Medium,1,No,Urban,8768,55,0
+CASE_5991,UK,2022-05-15,Scotland,Glasgow Sheriff Court,Magistrates Court,33,Male,Asian British,High,261396,Theft,Medium,3,No,Rural,8377,174,1
+CASE_5992,UK,2022-07-30,England,Birmingham Magistrates' Court,Magistrates Court,21,Female,Black British,Low,16263,Theft,Medium,2,Yes,Rural,7670,187,1
+CASE_5993,UK,2023-04-13,Wales,Cardiff Crown Court,Crown Court,24,Male,White British,Medium,51460,WhiteCollar,Medium,0,Yes,Rural,9937,19,1
+CASE_5994,UK,2022-10-29,Scotland,Glasgow Sheriff Court,Magistrates Court,58,Female,Black British,Low,17489,Fraud,Low,4,Yes,Urban,817,119,0
+CASE_5995,UK,2023-03-10,England,Birmingham Magistrates' Court,Magistrates Court,56,Male,Asian British,Medium,35977,Assault,Low,4,No,Urban,1656,91,0
+CASE_5996,UK,2023-01-09,England,Westminster Magistrates' Court,Magistrates Court,43,Male,White British,High,267771,Theft,Low,3,Yes,Rural,2029,149,1
+CASE_5997,UK,2023-08-27,Wales,Cardiff Crown Court,Crown Court,41,Female,Asian British,Low,8230,Assault,Low,1,Yes,Urban,2187,58,0
+CASE_5998,UK,2022-12-27,Wales,Cardiff Crown Court,Crown Court,45,Male,White British,Low,17838,WhiteCollar,Low,5,Yes,Rural,398,151,1
+CASE_5999,UK,2023-07-10,England,Birmingham Magistrates' Court,Magistrates Court,50,Male,Other,Medium,47841,Fraud,Medium,1,Yes,Rural,14269,171,1

@@ -1,0 +1,178 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;0,800;1,400;1,600;1,700&family=JetBrains+Mono:wght@300;400;500;700&family=Lato:wght@300;400;600&display=swap');
+@import 'tailwindcss';
+
+/* ── DESIGN TOKENS ───────────────────────────────────────── */
+:root {
+  --ink:          #08090E;
+  --surface:      #0F1117;
+  --surface-2:    #161920;
+  --border:       rgba(255, 255, 255, 0.06);
+  --border-lit:   rgba(255, 255, 255, 0.12);
+
+  --white:        #E8E4DC;
+  --white-dim:    rgba(232, 228, 220, 0.5);
+  --white-ghost:  rgba(232, 228, 220, 0.2);
+
+  --red:          #DC2626;
+  --red-glow:     rgba(220, 38, 38, 0.15);
+  --red-dim:      rgba(220, 38, 38, 0.1);
+
+  --gold:         #B8860B;
+  --gold-bright:  #D4A017;
+  --gold-dim:     rgba(184, 134, 11, 0.1);
+
+  --green:        #16A34A;
+  --green-glow:   rgba(22, 163, 74, 0.12);
+  --green-dim:    rgba(22, 163, 74, 0.1);
+
+  --amber:        #D97706;
+  --amber-dim:    rgba(217, 119, 6, 0.1);
+
+  --font-display: 'Cormorant Garamond', Georgia, serif;
+  --font-mono:    'JetBrains Mono', 'Courier New', monospace;
+  --font-body:    'Lato', system-ui, sans-serif;
+}
+
+/* ── BASE ────────────────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  background: var(--ink);
+  color: var(--white);
+  font-family: var(--font-body);
+  font-weight: 400;
+  line-height: 1.6;
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+/* ── GRAIN NOISE ─────────────────────────────────────────── */
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.035'/%3E%3C/svg%3E");
+  pointer-events: none;
+  z-index: 9999;
+}
+
+/* ── GRID BACKGROUND ─────────────────────────────────────── */
+.grid-bg {
+  position: fixed;
+  inset: 0;
+  background-image:
+    linear-gradient(rgba(255, 255, 255, 0.018) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255, 255, 255, 0.018) 1px, transparent 1px);
+  background-size: 52px 52px;
+  pointer-events: none;
+  z-index: 0;
+}
+
+/* ── SECTION LABEL ───────────────────────────────────────── */
+.section-label {
+  font-family: var(--font-mono);
+  font-size: 0.62rem;
+  letter-spacing: 0.28em;
+  text-transform: uppercase;
+  color: var(--gold-bright);
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+.section-label::after {
+  content: '';
+  height: 1px;
+  width: 60px;
+  background: var(--gold);
+  opacity: 0.35;
+}
+
+/* ── KEYFRAMES ───────────────────────────────────────────── */
+@keyframes stampIn {
+  0%   { opacity: 0; transform: translateY(-50%) rotate(-6deg) scale(1.5); }
+  60%  { opacity: 1; transform: translateY(-50%) rotate(-6deg) scale(0.95); }
+  100% { opacity: 0.9; transform: translateY(-50%) rotate(-6deg) scale(1); }
+}
+
+@keyframes meterFill {
+  from { width: 0%; }
+  to   { width: var(--target-width); }
+}
+
+@keyframes rowIn {
+  from { opacity: 0; transform: translateX(-16px); }
+  to   { opacity: 1; transform: translateX(0); }
+}
+
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(20px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+
+@keyframes pulseDot {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50%       { opacity: 0.3; transform: scale(0.5); }
+}
+
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+
+@keyframes toastSlide {
+  from { opacity: 0; transform: translateY(16px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+/* ── METER FILL ──────────────────────────────────────────── */
+.meter-fill {
+  height: 100%;
+  width: 0%;
+  animation: meterFill 1.2s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+  animation-play-state: paused;
+}
+.meter-fill.animate {
+  animation-play-state: running;
+}
+
+/* ── ROW STAGGER ─────────────────────────────────────────── */
+.breakdown-row {
+  opacity: 0;
+  animation: rowIn 0.4s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+  animation-play-state: paused;
+}
+.breakdown-row.animate {
+  animation-play-state: running;
+}
+
+/* ── VERDICT STAMP ───────────────────────────────────────── */
+.verdict-stamp {
+  position: absolute;
+  right: 80px;
+  top: 50%;
+  transform: translateY(-50%) rotate(-6deg) scale(1);
+  opacity: 0;
+  animation: stampIn 0.6s cubic-bezier(0.34, 1.56, 0.64, 1) forwards;
+  animation-play-state: paused;
+}
+.verdict-stamp.animate {
+  animation-play-state: running;
+}
+
+/* ── HERO ANIMATIONS ─────────────────────────────────────── */
+.hero-line {
+  opacity: 0;
+  animation: fadeUp 0.7s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+/* ── SCROLLBAR ───────────────────────────────────────────── */
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: var(--ink); }
+::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.1); border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: rgba(255,255,255,0.18); }

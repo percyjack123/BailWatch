@@ -1,0 +1,12 @@
+# BailWatch Flask API — Python dependencies
+# Install with: pip install -r requirements.txt
+
+flask>=3.0.0
+flask-cors>=4.0.0
+pandas>=2.0.0
+
+# Only needed if EXPLANATION_ENGINE=gemini or auto
+# google-genai>=0.8.0
+
+# Only needed for test_gemini.py
+# python-dotenv>=1.0.0
