@@ -14,7 +14,7 @@ CORS(app)  # Allow cross-origin requests (required for deployment)
 # ── FIX F1: Default to local so no external API key is needed ────────────────
 # Set EXPLANATION_ENGINE=gemini in .env ONLY if you want to re-enable Gemini.
 ENGINE       = os.getenv("EXPLANATION_ENGINE", "local")
-GEMINI_MODEL = os.getenv("GEMINI_MODEL", "gemini-2.0-flash")
+GEMINI_MODEL = os.getenv("GEMINI_MODEL", "gemini-1.5-flash")
 
 # Simple in-memory cache: dataset_id -> explanation dict
 _explanation_cache = {}
