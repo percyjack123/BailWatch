@@ -6,7 +6,7 @@ import { formatBytes } from '../utils/biasUtils'
 
 const STEPS    = ['Upload CSV', 'Ingest Records', 'Run Audit', 'View Results']
 const API_BASE = import.meta.env.VITE_API_URL || ''
-
+const BASE = import.meta.env.VITE_API_BASE
 // Country display config — maps API country key → display name + flag emoji
 const COUNTRY_META = {
   INDIA: { flag: '🇮🇳', name: 'India' },
@@ -79,10 +79,7 @@ export default function UploadPage() {
       // Step 1: Upload CSV
       const form = new FormData()
       form.append('file', file)
-      const uploadRes = await withTimeout(
-        fetch(`${API_BASE}/api/audit/upload`, { method: 'POST', body: form }),
-        15000, 'Upload'
-      )
+      const uploadRes = await fetch(`${BASE}/api/audit/upload`, { method: 'POST', body: form })
       if (!uploadRes.ok) {
         const err = await uploadRes.json().catch(() => ({}))
         throw new Error(err.error || `Upload failed (${uploadRes.status})`)
@@ -91,10 +88,7 @@ export default function UploadPage() {
       setCurrentStep(2)
 
       // Step 2: Run audit
-      const auditRes = await withTimeout(
-        fetch(`${API_BASE}/api/audit/run/${datasetId}`),
-        30000, 'Audit'
-      )
+      const auditRes = await fetch(`${BASE}/api/audit/run/${datasetId}`)
       if (!auditRes.ok) {
         const err = await auditRes.json().catch(() => ({}))
         throw new Error(err.error || `Audit failed (${auditRes.status})`)
