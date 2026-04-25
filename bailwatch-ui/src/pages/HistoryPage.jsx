@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react'
 import { useNavigate } from 'react-router-dom'
 import Toast from '../components/Toast'
 
-const API_BASE = import.meta.env.VITE_API_URL || ''
+const BASE = import.meta.env.VITE_API_BASE 
 
 const COUNTRY_FLAG = { INDIA: '🇮🇳', UK: '🇬🇧', USA: '🇺🇸' }
 
