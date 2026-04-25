@@ -17,7 +17,7 @@ export default function HistoryPage() {
   const clearToast = () => setToast({ message: '', type: 'error' })
 
   useEffect(() => {
-    fetch(`${BASE}/api/audit/stats/history`)
+    fetch(`${BASE}/api/audit/history`)
       .then((r) => r.ok ? r.json() : [])
       .then((data) => { setHistory(data); setLoading(false) })
       .catch(() => { setLoading(false); showToast('Could not load audit history.') })
