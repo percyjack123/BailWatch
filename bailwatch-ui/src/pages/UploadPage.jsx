@@ -6,7 +6,7 @@ import { formatBytes } from '../utils/biasUtils'
 
 const STEPS    = ['Upload CSV', 'Ingest Records', 'Run Audit', 'View Results']
 
-const BASE = import.meta.env.VITE_API_BASE 
+const BASE = import.meta.env.VITE_API_BASE || ''
 // Country display config — maps API country key → display name + flag emoji
 const COUNTRY_META = {
   INDIA: { flag: '🇮🇳', name: 'India' },
