@@ -1,7 +1,7 @@
 import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom'
 import AboutPage   from './pages/AboutPage'
 import UploadPage  from './pages/UploadPage'
-import ResultsPage from './pages/Resultspage'
+import ResultsPage from './pages/ResultsPage'
 import HistoryPage from './pages/HistoryPage'
 import Navbar      from './components/Navbar'
 
