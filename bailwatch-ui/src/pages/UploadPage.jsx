@@ -31,7 +31,7 @@ export default function UploadPage() {
 
   // ── Fetch live stats from Spring Boot on mount ──────────────────────────
   useEffect(() => {
-    fetch(`${API_BASE}/api/audit/stats`)
+    fetch(`${BASE}/api/audit/stats`)
       .then((r) => r.ok ? r.json() : null)
       .then((data) => { if (data) setStats(data) })
       .catch(() => { /* stats unavailable — UI falls back gracefully */ })
@@ -100,7 +100,7 @@ export default function UploadPage() {
       await new Promise((r) => setTimeout(r, 400))
 
       // Refresh stats after a successful upload so hero numbers update
-      fetch(`${API_BASE}/api/audit/stats`)
+      fetch(`${BASE}/api/audit/stats`)
         .then((r) => r.ok ? r.json() : null)
         .then((data) => { if (data) setStats(data) })
         .catch(() => {})

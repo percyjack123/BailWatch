@@ -17,7 +17,7 @@ export default function HistoryPage() {
   const clearToast = () => setToast({ message: '', type: 'error' })
 
   useEffect(() => {
-    fetch(`${API_BASE}/api/audit/history`)
+    fetch(`${BASE}/api/audit/stats/history`)
       .then((r) => r.ok ? r.json() : [])
       .then((data) => { setHistory(data); setLoading(false) })
       .catch(() => { setLoading(false); showToast('Could not load audit history.') })
@@ -26,7 +26,7 @@ export default function HistoryPage() {
   const reRunAudit = async (datasetId) => {
     setRunning(datasetId)
     try {
-      const res = await fetch(`${API_BASE}/api/audit/run/${datasetId}`)
+      const res = await fetch(`${BASE}/api/audit/run/${datasetId}`)
       if (!res.ok) {
         const err = await res.json().catch(() => ({}))
         throw new Error(err.error || `Audit failed (${res.status})`)
