@@ -17,8 +17,8 @@ public class BailwatchApplication {
 	@Bean
 	public RestTemplate restTemplate() {
 		SimpleClientHttpRequestFactory factory = new SimpleClientHttpRequestFactory();
-		factory.setConnectTimeout(3000);   // 3 seconds to establish connection
-		factory.setReadTimeout(15000);     // 15 seconds to wait for Flask response
+		factory.setConnectTimeout(10000);   // 3 seconds to establish connection
+		factory.setReadTimeout(60000);     // 15 seconds to wait for Flask response
 		return new RestTemplate(factory);
 	}
 
